@@ -1,0 +1,246 @@
+body{
+    --ribbon-width:20px; /* 侧边栏宽度 */
+    /* 去除下划线 */
+    --link-external-decoration:none;
+    --link-decoration:none;
+    
+    /* 中划线 */
+    /* --link-external-decoration:none; */
+    /* --color-strikethrough: transparent !important; */
+}
+
+/* 看板文字距离 */
+.workspace-split.mod-vertical.mod-root .markdown-preview-view {
+    padding-inline: 0px !important;
+}
+
+/* 隐藏纵向滚动条 */
+::-webkit-scrollbar {
+    width: 0px !important;
+}  
+
+
+/* 左侧边栏 */
+.workspace-ribbon .sidebar-toggle-button .clickable-icon{
+    margin-left: 15px;
+ }
+ 
+ .workspace-ribbon .side-dock-actions,
+ .workspace-ribbon .side-dock-settings{
+     display: none;
+ }
+
+ /* 状态栏 */
+body:is(:not(.css-settings-manager),.toggle-status-bar) .status-bar{
+    bottom: 0px;
+    background-color: transparent;
+    color:transparent;
+    border-color: transparent;
+    margin-right: 44px;
+    opacity: 0;
+} 
+body:is(:not(.css-settings-manager),.toggle-status-bar) .status-bar:hover{
+    opacity: 1;
+}
+.status-bar-item.plugin-auto-note-mover,
+.status-bar-item.mod-clickable{
+    display: none;
+}
+body:is(:not(.css-settings-manager),.toggle-status-bar) .status-bar:hover .status-bar-item{
+    color:#737f93;
+}
+
+/* 去除链接下划线 */
+a, .external-link{
+    text-decoration: none;
+}
+/* 未创建链接 */
+.markdown-source-view.mod-cm6 .is-unresolved .cm-underline {
+    opacity: 0.7;
+}
+
+/* 看板 */
+.kanban-plugin__item.is-complete :is(.markdown-preview-view>div *, .kanban-plugin__item-metadata-wrapper:not(:empty) *){
+    text-decoration:none;
+}
+
+/* 需要区分明暗主题 */
+
+/* 标题*/
+.cm-header-1{
+    color: #aeafaf;
+}
+.cm-header-2{
+    color: #3e8ced;
+}
+.cm-header-3{
+    /* color: #9ab486; */
+    color: #a59f76;
+}
+.cm-header-4{
+    color: #b48ead;
+}
+.cm-header-5{
+    color: #8ebbba;
+}
+.cm-header-5{
+    color: #80a0c0;
+}
+
+/* 代码 */
+/* 注释 */
+.cm-s-obsidian span.cm-comment {
+    color: #d1d7e2d8;
+}
+    /* 函数 */
+.token.entity, .token.parameter, .token.property, .token.url, .language-css .token.string, .style .token.string, .token.variable, .cm-link, .cm-variable, .cm-variable-2, .cm-variable-3 {
+    color:#88bfcf;
+}
+    /* 方法 */
+.token.atrule, .token.attr-value, .token.builtin, .token.function, .token.class-name, .token.property-access, .cm-builtin, .cm-property, .cm-attribute, .cm-type{
+    color: #e5c689;
+}
+    /* 变量 */
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-codeblock{
+    color:#88bfcf
+}
+    /* 字符串 */
+token.selector, .token.attr-name, .token.string, .token.char, .token.inserted, .cm-qualifier, .cm-string, .cm-string-2 {
+    color: #4ea468;
+}
+    /* 运算符 */
+.token.operator, .cm-operator {
+    color: #cb5c52;
+}
+    /* 关键词 */
+.token.keyword, .cm-keyword{
+    color: #c5709e;
+}
+
+/* 加粗 */
+.HyperMD-quote .cm-strong,
+strong, .cm-strong{
+    /* color:#bd626c !important; */
+    color:#609072 !important;
+}
+
+/* 高亮日历文件 */
+.calendar .filled{
+    stroke: #ccc !important;
+    fill: #ccc !important;
+}
+.calendar .task{
+    stroke: #ccc !important;
+}
+/* 选中框 */
+.day.svelte-q3wqg9:active, .active.svelte-q3wqg9, .active.today.svelte-q3wqg9{
+    /* background-color: #3e7b3b !important; */
+    background-color: #6079a6 !important;
+}
+/* 高亮今日文字 */
+#calendar-container .today{
+    color: #ddd;
+}
+
+/* 高亮今日文件 */
+#calendar-container .today:hover{
+    color: #fff;
+    background-color: #6079a6;
+}
+/* .today .filled{
+    stroke: #ddd !important;
+    fill: #ddd !important;
+}
+.today.task{
+    fill: #ddd !important;
+} */
+.today:hover .filled{
+    stroke: #fff !important;
+    fill: #fff !important;
+}
+.today:hover .task{
+    stroke: #fff !important;
+}
+
+
+/* callout */
+/* .callout{
+    background-color: #282f39;
+    background-color: #212730;
+    color: beige;
+    padding:10px;
+} */
+
+a.tag,
+.markdown-rendered .internal-link,
+.markdown-source-view.mod-cm6 .edit-block-button,
+.callout li::marker,
+.callout strong,
+.callout .external-link,
+.callout-icon .svg-icon,
+.callout-title{
+    /* color: rgb(223, 220, 220) !important; */
+}
+
+/* .callout-content{
+    margin-top: -10px;
+    margin-bottom: -10px;
+} */
+
+
+
+/* outline对齐 */
+.outline {
+    padding: 10px 10px;
+}
+
+.outline .tree-item-self {
+    font-weight: 500;
+    padding: 0;
+    margin: 0;
+}
+
+.outline .tree-item-self .collapse-icon {
+    position: relative;
+    margin-left: -2px;
+    margin-right: -3px;
+}
+
+.outline .tree-item-inner {
+    align-items: flex-start;
+    position: relative;
+    padding: 5px 3px;
+    line-height: 1;
+}
+
+.outline .tree-item-inner::before {
+    flex-shrink: 0;
+    content: "●";
+    font-family: sans-serif;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    width: 12px;
+    height: 12px;
+    font-size: 10px;
+    position: relative;
+    top: -0.1em;
+    color: #4b586c;
+    margin-right: -1px;
+}
+
+.outline .tree-item-inner:not(:only-child)::before {
+    /* 去除高级标题的样式 */
+    display: none;
+}
+
+/* .outline .tree-item-children {
+    margin-left: 13px;
+} */
+
+/* outline箭头 */
+body:not(.minimal-icons-off) svg.right-triangle{
+    /* background-color: #c78aab; */
+    /* color:#808da4; */
+}
+

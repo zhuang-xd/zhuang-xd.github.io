@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "4b1466b83548e22b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb275c5445ec23db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f56585df87bb82e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/STM32MP157裸机开发环境搭建.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3051022b4e35b9c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b518eef6bcc0bf7e",
+        "type": "tabs",
+        "dimension": 46.82926829268293,
+        "children": [
+          {
+            "id": "c5c300b6f7ab7cfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac364eb77ecb9a3a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "pages/STM32MP157裸机开发环境搭建.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": false,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.496527777777778,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 92,
+                  "scale": 1.0387440653241053,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "50e5ac41b8093b36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5c951c2808b2b812",
+        "type": "tabs",
+        "dimension": 53.17073170731707,
+        "children": [
+          {
+            "id": "fa28fd5f60fbff89",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "eafcf902c3bfe127",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8f9e9166e07ca1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "4a979136b41cb68f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pages/STM32MP157裸机开发环境搭建.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250
+  },
+  "right": {
+    "id": "4ad17b90582ceb95",
+    "type": "split",
+    "children": [
+      {
+        "id": "34d7666e3b5274d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28f102f647c36033",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/STM32MP157裸机开发环境搭建.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:插入模板": true,
+      "switcher:打开快速切换": true,
+      "graph:查看关系图谱": true,
+      "daily-notes:打开/创建今天的日记": true,
+      "command-palette:打开命令面板": true,
+      "random-note:开始漫游笔记": true,
+      "workspaces:管理工作区布局": true,
+      "canvas:新建白板": false,
+      "obsidian-file-cleaner:清理文件": false,
+      "open-vscode:VSCode": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "9f56585df87bb82e",
+  "lastOpenFiles": [
+    "journals/2023-06-05.md",
+    "pages/index.md",
+    "pages/ARM汇编.md",
+    "pages/STM32MP157裸机开发环境搭建.md",
+    "index.md",
+    "20230605204551162.canvas",
+    "pages/Linux-arm交叉编译环境搭建.md",
+    "public/asstes/STM32MP157裸机开发环境搭建.zip",
+    "public/asstes",
+    "public/新建文件夹",
+    "pages/windows-arm交叉编译环境搭建.md",
+    "pages/M4开发环境搭建.md",
+    "pages/ST-LINK驱动.md",
+    "journals/index.md",
+    "pages/pc寄存器.md",
+    "pages/test.md",
+    "pages/assets/20230605190052262.png",
+    "public/images/logo.gif",
+    "public/images/home.gif",
+    "public/images",
+    "public/iamges/logo.gif",
+    "public/iamges/home.gif",
+    "public/iamges",
+    "public/assets/logo.gif",
+    "public/assets/home.gif",
+    "public/assets",
+    "public/logo.gif",
+    "public/home.gif",
+    "public/20230605184343525.gif",
+    "journals/assets",
+    "page/test.md",
+    "page",
+    "node_modules/vitepress/template/index.md",
+    "node_modules/vitepress/template/markdown-examples.md",
+    "node_modules/vitepress/template/api-examples.md",
+    "node_modules/vitepress/template",
+    "node_modules/@babel/parser/typings/babel-parser.d.ts",
+    "node_modules/shiki/README.md",
+    "node_modules/preact/README.md",
+    "node_modules/vitepress/README.md",
+    "node_modules/vite/README.md",
+    "node_modules/vite/LICENSE.md",
+    "node_modules/vue/README.md",
+    "node_modules/glob/README.md",
+    "node_modules/minimatch/README.md",
+    "node_modules/@vue/compiler-sfc/README.md",
+    "2023-06-05.canvas",
+    "文件IO.canvas",
+    "others/C语言.canvas",
+    "阅读CSAPP.canvas",
+    "编程语言.canvas"
+  ]
+}

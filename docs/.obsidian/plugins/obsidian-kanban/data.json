@@ -1,0 +1,8 @@
+{
+  "new-note-template": "ignore/templates/instance_template.md",
+  "new-note-folder": "ignore/projects",
+  "show-relative-date": true,
+  "hide-date-in-title": true,
+  "link-date-to-daily-note": false,
+  "hide-tags-in-title": true
+}

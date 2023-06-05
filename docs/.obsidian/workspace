@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "4b1466b83548e22b",
+    "type": "split",
+    "children": [
+      {
+        "id": "99591d20d3496b8d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "logs/inputs/P40 webpack 高级-减少Babel生成文件的体积.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3051022b4e35b9c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d7804d41a0ab7b9",
+        "type": "tabs",
+        "dimension": 68.20349761526232,
+        "children": [
+          {
+            "id": "1199a0d0f0cfb111",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8f9e9166e07ca1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#archive",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "50e5ac41b8093b36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cce72046e62b337a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "logs/inputs/P40 webpack 高级-减少Babel生成文件的体积.md"
+              }
+            }
+          },
+          {
+            "id": "9f72851ba9e0235c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "79df51650ac6f8b8",
+        "type": "tabs",
+        "dimension": 31.79650238473768,
+        "children": [
+          {
+            "id": "0cb64f6ef956c50a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "9544c57bade8889f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "4ad17b90582ceb95",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a70063bb140969d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "900c3e3aa2b92114",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "logs/inputs/P40 webpack 高级-减少Babel生成文件的体积.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3bebe5015b83464a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "logs/inputs/P40 webpack 高级-减少Babel生成文件的体积.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "file:+Homepage",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16768256
+                      }
+                    },
+                    {
+                      "query": "tag:#input/project",
+                      "color": {
+                        "a": 1,
+                        "rgb": 2914098
+                      }
+                    },
+                    {
+                      "query": "tag:#input",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4541814
+                      }
+                    },
+                    {
+                      "query": "/",
+                      "color": {
+                        "a": 1,
+                        "rgb": 8731965
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.523764258555133,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 170,
+                  "scale": 1.1129595783206943,
+                  "close": true
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361.5,
+    "collapsed": true
+  },
+  "active": "50e5ac41b8093b36",
+  "lastOpenFiles": [
+    "logs/templates/temp_template.md",
+    "logs/inputs/P40 webpack 高级-减少Babel生成文件的体积.md",
+    "logs/inputs/projects/学习WebPack5.md",
+    "logs/inputs/P39 webpack 高级-TreeShaking.md",
+    "logs/inputs/P38 webpack 高级-多进程打包.md",
+    "logs/+Homepage.md",
+    "logs/inputs/projects/练习typingclue.md",
+    "webpack.md",
+    "JavaScript.md",
+    "Regular Expression.md"
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "choices": [
+    {
+      "id": "ce381979-752d-4178-87fc-9895a98fddd8",
+      "name": "bilibili video note",
+      "type": "Macro",
+      "command": false,
+      "macroId": "c6ec6b46-c47e-40e5-b27f-bc43535775df"
+    },
+    {
+      "id": "a19835a4-68c7-4cd1-bdcf-861ea612103c",
+      "name": "new mindmap",
+      "type": "Template",
+      "command": false,
+      "templatePath": "public/templates/mindmap_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:filename}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": true,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "73dbee31-c257-4a8b-8283-3b8bd4af3df4",
+      "name": "new note",
+      "type": "Macro",
+      "command": false,
+      "macroId": "7de8aee0-8a81-4b2e-a0b4-35360fc4eb2d"
+    },
+    {
+      "id": "e1fff848-9d17-4f4f-b041-960a118d9555",
+      "name": "timeline",
+      "type": "Macro",
+      "command": false,
+      "macroId": "3870d89e-578c-42c9-9cef-8810a0de8d1f"
+    },
+    {
+      "id": "bdc078d5-231a-4f49-b295-cc6cafef7bc5",
+      "name": "md-link",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "{{VALUE:文件名}}",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "[{{VALUE:文件名}}](pages/{{VALUE:文件名}}.md)"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [
+    {
+      "name": "bilibili视频笔记",
+      "id": "c6ec6b46-c47e-40e5-b27f-bc43535775df",
+      "commands": [
+        {
+          "name": "bilibili",
+          "type": "UserScript",
+          "id": "90d7ff6e-ecdc-42ac-8d9b-4531de537ed2",
+          "path": "_ignore/scripts/bilibili.js",
+          "settings": {}
+        },
+        {
+          "name": "bilibili视频笔记",
+          "type": "NestedChoice",
+          "id": "e20872b2-38f2-47f0-b2a1-066982a09d6d",
+          "choice": {
+            "id": "fa384d06-2122-4871-b97b-60152e38549c",
+            "name": "bilibili视频笔记",
+            "type": "Template",
+            "command": false,
+            "templatePath": "_ignore/templates/video-note_template.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:filename}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "ignore/projects"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": false
+            },
+            "openFile": true,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "add to projects",
+          "type": "NestedChoice",
+          "id": "9c6d7b1e-673a-43e1-9895-ebb03f033e67",
+          "choice": {
+            "id": "d0c65be6-b665-42a3-b2b4-69b28d5273ed",
+            "name": "add to projects",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "_ignore/+projects.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "[[{{VALUE:filename}}]] @{{{DATE}}}"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "## 项目队列",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": true,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "new note",
+      "id": "7de8aee0-8a81-4b2e-a0b4-35360fc4eb2d",
+      "commands": [
+        {
+          "name": "newfile",
+          "type": "NestedChoice",
+          "id": "54e5b021-e3aa-44ba-822d-daa14aa60570",
+          "choice": {
+            "id": "706fbafc-6a45-4244-8603-1beb08963424",
+            "name": "newfile",
+            "type": "Template",
+            "command": false,
+            "templatePath": "public/templates/default_template.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:filename}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "resources"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": false
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "fileExistsMode": "Nothing"
+          }
+        },
+        {
+          "name": "add to inbox",
+          "type": "NestedChoice",
+          "id": "93e3df07-1b65-42fc-aa53-05d4ba322e3c",
+          "choice": {
+            "id": "95e1f75c-6663-451c-aead-137ab8ac4133",
+            "name": "add to inbox",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "inbox/{{date}}.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "[{{VALUE:filename}}](/resources/{{VALUE:filename}}.md) #tofile\n"
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": true,
+            "task": true,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "add to timeline",
+          "type": "NestedChoice",
+          "id": "e76c42ed-e8ae-4444-ad2c-f34676c19bc9",
+          "choice": {
+            "id": "00561a0b-6b37-434c-83c3-09b143e28dda",
+            "name": "add to timeline",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "timeline/index.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "- [{{VALUE:filename}}](/resources/{{VALUE:filename}}.md)\n"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "::: timeline {{date}}",
+              "insertAtEnd": false,
+              "considerSubsections": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "timeline",
+      "id": "3870d89e-578c-42c9-9cef-8810a0de8d1f",
+      "commands": [
+        {
+          "name": "start",
+          "type": "NestedChoice",
+          "id": "b640d6c6-6052-49f1-8a81-a5ad3b5c9cf0",
+          "choice": {
+            "id": "b3d65cef-de7d-4663-81ea-8e0df7a7d82c",
+            "name": "start",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "timeline/index.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "\n::: timeline {{date}}"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "# 时间轴",
+              "insertAtEnd": false,
+              "considerSubsections": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "end",
+          "type": "NestedChoice",
+          "id": "7c72a665-d426-4c3b-bd61-1a36cecf7413",
+          "choice": {
+            "id": "5a4c6d65-b25a-47d8-9f1d-780de68d2930",
+            "name": "end",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "timeline/index.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "\n:::\n\n"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "::: timeline {{date}}",
+              "insertAtEnd": false,
+              "considerSubsections": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "new",
+      "id": "f2a1e09f-4def-4122-815c-2b8b275642ea",
+      "commands": [],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "1.0.2",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

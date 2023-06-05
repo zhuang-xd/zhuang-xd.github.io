@@ -1,0 +1,114 @@
+/* color */
+.theme-dark,
+.theme-light{
+    --red: #61bf67 !important;
+    --text-accent:#61bf67;
+    --text-accent-hover:#79f181;
+    --icon-color-focused:#cbcfd8;
+    --h2-color: #3e8dee;
+    --nav-item-color-active:#fff;
+    --nav-item-background-active:#2e6231;
+    --checkbox-radius: 10px;
+    --interactive-accent:#386f3b;
+    --calendar-today:var(--red);
+}
+
+/* callout */
+.callout {
+    /* background-color: #bf616a; */
+    background-color: #37743a;
+    /* background-color: #d0d6e1; */
+    color: beige;
+    padding:10px;
+}
+
+.markdown-rendered .internal-link,
+.markdown-source-view.mod-cm6 .edit-block-button,
+.callout li::marker,
+.callout strong,
+.callout .external-link,
+.callout-icon .svg-icon,
+.callout-title{
+    color: rgb(255, 255, 255);
+}
+
+.callout-content{
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+
+/* font */
+strong, .cm-strong{
+    /* color: rgb(157, 183, 226); */
+    color: #d26973;
+    font-weight: bolder;
+}
+
+/* bar */
+.clickable-icon.is-active:hover,
+.clickable-icon.is-active{
+    color: #5e81ac;
+    background-color: #dadde2;
+}
+
+/* embed */
+.markdown-embed {
+    border-left: none;
+    padding: 0;
+    /* margin: -10px 0 -35px; */
+    margin: -5px 0 -5px;
+}
+.markdown-embed-title{
+    color: #d26973;
+}
+
+/* outline对齐 */
+.outline {
+    padding: 10px 10px;
+}
+
+.outline .tree-item-self {
+    font-weight: 500;
+    padding: 0;
+    margin: 0;
+}
+
+.outline .tree-item-self .collapse-icon {
+    position: relative;
+    margin-left: -2px;
+    margin-right: -3px;
+}
+
+.outline .tree-item-inner {
+    align-items: flex-start;
+    position: relative;
+    padding: 5px 3px;
+    line-height: 1;
+}
+
+.outline .tree-item-inner::before {
+    flex-shrink: 0;
+    content: "●";
+    font-family: sans-serif;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    width: 12px;
+    height: 12px;
+    font-size: 10px;
+    position: relative;
+    top: -0.1em;
+}
+
+.outline .tree-item-inner:not(:only-child)::before {
+    display: none;
+}
+
+.outline .tree-item-children {
+    margin-left: 13px;
+}
+
+.markdown-source-view.mod-cm6 .is-unresolved {
+    opacity: 0.3;
+}
+

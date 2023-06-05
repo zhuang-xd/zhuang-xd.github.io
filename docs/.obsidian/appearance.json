@@ -1,0 +1,14 @@
+{
+  "cssTheme": "Mado 11",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "heading",
+    "mado11"
+  ],
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "translucency": false,
+  "accentColor": "#5c8cbc",
+  "showViewHeader": false,
+  "nativeMenus": false
+}

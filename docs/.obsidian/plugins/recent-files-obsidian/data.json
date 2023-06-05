@@ -1,0 +1,51 @@
+{
+  "recentFiles": [
+    {
+      "basename": "STM32MP157裸机开发环境搭建",
+      "path": "pages/STM32MP157裸机开发环境搭建.md"
+    },
+    {
+      "basename": "2023-06-05",
+      "path": "journals/2023-06-05.md"
+    },
+    {
+      "basename": "index",
+      "path": "pages/index.md"
+    },
+    {
+      "basename": "ARM汇编",
+      "path": "pages/ARM汇编.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Linux-arm交叉编译环境搭建",
+      "path": "pages/Linux-arm交叉编译环境搭建.md"
+    },
+    {
+      "basename": "index",
+      "path": "journals/index.md"
+    },
+    {
+      "basename": "pc寄存器",
+      "path": "pages/pc寄存器.md"
+    },
+    {
+      "basename": "20230605182409068",
+      "path": "pages/assets/20230605182409068.png"
+    },
+    {
+      "basename": "daily_template",
+      "path": "public/templates/daily_template.md"
+    },
+    {
+      "basename": "mindmap_template",
+      "path": "public/templates/mindmap_template.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

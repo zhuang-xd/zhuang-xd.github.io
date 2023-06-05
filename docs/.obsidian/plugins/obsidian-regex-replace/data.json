@@ -1,0 +1,10 @@
+{
+  "findText": "[[\\w*]]",
+  "replaceText": "[$1]($1.md)",
+  "useRegEx": true,
+  "selOnly": false,
+  "caseInsensitive": true,
+  "processLineBreak": true,
+  "processTab": false,
+  "prefillFind": true
+}
