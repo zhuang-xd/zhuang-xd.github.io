@@ -719,19 +719,10 @@
   ],
   "obsidian-mindmap-nextgen:mindmapnextgen:pinned": [],
   "obsidian-mindmap-nextgen:mindmapnextgen:unpinned": [],
-  "graph:open-local": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "G"
-    }
-  ],
   "graph:open": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
       "key": "G"
     }
@@ -826,6 +817,15 @@
         "Mod"
       ],
       "key": "N"
+    }
+  ],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
     }
   ]
 }

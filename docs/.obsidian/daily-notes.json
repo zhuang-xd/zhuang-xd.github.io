@@ -1,5 +1,5 @@
 {
   "autorun": true,
   "folder": "journals",
-  "template": ""
+  "template": "public/templates/daily_template"
 }

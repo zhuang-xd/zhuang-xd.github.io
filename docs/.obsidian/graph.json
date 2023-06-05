@@ -1,21 +1,21 @@
 {
   "collapse-filter": true,
-  "search": "-path:ignore",
+  "search": "path:pages",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#dir",
+      "query": "tag:#支撑",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "tag:#link",
+      "query": "tag:#概念",
       "color": {
         "a": 1,
         "rgb": 13853796
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3995208214623192,
+  "scale": 1.1009499234752929,
   "close": true
 }

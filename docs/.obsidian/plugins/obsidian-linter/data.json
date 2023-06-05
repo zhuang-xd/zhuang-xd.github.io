@@ -22,7 +22,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "aliases: \ntags: "
+      "text-to-insert": "aliases: \ntags: 待标记"
     },
     "move-tags-to-yaml": {
       "enabled": false,
@@ -241,7 +241,7 @@
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
     "journals",
-    ""
+    "public"
   ],
   "linterLocale": "system-default",
   "logLevel": 4,

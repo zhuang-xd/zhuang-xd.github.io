@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/STM32MP157裸机开发环境搭建.md",
+                "file": "journals/2023-06-06.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +32,7 @@
       {
         "id": "b518eef6bcc0bf7e",
         "type": "tabs",
-        "dimension": 46.82926829268293,
+        "dimension": 46.82926829268294,
         "children": [
           {
             "id": "c5c300b6f7ab7cfd",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "ac364eb77ecb9a3a",
+            "id": "d80b8552394d7d01",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/STM32MP157裸机开发环境搭建.md",
+                "file": "journals/2023-06-06.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -71,12 +71,12 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.496527777777778,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
-                  "linkDistance": 92,
-                  "scale": 1.0387440653241053,
+                  "linkDistance": 94,
+                  "scale": 0.9999999999999996,
                   "close": true
                 }
               }
@@ -92,12 +92,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5c951c2808b2b812",
         "type": "tabs",
-        "dimension": 53.17073170731707,
+        "dimension": 53.17073170731706,
         "children": [
           {
             "id": "fa28fd5f60fbff89",
@@ -113,7 +114,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -124,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#支撑",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/STM32MP157裸机开发环境搭建.md"
+                "file": "journals/2023-06-06.md"
               }
             }
           }
@@ -164,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/STM32MP157裸机开发环境搭建.md",
+                "file": "journals/2023-06-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,10 +198,30 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "9f56585df87bb82e",
+  "active": "eafcf902c3bfe127",
   "lastOpenFiles": [
     "journals/2023-06-05.md",
+    "journals/2023-06-06.md",
     "pages/index.md",
+    "pages/SPSR寄存器.md",
+    "pages/IRQ异常示例.md",
+    "pages/2023-06-04.md",
+    "pages/ARM异常返回.md",
+    "journals/index.md",
+    "public/templates/daily_template.md",
+    "pages/PC寄存器.md",
+    "pages/ARM特殊寄存器.md",
+    "pages/LR寄存器.md",
+    "pages/pc寄存器.md",
+    "pages/CPSR寄存器.md",
+    "pages/ARM异常响应.md",
+    "pages/异常向量表.md",
+    "pages/assets/20230606062122082.png",
+    "pages/assets/20230606060820478.png",
+    "pages/assets/20230606060410690.png",
+    "pages/assets/20230606060339525.png",
+    "pages/{{date-1}}.md",
+    "pages/assets/20230606054200408.png",
     "pages/ARM汇编.md",
     "pages/STM32MP157裸机开发环境搭建.md",
     "index.md",
@@ -212,8 +233,6 @@
     "pages/windows-arm交叉编译环境搭建.md",
     "pages/M4开发环境搭建.md",
     "pages/ST-LINK驱动.md",
-    "journals/index.md",
-    "pages/pc寄存器.md",
     "pages/test.md",
     "pages/assets/20230605190052262.png",
     "public/images/logo.gif",
@@ -222,29 +241,12 @@
     "public/iamges/logo.gif",
     "public/iamges/home.gif",
     "public/iamges",
-    "public/assets/logo.gif",
-    "public/assets/home.gif",
     "public/assets",
-    "public/logo.gif",
-    "public/home.gif",
-    "public/20230605184343525.gif",
     "journals/assets",
     "page/test.md",
     "page",
-    "node_modules/vitepress/template/index.md",
-    "node_modules/vitepress/template/markdown-examples.md",
-    "node_modules/vitepress/template/api-examples.md",
     "node_modules/vitepress/template",
     "node_modules/@babel/parser/typings/babel-parser.d.ts",
-    "node_modules/shiki/README.md",
-    "node_modules/preact/README.md",
-    "node_modules/vitepress/README.md",
-    "node_modules/vite/README.md",
-    "node_modules/vite/LICENSE.md",
-    "node_modules/vue/README.md",
-    "node_modules/glob/README.md",
-    "node_modules/minimatch/README.md",
-    "node_modules/@vue/compiler-sfc/README.md",
     "2023-06-05.canvas",
     "文件IO.canvas",
     "others/C语言.canvas",
