@@ -1,13 +1,9 @@
----
-mindmap-plugin: basic
-markmap:
-  colorFreezeLevel: 2
-  initialExpandLevel: 2
-  maxWidth: 300
----
+# {{date}}
+> [昨天](2023-06-05.md)
 
-# {{title}}
-
-
-
-<%* tp- -%>
+- ## 任务
+	- 
+- ## 补充
+	- 
+- ## arm-day04
+	- 
