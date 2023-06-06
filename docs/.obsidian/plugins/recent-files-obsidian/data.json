@@ -1,84 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "PC寄存器",
-      "path": "pages/PC寄存器.md"
-    },
-    {
-      "basename": "ARM特殊寄存器",
-      "path": "pages/ARM特殊寄存器.md"
-    },
-    {
-      "basename": "2023-06-05",
-      "path": "journals/2023-06-05.md"
-    },
-    {
       "basename": "2023-06-06",
       "path": "journals/2023-06-06.md"
+    },
+    {
+      "basename": "点亮FSMP1A开发板的LED1",
+      "path": "pages/点亮FSMP1A开发板的LED1.md"
+    },
+    {
+      "basename": "STM32MP157",
+      "path": "pages/STM32MP157.md"
+    },
+    {
+      "basename": "LED灯控制实现",
+      "path": "pages/LED灯控制实现.md"
+    },
+    {
+      "basename": "通过特殊功能寄存器配置GPIO",
+      "path": "pages/通过特殊功能寄存器配置GPIO.md"
+    },
+    {
+      "basename": "输出速度设置寄存器",
+      "path": "pages/输出速度设置寄存器.md"
+    },
+    {
+      "basename": "GPIO端口输出类型寄存器",
+      "path": "pages/GPIO端口输出类型寄存器.md"
+    },
+    {
+      "basename": "GPIO端口模式寄存器",
+      "path": "pages/GPIO端口模式寄存器.md"
+    },
+    {
+      "basename": "GPIO输出数据寄存器",
+      "path": "pages/GPIO输出数据寄存器.md"
+    },
+    {
+      "basename": "GPIO输入数据寄存器",
+      "path": "pages/GPIO输入数据寄存器.md"
+    },
+    {
+      "basename": "开启外部时钟",
+      "path": "pages/开启外部时钟.md"
+    },
+    {
+      "basename": "RCC模块",
+      "path": "pages/RCC模块.md"
+    },
+    {
+      "basename": "芯片手册分析",
+      "path": "pages/芯片手册分析.md"
+    },
+    {
+      "basename": "寻找基地址",
+      "path": "pages/寻找基地址.md"
+    },
+    {
+      "basename": "依据网络标号，在开发板的资源扩展板上查询 LED1 的 GPIO",
+      "path": "pages/依据网络标号，在开发板的资源扩展板上查询 LED1 的 GPIO.md"
+    },
+    {
+      "basename": "查看LED1的原理图，寻找对应的网络标号",
+      "path": "pages/查看LED1的原理图，寻找对应的网络标号.md"
+    },
+    {
+      "basename": "GPIO控制器的工作原理",
+      "path": "pages/GPIO控制器的工作原理.md"
+    },
+    {
+      "basename": "Bit set or reset registers方式和from on-chip peripheral的区别",
+      "path": "pages/Bit set or reset registers方式和from on-chip peripheral的区别.md"
+    },
+    {
+      "basename": "Bit setreset registers方式和from on-chip peripheral的区别",
+      "path": "pages/Bit setreset registers方式和from on-chip peripheral的区别.md"
+    },
+    {
+      "basename": "时钟",
+      "path": "pages/时钟.md"
+    },
+    {
+      "basename": "特殊功能寄存器组织",
+      "path": "pages/特殊功能寄存器组织.md"
+    },
+    {
+      "basename": "ARM汇编实现三盏灯的流水",
+      "path": "pages/ARM汇编实现三盏灯的流水.md"
+    },
+    {
+      "basename": "编写汇编程序控制 GPIO 控制器 和 RCC 进行工作",
+      "path": "pages/编写汇编程序控制 GPIO 控制器 和 RCC 进行工作.md"
+    },
+    {
+      "basename": "时钟和晶振有什么区别",
+      "path": "pages/时钟和晶振有什么区别.md"
+    },
+    {
+      "basename": "Cortex-A",
+      "path": "pages/Cortex-A.md"
+    },
+    {
+      "basename": "ARM产品",
+      "path": "pages/ARM产品.md"
+    },
+    {
+      "basename": "FSMP1A开发板数据手册",
+      "path": "pages/FSMP1A开发板数据手册.md"
+    },
+    {
+      "basename": "ARMv7特殊功能寄存器",
+      "path": "pages/ARMv7特殊功能寄存器.md"
+    },
+    {
+      "basename": "Cortex-A7",
+      "path": "pages/Cortex-A7.md"
+    },
+    {
+      "basename": "GPIO控制器",
+      "path": "pages/GPIO控制器.md"
+    },
+    {
+      "basename": "FSMP1A开发板的LED1电路分析",
+      "path": "pages/FSMP1A开发板的LED1电路分析.md"
+    },
+    {
+      "basename": "三极管",
+      "path": "pages/三极管.md"
+    },
+    {
+      "basename": "LED1原理图",
+      "path": "pages/LED1原理图.md"
+    },
+    {
+      "basename": "LED1 电路分析",
+      "path": "pages/LED1 电路分析.md"
+    },
+    {
+      "basename": "FSMP1A开发板",
+      "path": "pages/FSMP1A开发板.md"
+    },
+    {
+      "basename": "FSMP1A开发板硬件资源",
+      "path": "pages/FSMP1A开发板硬件资源.md"
+    },
+    {
+      "basename": "STM32MP157a",
+      "path": "pages/STM32MP157a.md"
     },
     {
       "basename": "index",
       "path": "pages/index.md"
     },
     {
-      "basename": "ARM异常响应",
-      "path": "pages/ARM异常响应.md"
+      "basename": "RAM",
+      "path": "pages/RAM.md"
     },
     {
-      "basename": "SPSR寄存器",
-      "path": "pages/SPSR寄存器.md"
+      "basename": "Flash",
+      "path": "pages/Flash.md"
     },
     {
-      "basename": "ARM汇编",
-      "path": "pages/ARM汇编.md"
+      "basename": "ARM内核",
+      "path": "pages/ARM内核.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
+      "basename": "SOC",
+      "path": "pages/SOC.md"
     },
     {
-      "basename": "CPSR寄存器",
-      "path": "pages/CPSR寄存器.md"
+      "basename": "Makefile中CC和CXX有啥区别",
+      "path": "pages/Makefile中CC和CXX有啥区别.md"
     },
     {
-      "basename": "IRQ异常示例",
-      "path": "pages/IRQ异常示例.md"
+      "basename": "RAM和FLASH的区别",
+      "path": "pages/RAM和FLASH的区别.md"
     },
     {
-      "basename": "ARM异常返回",
-      "path": "pages/ARM异常返回.md"
+      "basename": "soc和cpu的区别",
+      "path": "pages/soc和cpu的区别.md"
     },
     {
-      "basename": "index",
-      "path": "journals/index.md"
+      "basename": "Cortex-M",
+      "path": "pages/Cortex-M.md"
     },
     {
-      "basename": "daily_template",
-      "path": "public/templates/daily_template.md"
+      "basename": "vss和vdd",
+      "path": "pages/vss和vdd.md"
     },
     {
-      "basename": "LR寄存器",
-      "path": "pages/LR寄存器.md"
+      "basename": "ARMv7架构",
+      "path": "pages/ARMv7架构.md"
     },
     {
-      "basename": "异常向量表",
-      "path": "pages/异常向量表.md"
+      "basename": "Thumb-2指令集",
+      "path": "pages/Thumb-2指令集.md"
     },
     {
-      "basename": "STM32MP157裸机开发环境搭建",
-      "path": "pages/STM32MP157裸机开发环境搭建.md"
-    },
-    {
-      "basename": "Linux-arm交叉编译环境搭建",
-      "path": "pages/Linux-arm交叉编译环境搭建.md"
-    },
-    {
-      "basename": "20230605182409068",
-      "path": "pages/assets/20230605182409068.png"
-    },
-    {
-      "basename": "mindmap_template",
-      "path": "public/templates/mindmap_template.md"
+      "basename": "ARM架构",
+      "path": "pages/ARM架构.md"
     }
   ],
   "omittedPaths": [],

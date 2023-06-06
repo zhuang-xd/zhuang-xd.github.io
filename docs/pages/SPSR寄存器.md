@@ -1,6 +1,6 @@
 ---
 aliases: [Saved Program Status Register, SPSR]
-tags: 概念, 待优化
+tags: [待成文]
 title: SPSR寄存器
 date: 2023-06-06
 ---

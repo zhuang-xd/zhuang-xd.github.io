@@ -1,6 +1,6 @@
 ---
 aliases: [PC, Program Counter]
-tags: 待标记
+tags: 待成文
 title: PC寄存器
 date: 2023-06-06
 ---

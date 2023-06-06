@@ -1,5 +1,5 @@
 ---
-tags: 概念, 待优化
+tags: 待成文 
 aliases: [CPSR, Current Program Status Register, 程序状态寄存器]
 title: CPSR寄存器
 date: 2023-06-06

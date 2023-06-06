@@ -9,7 +9,7 @@
       "force-yaml-escape-keys": ""
     },
     "format-tags-in-yaml": {
-      "enabled": false
+      "enabled": true
     },
     "format-yaml-array": {
       "enabled": false,
@@ -22,7 +22,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "aliases: \ntags: 待标记"
+      "text-to-insert": "tags: 待成文\naliases: "
     },
     "move-tags-to-yaml": {
       "enabled": false,

@@ -1,6 +1,6 @@
 ---
 aliases: [LR, Link Register]
-tags: 待标记
+tags: 待成文
 title: LR
 date: 2023-06-06
 linter-yaml-title-alias: LR

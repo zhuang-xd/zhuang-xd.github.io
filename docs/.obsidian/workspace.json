@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "bb275c5445ec23db",
+        "id": "1c57d4dfe6b9106d",
         "type": "tabs",
         "children": [
           {
-            "id": "9f56585df87bb82e",
+            "id": "591344338c87bdd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/PC寄存器.md",
+                "file": "pages/通过特殊功能寄存器配置GPIO.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d57bef490e77f40b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2023-06-06.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -32,7 +46,7 @@
       {
         "id": "b518eef6bcc0bf7e",
         "type": "tabs",
-        "dimension": 50.63694267515923,
+        "dimension": 49.68152866242039,
         "children": [
           {
             "id": "c5c300b6f7ab7cfd",
@@ -53,7 +67,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/PC寄存器.md",
+                "file": "journals/2023-06-06.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -100,12 +114,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "5c951c2808b2b812",
         "type": "tabs",
-        "dimension": 49.36305732484077,
+        "dimension": 50.31847133757961,
         "children": [
           {
             "id": "eafcf902c3bfe127",
@@ -124,8 +139,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#支撑",
-                "matchingCase": false,
+                "query": "开发板",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -139,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/PC寄存器.md"
+                "file": "journals/2023-06-06.md"
               }
             }
           },
@@ -160,7 +175,31 @@
   "right": {
     "id": "4ad17b90582ceb95",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "5895debc0170598a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "380ece82f949a1b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "journals/2023-06-06.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 229.5,
     "collapsed": true
@@ -172,63 +211,64 @@
       "graph:查看关系图谱": true,
       "daily-notes:打开/创建今天的日记": true,
       "command-palette:打开命令面板": true,
-      "random-note:开始漫游笔记": true,
+      "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": true,
-      "canvas:新建白板": false,
+      "canvas:新建白板": true,
       "obsidian-file-cleaner:清理文件": false,
       "open-vscode:VSCode": false,
-      "obsidian-jump-to-date-plugin:Jump-to-Date": false
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9f56585df87bb82e",
+  "active": "d57bef490e77f40b",
   "lastOpenFiles": [
-    "pages/ARM特殊寄存器.md",
-    "pages/PC寄存器.md",
-    "journals/2023-06-05.md",
+    "pages/点亮FSMP1A开发板的LED1.md",
+    "pages/STM32MP157.md",
+    "pages/LED灯控制实现.md",
+    "pages/通过特殊功能寄存器配置GPIO.md",
+    "pages/输出速度设置寄存器.md",
+    "pages/GPIO端口输出类型寄存器.md",
+    "pages/GPIO端口模式寄存器.md",
+    "pages/GPIO输出数据寄存器.md",
+    "pages/GPIO输入数据寄存器.md",
+    "pages/寄存器基地址查找.md",
     "journals/2023-06-06.md",
-    "pages/index.md",
-    "Excalidraw/Drawing 2023-06-06 08.39.40.excalidraw.md",
+    "pages/rcc相关寄存器配置.md",
+    "pages/开启外部时钟.md",
+    "pages/RCC模块.md",
+    "pages/芯片手册分析.md",
+    "pages/寻找基地址.md",
+    "pages/依据网络标号，在开发板的资源扩展板上查询 LED1 的 GPIO.md",
+    "pages/查看LED1的原理图，寻找对应的网络标号.md",
+    "pages/assets/20230606225309063.png",
+    "pages/assets/20230606225300674.png",
+    "pages/GPIO控制器的工作原理.md",
+    "pages/Bit set or reset registers方式和from on-chip peripheral的区别.md",
+    "pages/Bit setreset registers方式和from on-chip peripheral的区别.md",
+    "pages/时钟.md",
+    "pages/特殊功能寄存器组织.md",
+    "pages/GPIO控制器工作原理.md",
+    "pages/ARM汇编实现三盏灯的流水.md",
+    "pages/assets/20230606224510458.png",
+    "pages/编写汇编程序控制 GPIO 控制器 和 RCC 进行工作.md",
+    "pages/assets/20230606222709497.png",
+    "pages/assets/20230606220300484.png",
+    "pages/assets/20230606220236144.png",
+    "pages/assets/20230606220002060.png",
+    "pages/assets/20230606215850009.png",
+    "pages/assets/20230606215650723.png",
+    "pages/assets/20230606210502094.png",
+    "GPIO上拉/assets",
+    "GPIO上拉",
+    "timeline",
+    "Bit set",
     "Excalidraw",
-    "pages/ARM异常响应.md",
-    "pages/SPSR寄存器.md",
-    "pages/ARM汇编.md",
-    "index.md",
-    "pages/CPSR寄存器.md",
-    "pages/IRQ异常示例.md",
-    "pages/2023-06-04.md",
-    "pages/ARM异常返回.md",
-    "journals/index.md",
-    "public/templates/daily_template.md",
-    "pages/LR寄存器.md",
-    "pages/pc寄存器.md",
-    "pages/异常向量表.md",
-    "pages/assets/20230606062122082.png",
-    "pages/assets/20230606060820478.png",
-    "pages/assets/20230606060410690.png",
-    "pages/assets/20230606060339525.png",
-    "pages/{{date-1}}.md",
-    "pages/assets/20230606054200408.png",
-    "pages/STM32MP157裸机开发环境搭建.md",
     "20230605204551162.canvas",
-    "pages/Linux-arm交叉编译环境搭建.md",
     "public/asstes/STM32MP157裸机开发环境搭建.zip",
     "public/asstes",
     "public/新建文件夹",
-    "pages/windows-arm交叉编译环境搭建.md",
-    "pages/M4开发环境搭建.md",
-    "pages/ST-LINK驱动.md",
-    "pages/test.md",
-    "pages/assets/20230605190052262.png",
-    "public/images/logo.gif",
-    "public/images/home.gif",
     "public/images",
-    "public/iamges/logo.gif",
-    "public/iamges/home.gif",
     "public/iamges",
-    "public/assets",
-    "journals/assets",
-    "page",
-    "node_modules/vitepress/template",
     "2023-06-05.canvas",
     "文件IO.canvas",
     "others/C语言.canvas",
