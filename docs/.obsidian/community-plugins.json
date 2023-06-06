@@ -10,10 +10,10 @@
   "obsidian-hotkeys-for-specific-files",
   "tag-wrangler",
   "obsidian-markmind",
-  "obsidian-excalidraw-plugin",
   "mousewheel-image-zoom",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-outliner",
-  "obsidian-regex-replace",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-jump-to-date-plugin",
+  "calendar"
 ]

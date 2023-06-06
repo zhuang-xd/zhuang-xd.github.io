@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2023-06-06.md",
+                "file": "pages/PC寄存器.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +32,7 @@
       {
         "id": "b518eef6bcc0bf7e",
         "type": "tabs",
-        "dimension": 46.82926829268294,
+        "dimension": 50.63694267515923,
         "children": [
           {
             "id": "c5c300b6f7ab7cfd",
@@ -53,7 +53,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "journals/2023-06-06.md",
+                "file": "pages/PC寄存器.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -91,23 +91,22 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "3b32825331adecdb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5c951c2808b2b812",
         "type": "tabs",
-        "dimension": 53.17073170731706,
+        "dimension": 49.36305732484077,
         "children": [
-          {
-            "id": "fa28fd5f60fbff89",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
           {
             "id": "eafcf902c3bfe127",
             "type": "leaf",
@@ -140,12 +139,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2023-06-06.md"
+                "file": "pages/PC寄存器.md"
               }
             }
+          },
+          {
+            "id": "fa28fd5f60fbff89",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,31 +160,7 @@
   "right": {
     "id": "4ad17b90582ceb95",
     "type": "split",
-    "children": [
-      {
-        "id": "34d7666e3b5274d4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "28f102f647c36033",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "journals/2023-06-06.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 229.5,
     "collapsed": true
@@ -195,26 +177,30 @@
       "canvas:新建白板": false,
       "obsidian-file-cleaner:清理文件": false,
       "open-vscode:VSCode": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "eafcf902c3bfe127",
+  "active": "9f56585df87bb82e",
   "lastOpenFiles": [
+    "pages/ARM特殊寄存器.md",
+    "pages/PC寄存器.md",
     "journals/2023-06-05.md",
     "journals/2023-06-06.md",
     "pages/index.md",
+    "Excalidraw/Drawing 2023-06-06 08.39.40.excalidraw.md",
+    "Excalidraw",
+    "pages/ARM异常响应.md",
     "pages/SPSR寄存器.md",
+    "pages/ARM汇编.md",
+    "index.md",
+    "pages/CPSR寄存器.md",
     "pages/IRQ异常示例.md",
     "pages/2023-06-04.md",
     "pages/ARM异常返回.md",
     "journals/index.md",
     "public/templates/daily_template.md",
-    "pages/PC寄存器.md",
-    "pages/ARM特殊寄存器.md",
     "pages/LR寄存器.md",
     "pages/pc寄存器.md",
-    "pages/CPSR寄存器.md",
-    "pages/ARM异常响应.md",
     "pages/异常向量表.md",
     "pages/assets/20230606062122082.png",
     "pages/assets/20230606060820478.png",
@@ -222,9 +208,7 @@
     "pages/assets/20230606060339525.png",
     "pages/{{date-1}}.md",
     "pages/assets/20230606054200408.png",
-    "pages/ARM汇编.md",
     "pages/STM32MP157裸机开发环境搭建.md",
-    "index.md",
     "20230605204551162.canvas",
     "pages/Linux-arm交叉编译环境搭建.md",
     "public/asstes/STM32MP157裸机开发环境搭建.zip",
@@ -243,10 +227,8 @@
     "public/iamges",
     "public/assets",
     "journals/assets",
-    "page/test.md",
     "page",
     "node_modules/vitepress/template",
-    "node_modules/@babel/parser/typings/babel-parser.d.ts",
     "2023-06-05.canvas",
     "文件IO.canvas",
     "others/C语言.canvas",

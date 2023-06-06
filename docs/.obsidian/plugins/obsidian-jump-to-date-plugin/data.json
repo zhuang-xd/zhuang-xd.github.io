@@ -1,0 +1,5 @@
+{
+  "enableRibbon": true,
+  "shouldConfirmBeforeCreate": true,
+  "firstDayOfWeekIsSunday": true
+}
