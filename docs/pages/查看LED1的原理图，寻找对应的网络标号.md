@@ -10,4 +10,4 @@ D:\user\documents\学习资料\arm\STM32MP157\01_参考资料\01.2_原理图\扩
 ```
 
 ![](assets/20230606215850009.png)
-- [[FSMP1A开发板的LED1电路分析]]
+- [FSMP1A开发板的LED1电路分析](FSMP1A开发板的LED1电路分析.md)

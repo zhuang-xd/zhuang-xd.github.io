@@ -14,7 +14,7 @@ date: 2023-06-06
 
 ## 代码
 
-参考 [[点亮FSMP1A开发板的LED1]]
+参考 [点亮FSMP1A开发板的LED1](点亮FSMP1A开发板的LED1.md)
 ```nasm
 .text 
 .global _start

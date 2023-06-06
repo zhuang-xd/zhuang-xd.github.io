@@ -8,7 +8,7 @@ date: 2023-06-06
 ## 定义
 
 - 基于ARM [Cortex-A7](Cortex-A7.md) 处理器的嵌入式开发板
-	- 有一块 FSMP1A([[STM32MP157a]])核心板
+	- 有一块 FSMP1A([STM32MP157a](STM32MP157a.md))核心板
 	- 有一块 资源扩展板
 
 ## 特点
