@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/index.md",
+                "file": "journals/2023-06-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "journals/index.md",
+                "file": "journals/2023-06-07.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/index.md"
+                "file": "journals/2023-06-07.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/index.md",
+                "file": "journals/2023-06-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,8 +243,8 @@
   },
   "active": "591344338c87bdd8",
   "lastOpenFiles": [
-    "pages/index.md",
     "journals/index.md",
+    "pages/index.md",
     "journals/2023-06-07.md",
     "journals/2023-06-06.md",
     "journals/2023-06-05.md",
