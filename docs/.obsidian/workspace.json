@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/通过特殊功能寄存器配置GPIO.md",
+                "file": "journals/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d605876ef4c85130",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/点亮FSMP1A开发板的LED1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "journals/2023-06-06.md",
+                "file": "journals/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -114,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "5c951c2808b2b812",
@@ -139,8 +150,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -154,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2023-06-06.md"
+                "file": "journals/index.md"
               }
             }
           },
@@ -167,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2023-06-06.md",
+                "file": "journals/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,8 +208,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "7112c46a757f7f7a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -221,34 +241,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d57bef490e77f40b",
+  "active": "591344338c87bdd8",
   "lastOpenFiles": [
+    "pages/index.md",
+    "journals/index.md",
+    "journals/2023-06-07.md",
+    "journals/2023-06-06.md",
+    "journals/2023-06-05.md",
+    "pages/通过特殊功能寄存器配置GPIO.md",
+    "pages/点亮FSMP1A开发板的LED1.md",
+    "pages/依据网络标号，在开发板的资源扩展板上查询 LED1 的 GPIO.md",
+    "pages/STM32MP157特殊功能寄存器.md",
+    "pages/GPIO输入数据寄存器.md",
+    "pages/GPIO上拉-下拉电阻设置设置寄存器.md",
+    "pages/STM32MP157.md",
+    "pages/STM32MP157a.md",
+    "pages/ARMv7特殊功能寄存器.md",
+    "pages/RCC模块.md",
+    "pages/FSMP1A开发板数据手册.md",
+    "pages/FSMP1A开发板.md",
+    "pages/GPIO端口模式寄存器.md",
+    "pages/SPSR寄存器.md",
+    "pages/Thumb-2指令集.md",
+    "pages/vss和vdd.md",
     "pages/编写汇编程序控制 GPIO 控制器 和 RCC 进行工作.md",
     "pages/查看LED1的原理图，寻找对应的网络标号.md",
-    "pages/点亮FSMP1A开发板的LED1.md",
     "pages/晶振.md",
     "pages/设置RCC使能.md",
     "pages/时钟和晶振有什么区别.md",
-    "pages/特殊功能寄存器组织.md",
-    "pages/通过特殊功能寄存器配置GPIO.md",
-    "pages/推挽输出.md",
-    "pages/芯片手册分析.md",
-    "pages/mos管.md",
-    "pages/Bit setreset registers方式和from on-chip peripheral的区别.md",
-    "pages/ARM产品.md",
-    "pages/ARM汇编实现三盏灯的流水.md",
-    "pages/ARMv7架构.md",
-    "pages/Cortex-A.md",
-    "pages/Cortex-A7.md",
-    "pages/Cortex-M.md",
-    "pages/Cortex-R.md",
-    "pages/FSMP1A开发板.md",
-    "pages/FSMP1A开发板的LED1电路分析.md",
-    "pages/LED灯控制实现.md",
-    "pages/STM32MP157.md",
-    "pages/RAM和FLASH的区别.md",
-    "journals/index.md",
-    "journals/2023-06-06.md",
     "pages/assets/20230606225309063.png",
     "pages/assets/20230606225300674.png",
     "pages/assets/20230606224510458.png",
