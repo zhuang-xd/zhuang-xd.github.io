@@ -1,172 +1,164 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-06-07",
-      "path": "journals/2023-06-07.md"
+      "basename": "ARM",
+      "path": "pages/ARM.md"
     },
     {
-      "basename": "index",
-      "path": "journals/index.md"
+      "basename": "volatile",
+      "path": "pages/volatile.md"
     },
     {
-      "basename": "index",
-      "path": "pages/index.md"
+      "basename": "缓存优化问题",
+      "path": "pages/缓存优化问题.md"
     },
     {
-      "basename": "2023-06-06",
-      "path": "journals/2023-06-06.md"
+      "basename": "编译器优化",
+      "path": "pages/编译器优化.md"
     },
     {
-      "basename": "2023-06-05",
-      "path": "journals/2023-06-05.md"
+      "basename": "volatile关键字一般用于修饰寄存器变量",
+      "path": "pages/volatile关键字一般用于修饰寄存器变量.md"
     },
     {
-      "basename": "通过特殊功能寄存器配置GPIO",
-      "path": "pages/通过特殊功能寄存器配置GPIO.md"
-    },
-    {
-      "basename": "点亮FSMP1A开发板的LED1",
-      "path": "pages/点亮FSMP1A开发板的LED1.md"
-    },
-    {
-      "basename": "依据网络标号，在开发板的资源扩展板上查询 LED1 的 GPIO",
-      "path": "pages/依据网络标号，在开发板的资源扩展板上查询 LED1 的 GPIO.md"
+      "basename": "特殊寄存器的c语言封装方式",
+      "path": "pages/特殊寄存器的c语言封装方式.md"
     },
     {
       "basename": "STM32MP157特殊功能寄存器",
       "path": "pages/STM32MP157特殊功能寄存器.md"
     },
     {
-      "basename": "GPIO输入数据寄存器",
-      "path": "pages/GPIO输入数据寄存器.md"
+      "basename": "2023-06-07",
+      "path": "journals/2023-06-07.md"
     },
     {
-      "basename": "GPIO上拉-下拉电阻设置设置寄存器",
-      "path": "pages/GPIO上拉-下拉电阻设置设置寄存器.md"
+      "basename": "使用STM32MP157A的A7内核点亮LED1",
+      "path": "pages/使用STM32MP157A的A7内核点亮LED1.md"
     },
     {
-      "basename": "STM32MP157",
-      "path": "pages/STM32MP157.md"
-    },
-    {
-      "basename": "STM32MP157a",
-      "path": "pages/STM32MP157a.md"
-    },
-    {
-      "basename": "ARMv7特殊功能寄存器",
-      "path": "pages/ARMv7特殊功能寄存器.md"
-    },
-    {
-      "basename": "RCC模块",
-      "path": "pages/RCC模块.md"
-    },
-    {
-      "basename": "FSMP1A开发板数据手册",
-      "path": "pages/FSMP1A开发板数据手册.md"
-    },
-    {
-      "basename": "FSMP1A开发板",
-      "path": "pages/FSMP1A开发板.md"
-    },
-    {
-      "basename": "GPIO端口模式寄存器",
-      "path": "pages/GPIO端口模式寄存器.md"
-    },
-    {
-      "basename": "SPSR寄存器",
-      "path": "pages/SPSR寄存器.md"
-    },
-    {
-      "basename": "Thumb-2指令集",
-      "path": "pages/Thumb-2指令集.md"
+      "basename": "互斥锁和volatile的区别",
+      "path": "pages/互斥锁和volatile的区别.md"
     },
     {
       "basename": "vss和vdd",
       "path": "pages/vss和vdd.md"
     },
     {
-      "basename": "编写汇编程序控制 GPIO 控制器 和 RCC 进行工作",
-      "path": "pages/编写汇编程序控制 GPIO 控制器 和 RCC 进行工作.md"
+      "basename": "点亮FSMP1A开发板的LED1",
+      "path": "pages/点亮FSMP1A开发板的LED1.md"
     },
     {
-      "basename": "查看LED1的原理图，寻找对应的网络标号",
-      "path": "pages/查看LED1的原理图，寻找对应的网络标号.md"
+      "basename": "2023-06-06",
+      "path": "journals/2023-06-06.md"
     },
     {
-      "basename": "晶振",
-      "path": "pages/晶振.md"
+      "basename": "index",
+      "path": "pages/index.md"
     },
     {
-      "basename": "设置RCC使能",
-      "path": "pages/设置RCC使能.md"
+      "basename": "FSMP1A开发板",
+      "path": "pages/FSMP1A开发板.md"
     },
     {
-      "basename": "时钟和晶振有什么区别",
-      "path": "pages/时钟和晶振有什么区别.md"
+      "basename": "FSMP1A开发板硬件资源",
+      "path": "pages/FSMP1A开发板硬件资源.md"
     },
     {
-      "basename": "推挽输出",
-      "path": "pages/推挽输出.md"
+      "basename": "FSMP1A开发板数据手册",
+      "path": "pages/FSMP1A开发板数据手册.md"
     },
     {
-      "basename": "芯片手册分析",
-      "path": "pages/芯片手册分析.md"
+      "basename": "ARM汇编",
+      "path": "pages/ARM汇编.md"
     },
     {
-      "basename": "mos管",
-      "path": "pages/mos管.md"
+      "basename": "TTL串口",
+      "path": "pages/TTL串口.md"
     },
     {
-      "basename": "ARM产品",
-      "path": "pages/ARM产品.md"
+      "basename": "SOC",
+      "path": "pages/SOC.md"
+    },
+    {
+      "basename": "TTL电平",
+      "path": "pages/TTL电平.md"
+    },
+    {
+      "basename": "IIC总线",
+      "path": "pages/IIC总线.md"
+    },
+    {
+      "basename": "RS-485总线",
+      "path": "pages/RS-485总线.md"
+    },
+    {
+      "basename": "USB总线",
+      "path": "pages/USB总线.md"
+    },
+    {
+      "basename": "总线的分类",
+      "path": "pages/总线的分类.md"
+    },
+    {
+      "basename": "串行总线和并行总线的区别",
+      "path": "pages/串行总线和并行总线的区别.md"
+    },
+    {
+      "basename": "使用STM32MP157A的M4内核点亮LED1",
+      "path": "pages/使用STM32MP157A的M4内核点亮LED1.md"
+    },
+    {
+      "basename": "SPI总线",
+      "path": "pages/SPI总线.md"
+    },
+    {
+      "basename": "总线",
+      "path": "pages/总线.md"
+    },
+    {
+      "basename": "UART工作原理",
+      "path": "pages/UART工作原理.md"
+    },
+    {
+      "basename": "串行总线",
+      "path": "pages/串行总线.md"
+    },
+    {
+      "basename": "异步总线",
+      "path": "pages/异步总线.md"
+    },
+    {
+      "basename": "同步总线",
+      "path": "pages/同步总线.md"
+    },
+    {
+      "basename": "全双工总线",
+      "path": "pages/全双工总线.md"
+    },
+    {
+      "basename": "半双工总线",
+      "path": "pages/半双工总线.md"
+    },
+    {
+      "basename": "单工总线",
+      "path": "pages/单工总线.md"
+    },
+    {
+      "basename": "并行总线",
+      "path": "pages/并行总线.md"
     },
     {
       "basename": "ARM汇编实现三盏灯的流水",
       "path": "pages/ARM汇编实现三盏灯的流水.md"
     },
     {
-      "basename": "ARMv7架构",
-      "path": "pages/ARMv7架构.md"
+      "basename": "实现C语言控制蜂鸣器和风扇",
+      "path": "pages/实现C语言控制蜂鸣器和风扇.md"
     },
     {
-      "basename": "Cortex-A",
-      "path": "pages/Cortex-A.md"
-    },
-    {
-      "basename": "Cortex-A7",
-      "path": "pages/Cortex-A7.md"
-    },
-    {
-      "basename": "Cortex-M",
-      "path": "pages/Cortex-M.md"
-    },
-    {
-      "basename": "Cortex-R",
-      "path": "pages/Cortex-R.md"
-    },
-    {
-      "basename": "FSMP1A开发板的LED1电路分析",
-      "path": "pages/FSMP1A开发板的LED1电路分析.md"
-    },
-    {
-      "basename": "LED灯控制实现",
-      "path": "pages/LED灯控制实现.md"
-    },
-    {
-      "basename": "RAM和FLASH的区别",
-      "path": "pages/RAM和FLASH的区别.md"
-    },
-    {
-      "basename": "输出速度设置寄存器",
-      "path": "pages/输出速度设置寄存器.md"
-    },
-    {
-      "basename": "GPIO端口输出类型寄存器",
-      "path": "pages/GPIO端口输出类型寄存器.md"
-    },
-    {
-      "basename": "GPIO输出数据寄存器",
-      "path": "pages/GPIO输出数据寄存器.md"
+      "basename": "下载到开发板",
+      "path": "pages/下载到开发板.md"
     },
     {
       "basename": "开启外部时钟",
@@ -177,28 +169,12 @@
       "path": "pages/寻找基地址.md"
     },
     {
+      "basename": "GPIO端口模式寄存器",
+      "path": "pages/GPIO端口模式寄存器.md"
+    },
+    {
       "basename": "GPIO控制器的工作原理",
       "path": "pages/GPIO控制器的工作原理.md"
-    },
-    {
-      "basename": "Bit set or reset registers方式和from on-chip peripheral的区别",
-      "path": "pages/Bit set or reset registers方式和from on-chip peripheral的区别.md"
-    },
-    {
-      "basename": "时钟",
-      "path": "pages/时钟.md"
-    },
-    {
-      "basename": "GPIO控制器",
-      "path": "pages/GPIO控制器.md"
-    },
-    {
-      "basename": "三极管",
-      "path": "pages/三极管.md"
-    },
-    {
-      "basename": "LED1原理图",
-      "path": "pages/LED1原理图.md"
     }
   ],
   "omittedPaths": [],

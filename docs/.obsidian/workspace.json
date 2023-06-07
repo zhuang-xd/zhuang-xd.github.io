@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "591344338c87bdd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2023-06-07.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d57bef490e77f40b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2023-06-06.md",
+                "file": "pages/ARM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +21,12 @@
             }
           },
           {
-            "id": "d605876ef4c85130",
+            "id": "b6805c15f31d4332",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/点亮FSMP1A开发板的LED1.md",
+                "file": "pages/ARM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,7 +45,7 @@
       {
         "id": "b518eef6bcc0bf7e",
         "type": "tabs",
-        "dimension": 49.68152866242039,
+        "dimension": 38.32807570977918,
         "children": [
           {
             "id": "c5c300b6f7ab7cfd",
@@ -79,7 +66,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "journals/2023-06-07.md",
+                "file": "pages/ARM.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -126,12 +113,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "5c951c2808b2b812",
         "type": "tabs",
-        "dimension": 50.31847133757961,
+        "dimension": 61.67192429022082,
         "children": [
           {
             "id": "eafcf902c3bfe127",
@@ -150,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#文章",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -165,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2023-06-07.md"
+                "file": "pages/ARM.md"
               }
             }
           },
@@ -178,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2023-06-07.md",
+                "file": "pages/ARM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,48 +225,48 @@
       "canvas:新建白板": true,
       "obsidian-file-cleaner:清理文件": false,
       "open-vscode:VSCode": false,
-      "obsidian-jump-to-date-plugin:Jump-to-Date": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "591344338c87bdd8",
+  "active": "d57bef490e77f40b",
   "lastOpenFiles": [
-    "journals/index.md",
-    "pages/index.md",
-    "journals/2023-06-07.md",
-    "journals/2023-06-06.md",
-    "journals/2023-06-05.md",
-    "pages/通过特殊功能寄存器配置GPIO.md",
-    "pages/点亮FSMP1A开发板的LED1.md",
-    "pages/依据网络标号，在开发板的资源扩展板上查询 LED1 的 GPIO.md",
+    "pages/volatile.md",
+    "pages/缓存优化问题.md",
+    "pages/防止多线程中出现内存一致性问题.md",
+    "pages/缓存一致性问题.md",
+    "pages/编译器优化.md",
+    "pages/volatile关键字一般用于修饰寄存器变量.md",
+    "pages/特殊寄存器的c语言封装方式.md",
     "pages/STM32MP157特殊功能寄存器.md",
-    "pages/GPIO输入数据寄存器.md",
-    "pages/GPIO上拉-下拉电阻设置设置寄存器.md",
-    "pages/STM32MP157.md",
-    "pages/STM32MP157a.md",
-    "pages/ARMv7特殊功能寄存器.md",
-    "pages/RCC模块.md",
-    "pages/FSMP1A开发板数据手册.md",
-    "pages/FSMP1A开发板.md",
-    "pages/GPIO端口模式寄存器.md",
-    "pages/SPSR寄存器.md",
-    "pages/Thumb-2指令集.md",
+    "journals/2023-06-07.md",
+    "pages/使用STM32MP157A的A7内核点亮LED1.md",
+    "pages/互斥锁和volatile的区别.md",
     "pages/vss和vdd.md",
-    "pages/编写汇编程序控制 GPIO 控制器 和 RCC 进行工作.md",
-    "pages/查看LED1的原理图，寻找对应的网络标号.md",
-    "pages/晶振.md",
-    "pages/设置RCC使能.md",
-    "pages/时钟和晶振有什么区别.md",
-    "pages/assets/20230606225309063.png",
-    "pages/assets/20230606225300674.png",
-    "pages/assets/20230606224510458.png",
-    "pages/assets/20230606222709497.png",
-    "pages/assets/20230606220300484.png",
-    "pages/assets/20230606220236144.png",
-    "pages/assets/20230606220002060.png",
-    "pages/assets/20230606215850009.png",
-    "pages/assets/20230606215650723.png",
-    "pages/assets/20230606210502094.png",
+    "pages/ARM-C语言工程模板.md",
+    "pages/ARM.md",
+    "pages/点亮FSMP1A开发板的LED1.md",
+    "journals/2023-06-06.md",
+    "pages/index.md",
+    "pages/FSMP1A开发板.md",
+    "pages/FSMP1A开发板硬件资源.md",
+    "pages/FSMP1A开发板数据手册.md",
+    "pages/ARM汇编.md",
+    "pages/TTL串口.md",
+    "pages/SOC.md",
+    "pages/TTL电平.md",
+    "pages/IIC总线.md",
+    "pages/RS-485总线.md",
+    "pages/assets/20230607220332017.png",
+    "pages/assets/20230607220048218.png",
+    "pages/assets/20230607215938816.png",
+    "pages/assets/20230607215927681.png",
+    "pages/assets/20230607215916917.png",
+    "pages/assets/20230607215907342.png",
+    "pages/assets/20230607215857804.png",
+    "pages/assets/20230607215841122.png",
+    "pages/assets/20230607183748147.png",
+    "pages/assets/20230607180211656.png",
     "GPIO上拉/assets",
     "GPIO上拉",
     "timeline",
