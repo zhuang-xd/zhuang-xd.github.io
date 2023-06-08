@@ -1,4 +1,4 @@
 export default [
-    { text: "日记", link: "/journals/" },
-    { text: "目录", link: "/pages/" },
+    { text: "时间轴", link: "/journals/" },
+    { text: "统计", link: "/pages/" },
 ]
