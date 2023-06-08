@@ -1,20 +1,100 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-06-08",
-      "path": "journals/2023-06-08.md"
+      "basename": "ARM内核",
+      "path": "pages/ARM内核.md"
+    },
+    {
+      "basename": "RAM",
+      "path": "pages/RAM.md"
+    },
+    {
+      "basename": "SOC",
+      "path": "pages/SOC.md"
+    },
+    {
+      "basename": "TTL电平",
+      "path": "pages/TTL电平.md"
+    },
+    {
+      "basename": "STM32MP157a",
+      "path": "pages/STM32MP157a.md"
     },
     {
       "basename": "index",
       "path": "pages/index.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
+      "basename": "查看LED1的原理图，寻找对应的网络标号",
+      "path": "pages/查看LED1的原理图，寻找对应的网络标号.md"
+    },
+    {
+      "basename": "点亮FSMP1A开发板的LED1",
+      "path": "pages/点亮FSMP1A开发板的LED1.md"
     },
     {
       "basename": "工具导航",
       "path": "pages/工具导航.md"
+    },
+    {
+      "basename": "缓存优化问题在单线程-多线程中都会发生",
+      "path": "pages/缓存优化问题在单线程-多线程中都会发生.md"
+    },
+    {
+      "basename": "实现C语言控制蜂鸣器和风扇",
+      "path": "pages/实现C语言控制蜂鸣器和风扇.md"
+    },
+    {
+      "basename": "开启外部时钟",
+      "path": "pages/开启外部时钟.md"
+    },
+    {
+      "basename": "依据网络标号，在开发板的资源扩展板上查询 LED1 的 GPIO",
+      "path": "pages/依据网络标号，在开发板的资源扩展板上查询 LED1 的 GPIO.md"
+    },
+    {
+      "basename": "用c语言封装STM32MP175的特殊功能寄存器",
+      "path": "pages/用c语言封装STM32MP175的特殊功能寄存器.md"
+    },
+    {
+      "basename": "ARM汇编实现三盏灯的流水",
+      "path": "pages/ARM汇编实现三盏灯的流水.md"
+    },
+    {
+      "basename": "FSMP1A开发板的LED1电路分析",
+      "path": "pages/FSMP1A开发板的LED1电路分析.md"
+    },
+    {
+      "basename": "RAM和FLASH的区别",
+      "path": "pages/RAM和FLASH的区别.md"
+    },
+    {
+      "basename": "volatile关键字一般用于修饰寄存器变量",
+      "path": "pages/volatile关键字一般用于修饰寄存器变量.md"
+    },
+    {
+      "basename": "soc和cpu的区别",
+      "path": "pages/soc和cpu的区别.md"
+    },
+    {
+      "basename": "为什么要时钟使能",
+      "path": "pages/为什么要时钟使能.md"
+    },
+    {
+      "basename": "使用STM32MP157A的A7内核点亮LED1",
+      "path": "pages/使用STM32MP157A的A7内核点亮LED1.md"
+    },
+    {
+      "basename": "缓存优化问题",
+      "path": "pages/缓存优化问题.md"
+    },
+    {
+      "basename": "2023-06-08",
+      "path": "journals/2023-06-08.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
     },
     {
       "basename": "UART寄存器组织",
@@ -119,82 +199,6 @@
     {
       "basename": "USB总线",
       "path": "pages/USB总线.md"
-    },
-    {
-      "basename": "编译器优化",
-      "path": "pages/编译器优化.md"
-    },
-    {
-      "basename": "vss和vdd",
-      "path": "pages/vss和vdd.md"
-    },
-    {
-      "basename": "缓存优化问题",
-      "path": "pages/缓存优化问题.md"
-    },
-    {
-      "basename": "缓存",
-      "path": "pages/缓存.md"
-    },
-    {
-      "basename": "缓存优化问题在单线程-多线程中都会发生",
-      "path": "pages/缓存优化问题在单线程-多线程中都会发生.md"
-    },
-    {
-      "basename": "解决缓存优化问题",
-      "path": "pages/解决缓存优化问题.md"
-    },
-    {
-      "basename": "volatile",
-      "path": "pages/volatile.md"
-    },
-    {
-      "basename": "volatile关键字一般用于修饰寄存器变量",
-      "path": "pages/volatile关键字一般用于修饰寄存器变量.md"
-    },
-    {
-      "basename": "STM32MP157a",
-      "path": "pages/STM32MP157a.md"
-    },
-    {
-      "basename": "TTL电平",
-      "path": "pages/TTL电平.md"
-    },
-    {
-      "basename": "STM32MP157特殊功能寄存器",
-      "path": "pages/STM32MP157特殊功能寄存器.md"
-    },
-    {
-      "basename": "用c语言封装STM32MP175的特殊功能寄存器",
-      "path": "pages/用c语言封装STM32MP175的特殊功能寄存器.md"
-    },
-    {
-      "basename": "ARMv7特殊功能寄存器",
-      "path": "pages/ARMv7特殊功能寄存器.md"
-    },
-    {
-      "basename": "STM32MP157",
-      "path": "pages/STM32MP157.md"
-    },
-    {
-      "basename": "SOC",
-      "path": "pages/SOC.md"
-    },
-    {
-      "basename": "使用STM32MP157A的A7内核点亮LED1",
-      "path": "pages/使用STM32MP157A的A7内核点亮LED1.md"
-    },
-    {
-      "basename": "互斥锁和volatile的区别",
-      "path": "pages/互斥锁和volatile的区别.md"
-    },
-    {
-      "basename": "点亮FSMP1A开发板的LED1",
-      "path": "pages/点亮FSMP1A开发板的LED1.md"
-    },
-    {
-      "basename": "2023-06-06",
-      "path": "journals/2023-06-06.md"
     }
   ],
   "omittedPaths": [],
