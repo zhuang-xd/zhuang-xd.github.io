@@ -1,16 +1,96 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-08",
+      "path": "journals/2023-06-08.md"
+    },
+    {
+      "basename": "index",
+      "path": "pages/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "工具导航",
+      "path": "pages/工具导航.md"
+    },
+    {
+      "basename": "UART寄存器组织",
+      "path": "pages/UART寄存器组织.md"
+    },
+    {
       "basename": "串行总线",
       "path": "pages/串行总线.md"
     },
     {
-      "basename": "IIC总线",
-      "path": "pages/IIC总线.md"
+      "basename": "协议、总线、接口的关系",
+      "path": "pages/协议、总线、接口的关系.md"
+    },
+    {
+      "basename": "波特率计算",
+      "path": "pages/波特率计算.md"
+    },
+    {
+      "basename": "波特率",
+      "path": "pages/波特率.md"
+    },
+    {
+      "basename": "USART",
+      "path": "pages/USART.md"
+    },
+    {
+      "basename": "使用STM32MP156进行串口通信",
+      "path": "pages/使用STM32MP156进行串口通信.md"
+    },
+    {
+      "basename": "16倍采样",
+      "path": "pages/16倍采样.md"
+    },
+    {
+      "basename": "UART内部工作框图",
+      "path": "pages/UART内部工作框图.md"
+    },
+    {
+      "basename": "2023-06-07",
+      "path": "journals/2023-06-07.md"
+    },
+    {
+      "basename": "UART",
+      "path": "pages/UART.md"
+    },
+    {
+      "basename": "UART工作原理",
+      "path": "pages/UART工作原理.md"
+    },
+    {
+      "basename": "HQYJ-ARM课程",
+      "path": "pages/HQYJ-ARM课程.md"
+    },
+    {
+      "basename": "UART是如何减小累积误差的",
+      "path": "pages/UART是如何减小累积误差的.md"
+    },
+    {
+      "basename": "时钟漂移",
+      "path": "pages/时钟漂移.md"
+    },
+    {
+      "basename": "总线",
+      "path": "pages/总线.md"
     },
     {
       "basename": "总线的分类",
       "path": "pages/总线的分类.md"
+    },
+    {
+      "basename": "index",
+      "path": "journals/index.md"
+    },
+    {
+      "basename": "IIC总线",
+      "path": "pages/IIC总线.md"
     },
     {
       "basename": "异步总线",
@@ -39,22 +119,6 @@
     {
       "basename": "USB总线",
       "path": "pages/USB总线.md"
-    },
-    {
-      "basename": "2023-06-07",
-      "path": "journals/2023-06-07.md"
-    },
-    {
-      "basename": "HQYJ-ARM课程",
-      "path": "pages/HQYJ-ARM课程.md"
-    },
-    {
-      "basename": "index",
-      "path": "journals/index.md"
-    },
-    {
-      "basename": "2023-06-08",
-      "path": "journals/2023-06-08.md"
     },
     {
       "basename": "编译器优化",
@@ -93,10 +157,6 @@
       "path": "pages/STM32MP157a.md"
     },
     {
-      "basename": "TTL串口",
-      "path": "pages/TTL串口.md"
-    },
-    {
       "basename": "TTL电平",
       "path": "pages/TTL电平.md"
     },
@@ -117,10 +177,6 @@
       "path": "pages/STM32MP157.md"
     },
     {
-      "basename": "index",
-      "path": "pages/index.md"
-    },
-    {
       "basename": "SOC",
       "path": "pages/SOC.md"
     },
@@ -139,66 +195,6 @@
     {
       "basename": "2023-06-06",
       "path": "journals/2023-06-06.md"
-    },
-    {
-      "basename": "FSMP1A开发板",
-      "path": "pages/FSMP1A开发板.md"
-    },
-    {
-      "basename": "FSMP1A开发板硬件资源",
-      "path": "pages/FSMP1A开发板硬件资源.md"
-    },
-    {
-      "basename": "FSMP1A开发板数据手册",
-      "path": "pages/FSMP1A开发板数据手册.md"
-    },
-    {
-      "basename": "ARM汇编",
-      "path": "pages/ARM汇编.md"
-    },
-    {
-      "basename": "RS-485总线",
-      "path": "pages/RS-485总线.md"
-    },
-    {
-      "basename": "串行总线和并行总线的区别",
-      "path": "pages/串行总线和并行总线的区别.md"
-    },
-    {
-      "basename": "使用STM32MP157A的M4内核点亮LED1",
-      "path": "pages/使用STM32MP157A的M4内核点亮LED1.md"
-    },
-    {
-      "basename": "SPI总线",
-      "path": "pages/SPI总线.md"
-    },
-    {
-      "basename": "总线",
-      "path": "pages/总线.md"
-    },
-    {
-      "basename": "UART工作原理",
-      "path": "pages/UART工作原理.md"
-    },
-    {
-      "basename": "ARM汇编实现三盏灯的流水",
-      "path": "pages/ARM汇编实现三盏灯的流水.md"
-    },
-    {
-      "basename": "实现C语言控制蜂鸣器和风扇",
-      "path": "pages/实现C语言控制蜂鸣器和风扇.md"
-    },
-    {
-      "basename": "下载到开发板",
-      "path": "pages/下载到开发板.md"
-    },
-    {
-      "basename": "开启外部时钟",
-      "path": "pages/开启外部时钟.md"
-    },
-    {
-      "basename": "寻找基地址",
-      "path": "pages/寻找基地址.md"
     }
   ],
   "omittedPaths": [],

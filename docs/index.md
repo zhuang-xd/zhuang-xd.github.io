@@ -17,3 +17,4 @@ hero:
 ---
 
 - [目录](pages/index.md)
+- [工具导航](pages/工具导航.md)

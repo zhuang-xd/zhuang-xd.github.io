@@ -18,7 +18,7 @@ date: 2023-06-07
 			- [使用STM32MP157A的M4内核点亮LED1](../pages/使用STM32MP157A的M4内核点亮LED1.md)
 - [总线](总线.md)
 	- 常见总线
-		- [TTL串口](../pages/TTL串口.md) 
+		- [UART](UART.md) 
 		- [IIC总线](IIC总线.md)
 		- [SPI总线](../pages/SPI总线.md)
 		- [RS-485总线](../pages/RS-485总线.md)

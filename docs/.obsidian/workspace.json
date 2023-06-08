@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2023-06-07.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6805c15f31d4332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/串行总线.md",
+                "file": "journals/2023-06-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +53,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/串行总线.md",
+                "file": "journals/2023-06-08.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -114,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "5c951c2808b2b812",
@@ -139,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#待成文",
+                "query": "tag:#应用",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/串行总线.md"
+                "file": "journals/2023-06-08.md"
               }
             }
           },
@@ -166,7 +151,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -186,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/串行总线.md",
+                "file": "journals/2023-06-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,44 +215,44 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "b6805c15f31d4332",
+  "active": "d57bef490e77f40b",
   "lastOpenFiles": [
-    "pages/IIC总线.md",
-    "pages/串行总线.md",
-    "pages/总线的分类.md",
-    "pages/异步总线.md",
-    "pages/同步总线.md",
-    "pages/全双工总线.md",
-    "pages/半双工总线.md",
-    "pages/单工总线.md",
-    "pages/并行总线.md",
-    "pages/USB总线.md",
-    "journals/2023-06-07.md",
-    "pages/HQYJ-ARM课程.md",
-    "journals/index.md",
+    "pages/index.md",
     "journals/2023-06-08.md",
-    "pages/编译器优化.md",
-    "pages/vss和vdd.md",
-    "pages/缓存优化问题.md",
-    "pages/缓存.md",
-    "pages/缓存优化问题在单线程-多线程中都会发生.md",
-    "pages/解决缓存优化问题.md",
-    "pages/volatile.md",
-    "pages/volatile关键字一般用于修饰寄存器变量.md",
-    "pages/STM32MP157a.md",
-    "pages/TTL串口.md",
-    "pages/TTL电平.md",
-    "pages/STM32MP157特殊功能寄存器.md",
-    "pages/assets/20230607220332017.png",
-    "pages/assets/20230607220048218.png",
-    "pages/assets/20230607215938816.png",
-    "pages/assets/20230607215927681.png",
-    "pages/assets/20230607215916917.png",
-    "pages/assets/20230607215907342.png",
-    "pages/assets/20230607215857804.png",
-    "pages/assets/20230607215841122.png",
-    "pages/assets/20230607183748147.png",
-    "pages/assets/20230607180211656.png",
+    "index.md",
+    "pages/test.md",
+    "pages/工具导航.md",
+    "pages/UART寄存器组织.md",
+    "pages/串行总线.md",
+    "pages/协议、总线、接口的关系.md",
+    "pages/波特率计算.md",
+    "pages/assets/20230608115809326.png",
+    "pages/波特率.md",
+    "pages/USART.md",
+    "pages/使用STM32MP156进行串口通信.md",
+    "pages/assets/20230608115421849.png",
+    "pages/assets/20230608115347234.png",
+    "pages/assets/20230608115204982.png",
+    "pages/16倍采样.md",
+    "pages/UART内部工作框图.md",
+    "pages/assets/20230608113051097.png",
+    "pages/assets/20230608111533974.png",
+    "pages/assets/20230608111452915.png",
+    "pages/assets/20230608111316889.png",
+    "pages/串行接口和总线什么区别.md",
+    "journals/2023-06-07.md",
+    "pages/UART.md",
+    "pages/assets/20230608104528258.png",
+    "pages/UART工作原理.md",
+    "pages/assets/20230608104346326.png",
+    "pages/HQYJ-ARM课程.md",
+    "pages/UART是如何减小累积误差的.md",
+    "pages/时钟漂移.md",
+    "pages/总线.md",
+    "pages/总线的分类.md",
+    "journals/index.md",
+    "pages/IIC总线.md",
+    "pages/异步总线.md",
     "GPIO上拉/assets",
     "GPIO上拉",
     "timeline",

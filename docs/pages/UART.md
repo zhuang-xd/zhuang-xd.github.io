@@ -1,14 +1,14 @@
 ---
 tags: 概念
-aliases: [UART, 串口]
-title: TTL串口
+aliases: [串口, TTL串口]
+title: UART
 date: 2023-06-07
 ---
-# TTL串口
+# UART
 
 ## 定义
 
-UART接口通常使用 [TTL电平](TTL电平.md) 进行通信，因此UART通常被称为TTL串口
+UART接口
 
 ## 作用
 
@@ -18,6 +18,7 @@ UART接口通常使用 [TTL电平](TTL电平.md) 进行通信，因此UART通常
 
 - [异步](异步总线.md)、[串行](串行总线.md)、[全双工](全双工总线.md)
 	- 通过发送和接收数据时使用的起始位、停止位和校验位来保证数据的可靠传输。
+- 通常使用 [TTL电平](TTL电平.md) 进行通信
 - 信号线数
 	- RXD 接收数据线
 	- TXD 发送数据线
@@ -26,3 +27,4 @@ UART接口通常使用 [TTL电平](TTL电平.md) 进行通信，因此UART通常
 ## 说明
 
 - [UART工作原理](UART工作原理.md)
+- [[UART是如何减小累积误差的]]
