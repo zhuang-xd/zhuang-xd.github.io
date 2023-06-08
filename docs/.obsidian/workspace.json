@@ -216,12 +216,13 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "c5c300b6f7ab7cfd",
+  "active": "50e5ac41b8093b36",
   "lastOpenFiles": [
+    "list/1.md",
+    "list/2.md",
+    "list",
     "list/4.md",
     "list/3.md",
-    "list/2.md",
-    "list/1.md",
     "list/index.md",
     "list/5.md",
     "list/用c语言封装STM32MP175的特殊功能寄存器",
@@ -233,7 +234,6 @@
     "list/为什么要时钟使能",
     "list/使用STM32MP157A的A7内核点亮LED1",
     "list/实现C语言控制蜂鸣器和风扇",
-    "list/开启外部时钟",
     "pages/工具导航.md",
     "index.md",
     "pages/ARM汇编实现三盏灯的流水.md",
@@ -253,7 +253,6 @@
     "pages/FSMP1A开发板的LED1电路分析.md",
     "pages/RAM和FLASH的区别.md",
     "pages/volatile关键字一般用于修饰寄存器变量.md",
-    "pages/soc和cpu的区别.md",
     "public/images/home.gif",
     "public/images/20230608154350524.gif",
     "public/images/logo.gif",
