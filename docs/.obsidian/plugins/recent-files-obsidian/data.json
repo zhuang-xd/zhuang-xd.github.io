@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-08",
+      "path": "journals/2023-06-08.md"
+    },
+    {
+      "basename": "index",
+      "path": "pages/index.md"
+    },
+    {
       "basename": "ARM内核",
       "path": "pages/ARM内核.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "STM32MP157a",
       "path": "pages/STM32MP157a.md"
-    },
-    {
-      "basename": "index",
-      "path": "pages/index.md"
     },
     {
       "basename": "查看LED1的原理图，寻找对应的网络标号",
@@ -87,10 +91,6 @@
     {
       "basename": "缓存优化问题",
       "path": "pages/缓存优化问题.md"
-    },
-    {
-      "basename": "2023-06-08",
-      "path": "journals/2023-06-08.md"
     },
     {
       "basename": "index",

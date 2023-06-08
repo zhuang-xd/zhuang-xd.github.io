@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/ARM内核.md",
+                "file": "journals/2023-06-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -53,7 +53,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/ARM内核.md",
+                "file": "journals/2023-06-08.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/ARM内核.md"
+                "file": "journals/2023-06-08.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/ARM内核.md",
+                "file": "journals/2023-06-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,11 +217,12 @@
   },
   "active": "d57bef490e77f40b",
   "lastOpenFiles": [
+    "pages/index.md",
+    "journals/2023-06-08.md",
     "pages/RAM.md",
     "pages/SOC.md",
     "pages/TTL电平.md",
     "pages/STM32MP157a.md",
-    "pages/index.md",
     "pages/查看LED1的原理图，寻找对应的网络标号.md",
     "pages/点亮FSMP1A开发板的LED1.md",
     "pages/工具导航.md",
@@ -238,7 +239,6 @@
     "pages/为什么要时钟使能.md",
     "pages/使用STM32MP157A的A7内核点亮LED1.md",
     "pages/缓存优化问题.md",
-    "journals/2023-06-08.md",
     "public/images/home.gif",
     "public/images/20230608154350524.gif",
     "public/images/logo.gif",
