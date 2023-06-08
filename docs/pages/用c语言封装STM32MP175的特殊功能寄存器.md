@@ -1,23 +1,25 @@
 ---
 tags: 应用
-title: 特殊寄存器的c语言封装方式
+title: 用c语言封装STM32MP175的特殊功能寄存器
 date: 2023-06-07
 ---
-# 特殊寄存器的c语言封装方式
+# 用c语言封装STM32MP175的特殊功能寄存器
 
-## 封装方式1
+共有3种封装[特殊功能寄存器](STM32MP157特殊功能寄存器.md)的地址的方式
+1. 强转为指针类型
+2. 宏定义
+3. 结构体成员
 
-1.将数值强转为指针类型，操作指针对应的空间
-```c
+::: code-group
+```c [封装方式1]
+// 将数值强转为指针类型，操作指针对应的空间
 GPIOE_MODER  
 (*(unsigned int *)0X50006000) &= (~(0X3<<20))//先清0
 (*(unsigned int *)0X50006000) |= (0X1<<20)
 ```
 
-## 封装方式2
-
-2.宏定义封装[特殊功能寄存器](STM32MP157特殊功能寄存器.md)的地址
-```c
+```c [封装方式2]
+// 宏定义封装
 #define GPIOE_MODER  (*(unsigned int *)0X50006000)
 #define GPIOE_OTYPER  (*(unsigned int *)0X50006004)
  ex:
@@ -31,7 +33,25 @@ GPIOE_MODER
 #define GPIOE_PUPDR (*(volatile unsigned int *)0X5000600C)
 ```
 
-```c
+```c [封装方式3]
+typedef struct{
+    unsigned int moder;
+    unsigned int otyper;
+    unsigned int ospeedr;
+    unsigned int pupdr;
+    unsigned int idr;
+    unsigned int odr;
+}gpio_t;
+
+//定义GPIOE和GPIOF
+#define GPIOE ((gpio_t *)0X50006000)
+#define GPIOF ((gpio_t *)0X50007000)
+#define RCC (*(volatile unsigned int *)0X50000A28)
+void delay_ms(int ms);
+void all_led_init();
+void all_led_flash();
+
+
 //延时函数
 void delay_ms(int ms)
 {
@@ -65,22 +85,4 @@ int main()
 }
 
 ```
-
-## 封装方式3
-
-3.通过结构体成员的形式访问寄存器
-
-```c
-typedef struct{
-    unsigned int moder;
-    unsigned int otyper;
-    unsigned int ospeedr;
-    unsigned int pupdr;
-    unsigned int idr;
-    unsigned int odr;
-}gpio_t;
-#define GPIOE (gpio_t *)0X50006000
-#define GPIOF (gpio_t *)0X50007000
-GPIOE->moder &= (0X3<<20);
-GPIOE->moder |= (0x1<<20);
-```
+:::

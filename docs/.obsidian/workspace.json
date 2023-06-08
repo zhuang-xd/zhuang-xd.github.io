@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/ARM.md",
+                "file": "journals/2023-06-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/ARM.md",
+                "file": "pages/串行总线.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +67,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/ARM.md",
+                "file": "pages/串行总线.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -114,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "5c951c2808b2b812",
@@ -138,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#文章",
+                "query": "tag:#待成文",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/ARM.md"
+                "file": "pages/串行总线.md"
               }
             }
           },
@@ -165,8 +166,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/ARM.md",
+                "file": "pages/串行总线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,34 +229,34 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "d57bef490e77f40b",
+  "active": "b6805c15f31d4332",
   "lastOpenFiles": [
-    "pages/volatile.md",
-    "pages/缓存优化问题.md",
-    "pages/防止多线程中出现内存一致性问题.md",
-    "pages/缓存一致性问题.md",
-    "pages/编译器优化.md",
-    "pages/volatile关键字一般用于修饰寄存器变量.md",
-    "pages/特殊寄存器的c语言封装方式.md",
-    "pages/STM32MP157特殊功能寄存器.md",
-    "journals/2023-06-07.md",
-    "pages/使用STM32MP157A的A7内核点亮LED1.md",
-    "pages/互斥锁和volatile的区别.md",
-    "pages/vss和vdd.md",
-    "pages/ARM-C语言工程模板.md",
-    "pages/ARM.md",
-    "pages/点亮FSMP1A开发板的LED1.md",
-    "journals/2023-06-06.md",
-    "pages/index.md",
-    "pages/FSMP1A开发板.md",
-    "pages/FSMP1A开发板硬件资源.md",
-    "pages/FSMP1A开发板数据手册.md",
-    "pages/ARM汇编.md",
-    "pages/TTL串口.md",
-    "pages/SOC.md",
-    "pages/TTL电平.md",
     "pages/IIC总线.md",
-    "pages/RS-485总线.md",
+    "pages/串行总线.md",
+    "pages/总线的分类.md",
+    "pages/异步总线.md",
+    "pages/同步总线.md",
+    "pages/全双工总线.md",
+    "pages/半双工总线.md",
+    "pages/单工总线.md",
+    "pages/并行总线.md",
+    "pages/USB总线.md",
+    "journals/2023-06-07.md",
+    "pages/HQYJ-ARM课程.md",
+    "journals/index.md",
+    "journals/2023-06-08.md",
+    "pages/编译器优化.md",
+    "pages/vss和vdd.md",
+    "pages/缓存优化问题.md",
+    "pages/缓存.md",
+    "pages/缓存优化问题在单线程-多线程中都会发生.md",
+    "pages/解决缓存优化问题.md",
+    "pages/volatile.md",
+    "pages/volatile关键字一般用于修饰寄存器变量.md",
+    "pages/STM32MP157a.md",
+    "pages/TTL串口.md",
+    "pages/TTL电平.md",
+    "pages/STM32MP157特殊功能寄存器.md",
     "pages/assets/20230607220332017.png",
     "pages/assets/20230607220048218.png",
     "pages/assets/20230607215938816.png",

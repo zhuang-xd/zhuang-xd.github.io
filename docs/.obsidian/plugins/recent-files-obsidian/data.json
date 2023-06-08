@@ -1,128 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "ARM",
-      "path": "pages/ARM.md"
-    },
-    {
-      "basename": "volatile",
-      "path": "pages/volatile.md"
-    },
-    {
-      "basename": "缓存优化问题",
-      "path": "pages/缓存优化问题.md"
-    },
-    {
-      "basename": "编译器优化",
-      "path": "pages/编译器优化.md"
-    },
-    {
-      "basename": "volatile关键字一般用于修饰寄存器变量",
-      "path": "pages/volatile关键字一般用于修饰寄存器变量.md"
-    },
-    {
-      "basename": "特殊寄存器的c语言封装方式",
-      "path": "pages/特殊寄存器的c语言封装方式.md"
-    },
-    {
-      "basename": "STM32MP157特殊功能寄存器",
-      "path": "pages/STM32MP157特殊功能寄存器.md"
-    },
-    {
-      "basename": "2023-06-07",
-      "path": "journals/2023-06-07.md"
-    },
-    {
-      "basename": "使用STM32MP157A的A7内核点亮LED1",
-      "path": "pages/使用STM32MP157A的A7内核点亮LED1.md"
-    },
-    {
-      "basename": "互斥锁和volatile的区别",
-      "path": "pages/互斥锁和volatile的区别.md"
-    },
-    {
-      "basename": "vss和vdd",
-      "path": "pages/vss和vdd.md"
-    },
-    {
-      "basename": "点亮FSMP1A开发板的LED1",
-      "path": "pages/点亮FSMP1A开发板的LED1.md"
-    },
-    {
-      "basename": "2023-06-06",
-      "path": "journals/2023-06-06.md"
-    },
-    {
-      "basename": "index",
-      "path": "pages/index.md"
-    },
-    {
-      "basename": "FSMP1A开发板",
-      "path": "pages/FSMP1A开发板.md"
-    },
-    {
-      "basename": "FSMP1A开发板硬件资源",
-      "path": "pages/FSMP1A开发板硬件资源.md"
-    },
-    {
-      "basename": "FSMP1A开发板数据手册",
-      "path": "pages/FSMP1A开发板数据手册.md"
-    },
-    {
-      "basename": "ARM汇编",
-      "path": "pages/ARM汇编.md"
-    },
-    {
-      "basename": "TTL串口",
-      "path": "pages/TTL串口.md"
-    },
-    {
-      "basename": "SOC",
-      "path": "pages/SOC.md"
-    },
-    {
-      "basename": "TTL电平",
-      "path": "pages/TTL电平.md"
+      "basename": "串行总线",
+      "path": "pages/串行总线.md"
     },
     {
       "basename": "IIC总线",
       "path": "pages/IIC总线.md"
     },
     {
-      "basename": "RS-485总线",
-      "path": "pages/RS-485总线.md"
-    },
-    {
-      "basename": "USB总线",
-      "path": "pages/USB总线.md"
-    },
-    {
       "basename": "总线的分类",
       "path": "pages/总线的分类.md"
-    },
-    {
-      "basename": "串行总线和并行总线的区别",
-      "path": "pages/串行总线和并行总线的区别.md"
-    },
-    {
-      "basename": "使用STM32MP157A的M4内核点亮LED1",
-      "path": "pages/使用STM32MP157A的M4内核点亮LED1.md"
-    },
-    {
-      "basename": "SPI总线",
-      "path": "pages/SPI总线.md"
-    },
-    {
-      "basename": "总线",
-      "path": "pages/总线.md"
-    },
-    {
-      "basename": "UART工作原理",
-      "path": "pages/UART工作原理.md"
-    },
-    {
-      "basename": "串行总线",
-      "path": "pages/串行总线.md"
     },
     {
       "basename": "异步总线",
@@ -149,6 +37,150 @@
       "path": "pages/并行总线.md"
     },
     {
+      "basename": "USB总线",
+      "path": "pages/USB总线.md"
+    },
+    {
+      "basename": "2023-06-07",
+      "path": "journals/2023-06-07.md"
+    },
+    {
+      "basename": "HQYJ-ARM课程",
+      "path": "pages/HQYJ-ARM课程.md"
+    },
+    {
+      "basename": "index",
+      "path": "journals/index.md"
+    },
+    {
+      "basename": "2023-06-08",
+      "path": "journals/2023-06-08.md"
+    },
+    {
+      "basename": "编译器优化",
+      "path": "pages/编译器优化.md"
+    },
+    {
+      "basename": "vss和vdd",
+      "path": "pages/vss和vdd.md"
+    },
+    {
+      "basename": "缓存优化问题",
+      "path": "pages/缓存优化问题.md"
+    },
+    {
+      "basename": "缓存",
+      "path": "pages/缓存.md"
+    },
+    {
+      "basename": "缓存优化问题在单线程-多线程中都会发生",
+      "path": "pages/缓存优化问题在单线程-多线程中都会发生.md"
+    },
+    {
+      "basename": "解决缓存优化问题",
+      "path": "pages/解决缓存优化问题.md"
+    },
+    {
+      "basename": "volatile",
+      "path": "pages/volatile.md"
+    },
+    {
+      "basename": "volatile关键字一般用于修饰寄存器变量",
+      "path": "pages/volatile关键字一般用于修饰寄存器变量.md"
+    },
+    {
+      "basename": "STM32MP157a",
+      "path": "pages/STM32MP157a.md"
+    },
+    {
+      "basename": "TTL串口",
+      "path": "pages/TTL串口.md"
+    },
+    {
+      "basename": "TTL电平",
+      "path": "pages/TTL电平.md"
+    },
+    {
+      "basename": "STM32MP157特殊功能寄存器",
+      "path": "pages/STM32MP157特殊功能寄存器.md"
+    },
+    {
+      "basename": "用c语言封装STM32MP175的特殊功能寄存器",
+      "path": "pages/用c语言封装STM32MP175的特殊功能寄存器.md"
+    },
+    {
+      "basename": "ARMv7特殊功能寄存器",
+      "path": "pages/ARMv7特殊功能寄存器.md"
+    },
+    {
+      "basename": "STM32MP157",
+      "path": "pages/STM32MP157.md"
+    },
+    {
+      "basename": "index",
+      "path": "pages/index.md"
+    },
+    {
+      "basename": "SOC",
+      "path": "pages/SOC.md"
+    },
+    {
+      "basename": "使用STM32MP157A的A7内核点亮LED1",
+      "path": "pages/使用STM32MP157A的A7内核点亮LED1.md"
+    },
+    {
+      "basename": "互斥锁和volatile的区别",
+      "path": "pages/互斥锁和volatile的区别.md"
+    },
+    {
+      "basename": "点亮FSMP1A开发板的LED1",
+      "path": "pages/点亮FSMP1A开发板的LED1.md"
+    },
+    {
+      "basename": "2023-06-06",
+      "path": "journals/2023-06-06.md"
+    },
+    {
+      "basename": "FSMP1A开发板",
+      "path": "pages/FSMP1A开发板.md"
+    },
+    {
+      "basename": "FSMP1A开发板硬件资源",
+      "path": "pages/FSMP1A开发板硬件资源.md"
+    },
+    {
+      "basename": "FSMP1A开发板数据手册",
+      "path": "pages/FSMP1A开发板数据手册.md"
+    },
+    {
+      "basename": "ARM汇编",
+      "path": "pages/ARM汇编.md"
+    },
+    {
+      "basename": "RS-485总线",
+      "path": "pages/RS-485总线.md"
+    },
+    {
+      "basename": "串行总线和并行总线的区别",
+      "path": "pages/串行总线和并行总线的区别.md"
+    },
+    {
+      "basename": "使用STM32MP157A的M4内核点亮LED1",
+      "path": "pages/使用STM32MP157A的M4内核点亮LED1.md"
+    },
+    {
+      "basename": "SPI总线",
+      "path": "pages/SPI总线.md"
+    },
+    {
+      "basename": "总线",
+      "path": "pages/总线.md"
+    },
+    {
+      "basename": "UART工作原理",
+      "path": "pages/UART工作原理.md"
+    },
+    {
       "basename": "ARM汇编实现三盏灯的流水",
       "path": "pages/ARM汇编实现三盏灯的流水.md"
     },
@@ -167,14 +199,6 @@
     {
       "basename": "寻找基地址",
       "path": "pages/寻找基地址.md"
-    },
-    {
-      "basename": "GPIO端口模式寄存器",
-      "path": "pages/GPIO端口模式寄存器.md"
-    },
-    {
-      "basename": "GPIO控制器的工作原理",
-      "path": "pages/GPIO控制器的工作原理.md"
     }
   ],
   "omittedPaths": [],

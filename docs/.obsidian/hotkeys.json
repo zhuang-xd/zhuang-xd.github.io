@@ -827,5 +827,13 @@
       ],
       "key": "G"
     }
+  ],
+  "obsidian-hotkeys-for-specific-files:journals/index.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
   ]
 }
