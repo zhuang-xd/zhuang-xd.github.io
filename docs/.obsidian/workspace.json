@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c5c300b6f7ab7cfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d57bef490e77f40b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2023-06-08.md",
+                "file": "pages/缓存优化问题在单线程-多线程中都会发生.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -35,25 +48,12 @@
         "dimension": 38.32807570977918,
         "children": [
           {
-            "id": "c5c300b6f7ab7cfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d80b8552394d7d01",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "journals/2023-06-08.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5c951c2808b2b812",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2023-06-08.md"
+                "file": "index.md"
               }
             }
           },
@@ -172,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2023-06-08.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,9 +216,29 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "d57bef490e77f40b",
+  "active": "c5c300b6f7ab7cfd",
   "lastOpenFiles": [
+    "list/4.md",
+    "list/3.md",
+    "list/2.md",
+    "list/1.md",
+    "list/index.md",
+    "list/5.md",
+    "list/用c语言封装STM32MP175的特殊功能寄存器",
+    "list/GPIO",
+    "list/的",
+    "list/LED1",
+    "list/依据网络标号，在开发板的资源扩展板上查询",
+    "list/协议、总线、接口的关系",
+    "list/为什么要时钟使能",
+    "list/使用STM32MP157A的A7内核点亮LED1",
+    "list/实现C语言控制蜂鸣器和风扇",
+    "list/开启外部时钟",
+    "pages/工具导航.md",
+    "index.md",
+    "pages/ARM汇编实现三盏灯的流水.md",
     "pages/index.md",
+    "pages/缓存优化问题在单线程-多线程中都会发生.md",
     "journals/2023-06-08.md",
     "pages/RAM.md",
     "pages/SOC.md",
@@ -225,45 +246,25 @@
     "pages/STM32MP157a.md",
     "pages/查看LED1的原理图，寻找对应的网络标号.md",
     "pages/点亮FSMP1A开发板的LED1.md",
-    "pages/工具导航.md",
-    "pages/缓存优化问题在单线程-多线程中都会发生.md",
     "pages/实现C语言控制蜂鸣器和风扇.md",
     "pages/开启外部时钟.md",
     "pages/依据网络标号，在开发板的资源扩展板上查询 LED1 的 GPIO.md",
     "pages/用c语言封装STM32MP175的特殊功能寄存器.md",
-    "pages/ARM汇编实现三盏灯的流水.md",
     "pages/FSMP1A开发板的LED1电路分析.md",
     "pages/RAM和FLASH的区别.md",
     "pages/volatile关键字一般用于修饰寄存器变量.md",
     "pages/soc和cpu的区别.md",
-    "pages/为什么要时钟使能.md",
-    "pages/使用STM32MP157A的A7内核点亮LED1.md",
-    "pages/缓存优化问题.md",
     "public/images/home.gif",
     "public/images/20230608154350524.gif",
     "public/images/logo.gif",
     "public/images/20230608154328052.gif",
-    "index.md",
-    "pages/test.md",
-    "pages/UART寄存器组织.md",
-    "pages/串行总线.md",
     "pages/assets/20230608115809326.png",
     "pages/assets/20230608115421849.png",
     "pages/assets/20230608115347234.png",
     "pages/assets/20230608115204982.png",
     "pages/assets/20230608113051097.png",
     "pages/assets/20230608111533974.png",
-    "GPIO上拉/assets",
-    "GPIO上拉",
-    "timeline",
-    "Bit set",
-    "Excalidraw",
     "20230605204551162.canvas",
-    "public/asstes/STM32MP157裸机开发环境搭建.zip",
-    "public/asstes",
-    "public/新建文件夹",
-    "public/images",
-    "public/iamges",
     "2023-06-05.canvas",
     "文件IO.canvas",
     "others/C语言.canvas",

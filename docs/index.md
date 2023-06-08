@@ -13,8 +13,8 @@ hero:
   actions:
     - theme: brand
       text: 目录
-      link: /pages/
+      link: /list/1.md
+    - theme: brand
+      text: 工具
+      link: /pages/工具导航.md
 ---
-
-- [目录](pages/index.md)
-- [工具导航](pages/工具导航.md)
