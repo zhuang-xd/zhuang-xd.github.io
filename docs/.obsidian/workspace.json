@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "pages/依据网络标号,在开发板的资源扩展板上查询LED1的GPIO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -53,7 +53,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "pages/依据网络标号,在开发板的资源扩展板上查询LED1的GPIO.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#概念",
+                "query": "依据网络标号，在开发板的资源扩展板上查询 LED1 的 GPIO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "pages/依据网络标号,在开发板的资源扩展板上查询LED1的GPIO.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "pages/依据网络标号,在开发板的资源扩展板上查询LED1的GPIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,15 +216,35 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "50e5ac41b8093b36",
+  "active": "c5c300b6f7ab7cfd",
   "lastOpenFiles": [
-    "list/1.md",
     "list/2.md",
-    "list",
-    "list/4.md",
+    "list/1.md",
     "list/3.md",
-    "list/index.md",
+    "list/17.md",
+    "list/16.md",
+    "list/15.md",
+    "list/14.md",
+    "list/13.md",
+    "list/12.md",
+    "list/11.md",
+    "list/10.md",
+    "list/9.md",
+    "list/8.md",
+    "list/7.md",
+    "list/6.md",
     "list/5.md",
+    "list/4.md",
+    "list/50.md",
+    "list/49.md",
+    "list/48.md",
+    "list/47.md",
+    "list/46.md",
+    "list/45.md",
+    "list/44.md",
+    "list/43.md",
+    "list/42.md",
+    "list",
     "list/用c语言封装STM32MP175的特殊功能寄存器",
     "list/GPIO",
     "list/的",
@@ -234,25 +254,6 @@
     "list/为什么要时钟使能",
     "list/使用STM32MP157A的A7内核点亮LED1",
     "list/实现C语言控制蜂鸣器和风扇",
-    "pages/工具导航.md",
-    "index.md",
-    "pages/ARM汇编实现三盏灯的流水.md",
-    "pages/index.md",
-    "pages/缓存优化问题在单线程-多线程中都会发生.md",
-    "journals/2023-06-08.md",
-    "pages/RAM.md",
-    "pages/SOC.md",
-    "pages/TTL电平.md",
-    "pages/STM32MP157a.md",
-    "pages/查看LED1的原理图，寻找对应的网络标号.md",
-    "pages/点亮FSMP1A开发板的LED1.md",
-    "pages/实现C语言控制蜂鸣器和风扇.md",
-    "pages/开启外部时钟.md",
-    "pages/依据网络标号，在开发板的资源扩展板上查询 LED1 的 GPIO.md",
-    "pages/用c语言封装STM32MP175的特殊功能寄存器.md",
-    "pages/FSMP1A开发板的LED1电路分析.md",
-    "pages/RAM和FLASH的区别.md",
-    "pages/volatile关键字一般用于修饰寄存器变量.md",
     "public/images/home.gif",
     "public/images/20230608154350524.gif",
     "public/images/logo.gif",

@@ -6,11 +6,10 @@ const { sidebar } = AutoConfigureNavSidebarPlugin({
     // collapsed:true,
     // isCollapse: false,
     ignoreFolders: [
-        "list",
         "assets",
     ],
     ignoreFiles: [
-        "index.md"
+        "index.md",
     ]
 })
 

@@ -18,6 +18,7 @@ export default {
         logo: '/images/logo.gif', // 如果放在public目录下可以直接 /logo.
         nav: nav,
         sidebar,
+        // sidebar: false,
         socialLinks: [
             { icon: 'github', link: 'https://github.com/zhuang-xd' },
         ],

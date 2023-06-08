@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "依据网络标号,在开发板的资源扩展板上查询LED1的GPIO",
+      "path": "pages/依据网络标号,在开发板的资源扩展板上查询LED1的GPIO.md"
+    },
+    {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "index",
+      "path": "journals/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "pages/index.md"
+    },
+    {
+      "basename": "2023-06-06",
+      "path": "journals/2023-06-06.md"
     },
     {
       "basename": "工具导航",
@@ -11,10 +27,6 @@
     {
       "basename": "ARM汇编实现三盏灯的流水",
       "path": "pages/ARM汇编实现三盏灯的流水.md"
-    },
-    {
-      "basename": "index",
-      "path": "pages/index.md"
     },
     {
       "basename": "缓存优化问题在单线程-多线程中都会发生",
@@ -59,10 +71,6 @@
     {
       "basename": "开启外部时钟",
       "path": "pages/开启外部时钟.md"
-    },
-    {
-      "basename": "依据网络标号，在开发板的资源扩展板上查询 LED1 的 GPIO",
-      "path": "pages/依据网络标号，在开发板的资源扩展板上查询 LED1 的 GPIO.md"
     },
     {
       "basename": "用c语言封装STM32MP175的特殊功能寄存器",
@@ -163,10 +171,6 @@
     {
       "basename": "总线的分类",
       "path": "pages/总线的分类.md"
-    },
-    {
-      "basename": "index",
-      "path": "journals/index.md"
     },
     {
       "basename": "IIC总线",

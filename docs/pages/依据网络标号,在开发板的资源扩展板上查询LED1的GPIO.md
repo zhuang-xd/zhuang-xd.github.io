@@ -1,9 +1,9 @@
 ---
 tags: 应用
-title: 依据网络标号，在开发板的资源扩展板上查询 LED1 的 GPIO
+title: 依据网络标号,在开发板的资源扩展板上查询LED1的GPIO
 date: 2023-06-06
 ---
-# 依据网络标号，在开发板的资源扩展板上查询 LED1 的 GPIO
+# 依据网络标号,在开发板的资源扩展板上查询LED1的GPIO
 
 ```url
 D:\user\documents\学习资料\arm\STM32MP157\01_参考资料\01.2_原理图\扩展板\FS_MP157_PHD_TO_FFC.pdf
