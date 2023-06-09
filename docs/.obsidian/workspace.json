@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/用github_action自动部署vitepress项目.md",
+                "file": "journals/2023-06-06.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +32,7 @@
       {
         "id": "b518eef6bcc0bf7e",
         "type": "tabs",
-        "dimension": 32.62642740619902,
+        "dimension": 32.6530612244898,
         "children": [
           {
             "id": "fa28fd5f60fbff89",
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/用github_action自动部署vitepress项目.md"
+                "file": "journals/2023-06-06.md"
               }
             }
           }
@@ -57,7 +57,7 @@
       {
         "id": "c3108acc7f874e97",
         "type": "tabs",
-        "dimension": 67.37357259380097,
+        "dimension": 67.3469387755102,
         "children": [
           {
             "id": "eafcf902c3bfe127",
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#站点",
+                "query": "tag:#待成文",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/用github_action自动部署vitepress项目.md",
+                "file": "journals/2023-06-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,19 +173,36 @@
     "list-concept/2.md",
     "list-concept/1.md",
     "list-projects/1.md",
+    "list-projects",
+    "list-thought",
+    "list-concept",
+    "pages/时钟漂移.md",
+    "pages/振荡电路.md",
+    "pages/GPIO控制器的工作原理.md",
+    "pages/volatile关键字一般用于修饰寄存器变量.md",
     "journals/2023-06-09.md",
+    "pages/GoldenDict调用百度领域翻译api.md",
+    "pages/assets/20230609165925166.png",
+    "pages/assets/20230609165910964.png",
+    "pages/assets/20230609165442483.png",
+    "pages/assets/20230609165331219.png",
+    "pages/assets/20230609164842464.png",
+    "pages/assets/20230609164254313.png",
+    "pages/assets/20230609164201959.png",
+    "pages/assets/20230609163820672.png",
+    "pages/assets/20230609162907386.png",
+    "pages/assets/20230609162749582.png",
+    "pages/test.md",
+    "about/index.md",
+    "journals/index.md",
+    "pages/index.md",
+    "pages/用github_action自动部署vitepress项目.md",
     "pages/使用 STM32MP157的m4内核控制数码管，显示一个倒计时.md",
     "pages/如何再windows环境下自动执行shell脚本.md",
     "pages/algolia search 和 local search有什么区别.md",
-    "pages/index.md",
-    "journals/index.md",
-    "about/index.md",
     "pages/github如何实现这样的主页.md",
-    "pages/assets/20230609133731762.png",
     "pages/HQYJ-ARM课程.md",
-    "pages/volatile关键字一般用于修饰寄存器变量.md",
     "pages/FSMP1A开发板的LED1电路分析.md",
-    "pages/振荡电路.md",
     "20230609123214906.txt",
     "20230609123209317.txt",
     "20230609123209066.txt",
@@ -193,26 +210,8 @@
     "20230609123206026.txt",
     "pages/编写汇编程序控制 GPIO 控制器 和 RCC 进行工作.md",
     "pages/半双工总线.md",
-    "pages/16倍采样.md",
-    "pages/Bit set or reset registers方式和from on-chip peripheral的区别.md",
-    "list-projects",
     "list-unfiled",
-    "pages/mos管.md",
-    "pages/mos管和三极管的区别.md",
-    "pages/USART.md",
-    "pages/USB总线.md",
-    "list-thought",
-    "list-concept",
     "thought_list",
-    "public/images/home.gif",
-    "public/images/20230608154350524.gif",
-    "public/images/logo.gif",
-    "public/images/20230608154328052.gif",
-    "pages/assets/20230608115809326.png",
-    "pages/assets/20230608115421849.png",
-    "pages/assets/20230608115347234.png",
-    "pages/assets/20230608115204982.png",
-    "pages/assets/20230608113051097.png",
     "20230605204551162.canvas",
     "2023-06-05.canvas",
     "文件IO.canvas",

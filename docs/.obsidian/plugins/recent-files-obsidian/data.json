@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "用github_action自动部署vitepress项目",
-      "path": "pages/用github_action自动部署vitepress项目.md"
+      "basename": "2023-06-06",
+      "path": "journals/2023-06-06.md"
+    },
+    {
+      "basename": "时钟漂移",
+      "path": "pages/时钟漂移.md"
+    },
+    {
+      "basename": "振荡电路",
+      "path": "pages/振荡电路.md"
+    },
+    {
+      "basename": "GPIO控制器的工作原理",
+      "path": "pages/GPIO控制器的工作原理.md"
+    },
+    {
+      "basename": "volatile关键字一般用于修饰寄存器变量",
+      "path": "pages/volatile关键字一般用于修饰寄存器变量.md"
     },
     {
       "basename": "2023-06-09",
       "path": "journals/2023-06-09.md"
+    },
+    {
+      "basename": "GoldenDict调用百度领域翻译api",
+      "path": "pages/GoldenDict调用百度领域翻译api.md"
+    },
+    {
+      "basename": "index",
+      "path": "about/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "journals/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "pages/index.md"
+    },
+    {
+      "basename": "用github_action自动部署vitepress项目",
+      "path": "pages/用github_action自动部署vitepress项目.md"
     },
     {
       "basename": "使用 STM32MP157的m4内核控制数码管，显示一个倒计时",
