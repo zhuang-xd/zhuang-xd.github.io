@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/index.md",
+                "file": "pages/用github_action自动部署vitepress项目.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -35,16 +35,6 @@
         "dimension": 32.62642740619902,
         "children": [
           {
-            "id": "4a979136b41cb68f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "about/index.md"
-              }
-            }
-          },
-          {
             "id": "fa28fd5f60fbff89",
             "type": "leaf",
             "state": {
@@ -53,25 +43,16 @@
             }
           },
           {
-            "id": "50e5ac41b8093b36",
+            "id": "4a979136b41cb68f",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "outline",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "pages/用github_action自动部署vitepress项目.md"
               }
             }
-          },
-          {
-            "id": "3b32825331adecdb",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c3108acc7f874e97",
@@ -85,7 +66,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -104,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,12 +100,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "50e5ac41b8093b36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "380ece82f949a1b3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about/index.md",
+                "file": "pages/用github_action自动部署vitepress项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,9 +133,16 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "3b32825331adecdb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,18 +172,20 @@
     "list-concept/3.md",
     "list-concept/2.md",
     "list-concept/1.md",
-    "journals/index.md",
-    "pages/index.md",
     "journals/2023-06-09.md",
-    "pages/github如何实现这样的主页.md",
-    "pages/assets/20230609133731762.png",
+    "pages/使用 STM32MP157的m4内核控制数码管，显示一个倒计时.md",
+    "pages/如何再windows环境下自动执行shell脚本.md",
+    "pages/algolia search 和 local search有什么区别.md",
+    "pages/index.md",
+    "journals/index.md",
     "about/index.md",
     "list-projects/1.md",
+    "pages/github如何实现这样的主页.md",
+    "pages/assets/20230609133731762.png",
     "pages/HQYJ-ARM课程.md",
     "pages/volatile关键字一般用于修饰寄存器变量.md",
     "pages/FSMP1A开发板的LED1电路分析.md",
     "pages/振荡电路.md",
-    "pages/使用 STM32MP157的m4内核控制数码管，显示一个倒计时.md",
     "20230609123214906.txt",
     "20230609123209317.txt",
     "20230609123209066.txt",
@@ -202,7 +201,6 @@
     "pages/mos管和三极管的区别.md",
     "pages/USART.md",
     "pages/USB总线.md",
-    "pages/volatile.md",
     "list-thought",
     "list-concept",
     "thought_list",

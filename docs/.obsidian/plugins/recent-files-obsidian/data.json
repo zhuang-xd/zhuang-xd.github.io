@@ -1,196 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "index",
-      "path": "about/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "journals/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "pages/index.md"
+      "basename": "用github_action自动部署vitepress项目",
+      "path": "pages/用github_action自动部署vitepress项目.md"
     },
     {
       "basename": "2023-06-09",
       "path": "journals/2023-06-09.md"
     },
     {
-      "basename": "github如何实现这样的主页",
-      "path": "pages/github如何实现这样的主页.md"
-    },
-    {
-      "basename": "HQYJ-ARM课程",
-      "path": "pages/HQYJ-ARM课程.md"
-    },
-    {
-      "basename": "volatile关键字一般用于修饰寄存器变量",
-      "path": "pages/volatile关键字一般用于修饰寄存器变量.md"
-    },
-    {
-      "basename": "FSMP1A开发板的LED1电路分析",
-      "path": "pages/FSMP1A开发板的LED1电路分析.md"
-    },
-    {
-      "basename": "振荡电路",
-      "path": "pages/振荡电路.md"
-    },
-    {
       "basename": "使用 STM32MP157的m4内核控制数码管，显示一个倒计时",
       "path": "pages/使用 STM32MP157的m4内核控制数码管，显示一个倒计时.md"
     },
     {
-      "basename": "编写汇编程序控制 GPIO 控制器 和 RCC 进行工作",
-      "path": "pages/编写汇编程序控制 GPIO 控制器 和 RCC 进行工作.md"
-    },
-    {
-      "basename": "半双工总线",
-      "path": "pages/半双工总线.md"
-    },
-    {
-      "basename": "16倍采样",
-      "path": "pages/16倍采样.md"
-    },
-    {
-      "basename": "Bit set or reset registers方式和from on-chip peripheral的区别",
-      "path": "pages/Bit set or reset registers方式和from on-chip peripheral的区别.md"
-    },
-    {
-      "basename": "mos管",
-      "path": "pages/mos管.md"
-    },
-    {
-      "basename": "mos管和三极管的区别",
-      "path": "pages/mos管和三极管的区别.md"
-    },
-    {
-      "basename": "USART",
-      "path": "pages/USART.md"
-    },
-    {
-      "basename": "USB总线",
-      "path": "pages/USB总线.md"
-    },
-    {
-      "basename": "volatile",
-      "path": "pages/volatile.md"
-    },
-    {
-      "basename": "vss和vdd",
-      "path": "pages/vss和vdd.md"
-    },
-    {
-      "basename": "SPSR寄存器",
-      "path": "pages/SPSR寄存器.md"
-    },
-    {
-      "basename": "SPI总线",
-      "path": "pages/SPI总线.md"
-    },
-    {
-      "basename": "STM32MP157",
-      "path": "pages/STM32MP157.md"
-    },
-    {
-      "basename": "STM32MP157裸机开发环境搭建",
-      "path": "pages/STM32MP157裸机开发环境搭建.md"
-    },
-    {
-      "basename": "STM32MP157特殊功能寄存器",
-      "path": "pages/STM32MP157特殊功能寄存器.md"
-    },
-    {
-      "basename": "STM32MP157a",
-      "path": "pages/STM32MP157a.md"
-    },
-    {
-      "basename": "Thumb-2指令集",
-      "path": "pages/Thumb-2指令集.md"
-    },
-    {
-      "basename": "TTL电平",
-      "path": "pages/TTL电平.md"
-    },
-    {
-      "basename": "UART",
-      "path": "pages/UART.md"
-    },
-    {
-      "basename": "UART工作原理",
-      "path": "pages/UART工作原理.md"
-    },
-    {
-      "basename": "UART寄存器组织",
-      "path": "pages/UART寄存器组织.md"
-    },
-    {
-      "basename": "UART内部工作框图",
-      "path": "pages/UART内部工作框图.md"
-    },
-    {
-      "basename": "UART是如何减小累积误差的",
-      "path": "pages/UART是如何减小累积误差的.md"
-    },
-    {
-      "basename": "GPIO控制器的工作原理",
-      "path": "pages/GPIO控制器的工作原理.md"
-    },
-    {
-      "basename": "缓存优化问题在单线程-多线程中都会发生",
-      "path": "pages/缓存优化问题在单线程-多线程中都会发生.md"
-    },
-    {
-      "basename": "用github_action自动部署vitepress项目",
-      "path": "pages/用github_action自动部署vitepress项目.md"
-    },
-    {
-      "basename": "交叉编译Makefile文件配置",
-      "path": "pages/交叉编译Makefile文件配置.md"
-    },
-    {
-      "basename": "设置RCC使能",
-      "path": "pages/设置RCC使能.md"
-    },
-    {
-      "basename": "ARM汇编实现三盏灯的流水",
-      "path": "pages/ARM汇编实现三盏灯的流水.md"
-    },
-    {
-      "basename": "依据网络标号,在开发板的资源扩展板上查询LED1的GPIO",
-      "path": "pages/依据网络标号,在开发板的资源扩展板上查询LED1的GPIO.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "2023-06-06",
-      "path": "journals/2023-06-06.md"
-    },
-    {
-      "basename": "工具导航",
-      "path": "pages/工具导航.md"
-    },
-    {
-      "basename": "2023-06-08",
-      "path": "journals/2023-06-08.md"
-    },
-    {
-      "basename": "ARM内核",
-      "path": "pages/ARM内核.md"
-    },
-    {
-      "basename": "RAM",
-      "path": "pages/RAM.md"
-    },
-    {
-      "basename": "SOC",
-      "path": "pages/SOC.md"
-    },
-    {
-      "basename": "查看LED1的原理图，寻找对应的网络标号",
-      "path": "pages/查看LED1的原理图，寻找对应的网络标号.md"
+      "basename": "algolia search 和 local search有什么区别",
+      "path": "pages/algolia search 和 local search有什么区别.md"
     }
   ],
   "omittedPaths": [],
