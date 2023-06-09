@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-09",
+      "path": "journals/2023-06-09.md"
+    },
+    {
       "basename": "index",
       "path": "about/index.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "GPIO控制器的工作原理",
       "path": "pages/GPIO控制器的工作原理.md"
-    },
-    {
-      "basename": "2023-06-09",
-      "path": "journals/2023-06-09.md"
     },
     {
       "basename": "缓存优化问题在单线程-多线程中都会发生",
