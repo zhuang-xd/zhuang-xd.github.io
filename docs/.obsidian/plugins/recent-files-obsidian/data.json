@@ -2,10 +2,6 @@
   "recentFiles": [
     {
       "basename": "index",
-      "path": "pages/index.md"
-    },
-    {
-      "basename": "index",
       "path": "about/index.md"
     },
     {
@@ -13,12 +9,20 @@
       "path": "journals/index.md"
     },
     {
-      "basename": "HQYJ-ARM课程",
-      "path": "pages/HQYJ-ARM课程.md"
+      "basename": "index",
+      "path": "pages/index.md"
     },
     {
       "basename": "2023-06-09",
       "path": "journals/2023-06-09.md"
+    },
+    {
+      "basename": "github如何实现这样的主页",
+      "path": "pages/github如何实现这样的主页.md"
+    },
+    {
+      "basename": "HQYJ-ARM课程",
+      "path": "pages/HQYJ-ARM课程.md"
     },
     {
       "basename": "volatile关键字一般用于修饰寄存器变量",

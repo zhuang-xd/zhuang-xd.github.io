@@ -4,6 +4,18 @@ import timeline from "vitepress-markdown-timeline";
 
 //vitepress官方文档 https://vitepress.dev/guide/what-is-vitepress
 
+
+// import { defineConfig } from 'vitepress'
+
+// export default defineConfig({
+//   themeConfig: {
+//     search: {
+//       provider: 'local'
+//     }
+//   }
+// })
+
+
 export default {
     ignoreDeadLinks: true, //忽略死链
     base: '/',
@@ -21,6 +33,9 @@ export default {
         socialLinks: [
             { icon: 'github', link: 'https://github.com/zhuang-xd' },
         ],
+        search: {
+            provider: 'local'
+        }
     },
     // 插件
     markdown: {

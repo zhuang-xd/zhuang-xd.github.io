@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/index.md",
+                "file": "about/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -40,7 +40,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/index.md"
+                "file": "about/index.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/index.md",
+                "file": "about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,17 +170,19 @@
   },
   "active": "635d4047615a6495",
   "lastOpenFiles": [
-    "about/index.md",
-    "journals/index.md",
-    "pages/index.md",
-    "list-projects/1.md",
     "list-thought/2.md",
     "list-thought/1.md",
     "list-concept/3.md",
     "list-concept/2.md",
     "list-concept/1.md",
-    "pages/HQYJ-ARM课程.md",
+    "journals/index.md",
+    "pages/index.md",
     "journals/2023-06-09.md",
+    "pages/github如何实现这样的主页.md",
+    "pages/assets/20230609133731762.png",
+    "about/index.md",
+    "list-projects/1.md",
+    "pages/HQYJ-ARM课程.md",
     "pages/volatile关键字一般用于修饰寄存器变量.md",
     "pages/FSMP1A开发板的LED1电路分析.md",
     "pages/振荡电路.md",
@@ -201,8 +203,6 @@
     "pages/USART.md",
     "pages/USB总线.md",
     "pages/volatile.md",
-    "pages/vss和vdd.md",
-    "pages/SPSR寄存器.md",
     "list-thought",
     "list-concept",
     "thought_list",
@@ -215,7 +215,6 @@
     "pages/assets/20230608115347234.png",
     "pages/assets/20230608115204982.png",
     "pages/assets/20230608113051097.png",
-    "pages/assets/20230608111533974.png",
     "20230605204551162.canvas",
     "2023-06-05.canvas",
     "文件IO.canvas",
