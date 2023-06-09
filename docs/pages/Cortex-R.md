@@ -1,6 +1,7 @@
 ---
 tags: 概念
 title: Cortex-R
+sidebar: false
 date: 2023-06-06
 ---
 # Cortex-R

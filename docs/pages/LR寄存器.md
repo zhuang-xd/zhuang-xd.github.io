@@ -1,9 +1,9 @@
 ---
-aliases: [LR, Link Register]
 tags: 待成文
+aliases: [LR, Link Register]
 title: LR
+sidebar: false
 date: 2023-06-06
-linter-yaml-title-alias: LR
 ---
 # LR
 

@@ -1,6 +1,7 @@
 ---
 tags: 概念
 title: FSMP1A开发板
+sidebar: false
 date: 2023-06-06
 ---
 # FSMP1A开发板

@@ -1,9 +1,8 @@
 ---
-aliases: [ARM32开发]
 tags: 待成文
 title: ARM32开发
+sidebar: false
 date: 2023-06-06
-linter-yaml-title-alias: ARM32开发
 ---
 # ARM32开发
 

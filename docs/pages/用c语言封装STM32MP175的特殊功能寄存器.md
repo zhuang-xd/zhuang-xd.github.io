@@ -1,6 +1,7 @@
 ---
-tags: 应用
+tags: 思维
 title: 用c语言封装STM32MP175的特殊功能寄存器
+sidebar: false
 date: 2023-06-07
 ---
 # 用c语言封装STM32MP175的特殊功能寄存器

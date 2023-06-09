@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/依据网络标号,在开发板的资源扩展板上查询LED1的GPIO.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d57bef490e77f40b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/缓存优化问题在单线程-多线程中都会发生.md",
+                "file": "about/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,15 +32,28 @@
       {
         "id": "b518eef6bcc0bf7e",
         "type": "tabs",
-        "dimension": 38.32807570977918,
+        "dimension": 36.517719568567024,
         "children": [
+          {
+            "id": "d57bef490e77f40b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
           {
             "id": "d80b8552394d7d01",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/依据网络标号,在开发板的资源扩展板上查询LED1的GPIO.md",
+                "file": "about/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -100,13 +100,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5c951c2808b2b812",
         "type": "tabs",
-        "dimension": 61.67192429022082,
+        "dimension": 63.48228043143297,
         "children": [
           {
             "id": "eafcf902c3bfe127",
@@ -125,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "依据网络标号，在开发板的资源扩展板上查询 LED1 的 GPIO",
+                "query": "tag:#思维",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/依据网络标号,在开发板的资源扩展板上查询LED1的GPIO.md"
+                "file": "about/index.md"
               }
             }
           },
@@ -152,8 +151,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/依据网络标号,在开发板的资源扩展板上查询LED1的GPIO.md",
+                "file": "about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,42 +216,42 @@
   },
   "active": "c5c300b6f7ab7cfd",
   "lastOpenFiles": [
-    "list/1.md",
-    "list/2.md",
-    "list/3.md",
-    "list/17.md",
-    "list/16.md",
-    "list/15.md",
-    "list/14.md",
-    "list/13.md",
-    "list/12.md",
-    "list/11.md",
-    "list/10.md",
-    "list/9.md",
-    "list/8.md",
-    "list/7.md",
-    "list/6.md",
-    "list/5.md",
-    "list/4.md",
-    "list/50.md",
-    "list/49.md",
-    "list/48.md",
-    "list/47.md",
-    "list/46.md",
-    "list/45.md",
-    "list/44.md",
-    "list/43.md",
-    "list/42.md",
+    "list-thought/2.md",
+    "list-thought/1.md",
+    "list-concept/3.md",
+    "list-concept/2.md",
+    "list-concept/1.md",
+    "journals/index.md",
+    "pages/HQYJ-ARM课程.md",
+    "about/index.md",
+    "list-projects/1.md",
+    "pages/编写汇编程序控制 GPIO 控制器 和 RCC 进行工作.md",
+    "pages/半双工总线.md",
+    "pages/16倍采样.md",
+    "pages/Bit set or reset registers方式和from on-chip peripheral的区别.md",
+    "list-projects",
+    "list-unfiled",
+    "pages/index.md",
+    "pages/mos管.md",
+    "pages/mos管和三极管的区别.md",
+    "pages/USART.md",
+    "pages/USB总线.md",
+    "pages/volatile.md",
+    "pages/volatile关键字一般用于修饰寄存器变量.md",
+    "pages/vss和vdd.md",
+    "pages/SPSR寄存器.md",
+    "pages/SPI总线.md",
+    "pages/STM32MP157.md",
+    "pages/STM32MP157裸机开发环境搭建.md",
+    "pages/STM32MP157特殊功能寄存器.md",
+    "list-thought",
+    "list-concept",
+    "thought_list",
+    "concept_list",
+    "about",
+    "log",
     "list",
     "list/用c语言封装STM32MP175的特殊功能寄存器",
-    "list/GPIO",
-    "list/的",
-    "list/LED1",
-    "list/依据网络标号，在开发板的资源扩展板上查询",
-    "list/协议、总线、接口的关系",
-    "list/为什么要时钟使能",
-    "list/使用STM32MP157A的A7内核点亮LED1",
-    "list/实现C语言控制蜂鸣器和风扇",
     "public/images/home.gif",
     "public/images/20230608154350524.gif",
     "public/images/logo.gif",

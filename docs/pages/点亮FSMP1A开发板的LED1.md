@@ -1,6 +1,7 @@
 ---
-tags: 应用
+tags: 思维
 title: 点亮FSMP1A开发板的LED1
+sidebar: false
 date: 2023-06-06
 ---
 # 点亮FSMP1A开发板的LED1

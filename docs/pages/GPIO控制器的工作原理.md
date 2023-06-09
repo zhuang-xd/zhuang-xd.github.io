@@ -1,6 +1,7 @@
 ---
 tags: 概念
 title: GPIO控制器的工作原理
+sidebar: false
 date: 2023-06-06
 ---
 # GPIO控制器的工作原理

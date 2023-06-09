@@ -1,6 +1,7 @@
 ---
 tags: 待成文
 title: USART
+sidebar: false
 date: 2023-06-08
 ---
 # USART

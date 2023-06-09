@@ -1,7 +1,8 @@
 ---
-aliases: ARMv7
 tags: 概念
+aliases: ARMv7
 title: ARMv7架构
+sidebar: false
 date: 2023-06-06
 ---
 # ARMv7架构

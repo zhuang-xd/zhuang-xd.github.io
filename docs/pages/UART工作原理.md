@@ -2,6 +2,7 @@
 tags: 待成文
 aliases: [UART帧格式, 串口帧格式]
 title: UART工作原理
+sidebar: false
 date: 2023-06-07
 ---
 # UART工作原理

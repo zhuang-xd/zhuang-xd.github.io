@@ -1,6 +1,7 @@
 ---
 tags: 待成文
 title: Makefile中CC和CXX有啥区别
+sidebar: false
 date: 2023-06-06
 ---
 # Makefile中CC和CXX有啥区别

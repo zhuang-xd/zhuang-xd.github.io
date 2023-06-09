@@ -1,6 +1,7 @@
 ---
-tags: 
+tags: 思维
 title: Linux-arm交叉编译环境搭建
+sidebar: false
 date: 2023-06-05
 ---
 # Linux-arm交叉编译环境搭建

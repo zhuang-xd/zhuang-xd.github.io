@@ -1,6 +1,7 @@
 ---
-tags: 应用
+tags: 思维
 title: RAM和FLASH的区别
+sidebar: false
 date: 2023-06-06
 ---
 # RAM和FLASH的区别

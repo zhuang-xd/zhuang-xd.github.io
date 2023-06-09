@@ -1,6 +1,7 @@
 ---
 tags: 待成文
 title: GPIO输入数据寄存器
+sidebar: false
 date: 2023-06-06
 ---
 # GPIO输入数据寄存器

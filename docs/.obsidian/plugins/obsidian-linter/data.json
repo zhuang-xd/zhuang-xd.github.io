@@ -13,8 +13,8 @@
     },
     "format-yaml-array": {
       "enabled": false,
-      "alias-key": true,
-      "tag-key": true,
+      "alias-key": false,
+      "tag-key": false,
       "default-array-style": "single-line",
       "default-array-keys": true,
       "force-single-line-array-style": "",
@@ -22,7 +22,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "tags: 待成文\naliases: "
+      "text-to-insert": "tags: 待成文\naliases: \nsidebar: false"
     },
     "move-tags-to-yaml": {
       "enabled": false,
@@ -56,7 +56,7 @@
     "yaml-title-alias": {
       "enabled": true,
       "preserve-existing-alias-section-style": true,
-      "keep-alias-that-matches-the-filename": true,
+      "keep-alias-that-matches-the-filename": false,
       "use-yaml-key-to-keep-track-of-old-filename-or-heading": false
     },
     "capitalize-headings": {

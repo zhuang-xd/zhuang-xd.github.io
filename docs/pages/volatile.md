@@ -1,6 +1,7 @@
 ---
 tags: 概念
 title: volatile
+sidebar: false
 date: 2023-06-07
 ---
 # volatile

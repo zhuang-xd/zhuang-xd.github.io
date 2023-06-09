@@ -1,6 +1,7 @@
 ---
 tags: 概念
 title: Cortex-A
+sidebar: false
 date: 2023-06-06
 ---
 # Cortex-A

@@ -1,6 +1,7 @@
 ---
-tags: 应用
+tags: 思维
 title: 查看LED1的原理图，寻找对应的网络标号
+sidebar: false
 date: 2023-06-06
 ---
 # 查看LED1的原理图，寻找对应的网络标号

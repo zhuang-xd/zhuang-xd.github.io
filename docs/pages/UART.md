@@ -2,6 +2,7 @@
 tags: 概念
 aliases: [串口, TTL串口]
 title: UART
+sidebar: false
 date: 2023-06-07
 ---
 # UART

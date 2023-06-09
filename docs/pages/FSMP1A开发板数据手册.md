@@ -2,6 +2,7 @@
 tags: 概念
 aliases: 数据手册
 title: FSMP1A开发板数据手册
+sidebar: false
 date: 2023-06-06
 ---
 # FSMP1A开发板数据手册

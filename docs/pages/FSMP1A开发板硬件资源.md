@@ -2,6 +2,7 @@
 tags: 概念
 aliases: 硬件资源
 title: FSMP1A开发板硬件资源
+sidebar: false
 date: 2023-06-06
 ---
 # FSMP1A开发板硬件资源

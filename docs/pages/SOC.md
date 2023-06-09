@@ -2,6 +2,7 @@
 tags: 概念
 aliases: System on Chip
 title: SOC
+sidebar: false
 date: 2023-06-06
 ---
 # SOC

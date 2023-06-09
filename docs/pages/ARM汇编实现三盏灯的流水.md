@@ -1,6 +1,7 @@
 ---
-tags: 应用
+tags: 思维
 title: ARM汇编实现三盏灯的流水
+sidebar: false
 date: 2023-06-06
 ---
 # ARM汇编实现三盏灯的流水
@@ -15,7 +16,7 @@ date: 2023-06-06
 ## 代码
 
 参考 [点亮FSMP1A开发板的LED1](点亮FSMP1A开发板的LED1.md)
-```nasm
+```arm-asm
 .text 
 .global _start
 _start: 

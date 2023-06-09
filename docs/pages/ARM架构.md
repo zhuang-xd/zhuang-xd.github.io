@@ -1,7 +1,8 @@
 ---
-aliases: 架构
 tags: 概念
+aliases: 架构
 title: ARM架构
+sidebar: false
 date: 2023-06-06
 ---
 

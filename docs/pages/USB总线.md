@@ -2,6 +2,7 @@
 tags: 待成文
 aliases: [Universal Serial Bus, 通用串行总线]
 title: USB总线
+sidebar: false
 date: 2023-06-07
 ---
 # USB总线

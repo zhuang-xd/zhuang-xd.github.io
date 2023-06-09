@@ -1,7 +1,8 @@
 ---
-aliases: [PC, Program Counter]
 tags: 待成文
+aliases: [PC, Program Counter]
 title: PC寄存器
+sidebar: false
 date: 2023-06-06
 ---
 # PC寄存器

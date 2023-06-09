@@ -1,6 +1,7 @@
 ---
 tags: 待成文
 title: UART是如何减小累积误差的
+sidebar: false
 date: 2023-06-08
 ---
 # UART是如何减小累积误差的

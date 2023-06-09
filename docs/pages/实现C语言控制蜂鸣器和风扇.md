@@ -1,6 +1,7 @@
 ---
-tags: 应用
+tags: 思维
 title: 实现C语言控制蜂鸣器和风扇
+sidebar: false
 date: 2023-06-07
 ---
 # 实现C语言控制蜂鸣器和风扇

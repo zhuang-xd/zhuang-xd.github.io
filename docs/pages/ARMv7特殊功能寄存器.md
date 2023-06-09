@@ -2,6 +2,7 @@
 tags: 概念
 aliases: 特殊功能寄存器
 title: ARMv7特殊功能寄存器
+sidebar: false
 date: 2023-06-06
 ---
 # ARMv7特殊功能寄存器

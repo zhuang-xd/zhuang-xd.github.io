@@ -2,6 +2,7 @@
 tags: 概念
 aliases: [核心, 内核]
 title: ARM内核
+sidebar: false
 date: 2023-06-06
 ---
 # ARM内核

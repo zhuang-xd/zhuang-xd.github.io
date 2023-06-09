@@ -1,6 +1,7 @@
 ---
-tags: [待成文]
+tags: 待成文
 title: mos管和三极管的区别
+sidebar: false
 date: 2023-06-06
 ---
 # mos管和三极管的区别

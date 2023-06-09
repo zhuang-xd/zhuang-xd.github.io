@@ -1,6 +1,7 @@
 ---
-tags: 应用
+tags: 思维
 title: 依据网络标号,在开发板的资源扩展板上查询LED1的GPIO
+sidebar: false
 date: 2023-06-06
 ---
 # 依据网络标号,在开发板的资源扩展板上查询LED1的GPIO

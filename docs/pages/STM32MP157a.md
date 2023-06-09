@@ -2,6 +2,7 @@
 tags: 概念
 aliases: stm32mp157a
 title: STM32MP157a
+sidebar: false
 date: 2023-06-06
 ---
 # STM32MP157a

@@ -1,6 +1,7 @@
 ---
-tags: 应用
+tags: 思维
 title: volatile关键字一般用于修饰寄存器变量
+sidebar: false
 date: 2023-06-07
 ---
 # volatile关键字一般用于修饰寄存器变量
