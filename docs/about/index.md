@@ -7,13 +7,13 @@ date: 2023-05-26
 # 站点日志
 >
 
-::: timeline 2023-05-29
-- 使用shell脚本实现文章内容的[统计](../pages/index.md)
-- 使用shell脚本实现自动生成[思维笔记的目录](../list/1.md)
+::: timeline 2023-06-08
+- 使用shell脚本实现文章内容的 [统计](../pages/index.md)
+- 使用shell脚本实现自动生成 和 [目录](../list-concept/1.md) 列表
 :::
 
 ::: timeline 2023-05-29
-- 引入 [vitepress-markdown-timeline](https://www.npmjs.com/package/vitepress-markdown-timeline?activeTab=readme) 渲染时间轴页面 :::
+- 引入 [vitepress-markdown-timeline](https://www.npmjs.com/package/vitepress-markdown-timeline?activeTab=readme) 渲染时间轴页面
 :::
 
 ::: timeline 2023-05-26

@@ -241,7 +241,12 @@
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
     "journals",
-    "public"
+    "public",
+    "about",
+    "list-concept",
+    "list-projects",
+    "list-thought",
+    ""
   ],
   "linterLocale": "system-default",
   "logLevel": 4,

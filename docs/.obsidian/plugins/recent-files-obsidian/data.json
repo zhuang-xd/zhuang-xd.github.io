@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-06-09",
-      "path": "journals/2023-06-09.md"
+      "basename": "index",
+      "path": "pages/index.md"
     },
     {
       "basename": "index",
@@ -15,6 +15,26 @@
     {
       "basename": "HQYJ-ARM课程",
       "path": "pages/HQYJ-ARM课程.md"
+    },
+    {
+      "basename": "2023-06-09",
+      "path": "journals/2023-06-09.md"
+    },
+    {
+      "basename": "volatile关键字一般用于修饰寄存器变量",
+      "path": "pages/volatile关键字一般用于修饰寄存器变量.md"
+    },
+    {
+      "basename": "FSMP1A开发板的LED1电路分析",
+      "path": "pages/FSMP1A开发板的LED1电路分析.md"
+    },
+    {
+      "basename": "振荡电路",
+      "path": "pages/振荡电路.md"
+    },
+    {
+      "basename": "使用 STM32MP157的m4内核控制数码管，显示一个倒计时",
+      "path": "pages/使用 STM32MP157的m4内核控制数码管，显示一个倒计时.md"
     },
     {
       "basename": "编写汇编程序控制 GPIO 控制器 和 RCC 进行工作",
@@ -51,10 +71,6 @@
     {
       "basename": "volatile",
       "path": "pages/volatile.md"
-    },
-    {
-      "basename": "volatile关键字一般用于修饰寄存器变量",
-      "path": "pages/volatile关键字一般用于修饰寄存器变量.md"
     },
     {
       "basename": "vss和vdd",
@@ -125,10 +141,6 @@
       "path": "pages/用github_action自动部署vitepress项目.md"
     },
     {
-      "basename": "使用 STM32MP157的m4内核控制数码管，显示一个倒计时",
-      "path": "pages/使用 STM32MP157的m4内核控制数码管，显示一个倒计时.md"
-    },
-    {
       "basename": "交叉编译Makefile文件配置",
       "path": "pages/交叉编译Makefile文件配置.md"
     },
@@ -175,14 +187,6 @@
     {
       "basename": "查看LED1的原理图，寻找对应的网络标号",
       "path": "pages/查看LED1的原理图，寻找对应的网络标号.md"
-    },
-    {
-      "basename": "点亮FSMP1A开发板的LED1",
-      "path": "pages/点亮FSMP1A开发板的LED1.md"
-    },
-    {
-      "basename": "实现C语言控制蜂鸣器和风扇",
-      "path": "pages/实现C语言控制蜂鸣器和风扇.md"
     }
   ],
   "omittedPaths": [],

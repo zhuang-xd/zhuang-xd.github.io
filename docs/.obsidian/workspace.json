@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c57d4dfe6b9106d",
+        "id": "9a543ffede3867cf",
         "type": "tabs",
         "children": [
           {
-            "id": "c5c300b6f7ab7cfd",
+            "id": "635d4047615a6495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2023-06-09.md",
+                "file": "pages/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,54 +32,24 @@
       {
         "id": "b518eef6bcc0bf7e",
         "type": "tabs",
-        "dimension": 36.517719568567024,
+        "dimension": 32.62642740619902,
         "children": [
           {
-            "id": "d57bef490e77f40b",
+            "id": "4a979136b41cb68f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "outline",
               "state": {
-                "file": "journals/index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "pages/index.md"
               }
             }
           },
           {
-            "id": "d80b8552394d7d01",
+            "id": "fa28fd5f60fbff89",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "journals/2023-06-09.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": false,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 94,
-                  "scale": 0.9999999999999996,
-                  "close": true
-                }
-              }
+              "type": "recent-files",
+              "state": {}
             }
           },
           {
@@ -100,12 +70,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "5c951c2808b2b812",
+        "id": "c3108acc7f874e97",
         "type": "tabs",
-        "dimension": 63.482280431432976,
+        "dimension": 67.37357259380097,
         "children": [
           {
             "id": "eafcf902c3bfe127",
@@ -124,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#思维",
+                "query": "tag:#站点",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,30 +103,13 @@
                 "sortOrder": "alphabeticalReverse"
               }
             }
-          },
-          {
-            "id": "4a979136b41cb68f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "journals/2023-06-09.md"
-              }
-            }
-          },
-          {
-            "id": "fa28fd5f60fbff89",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 250
+    "width": 200
   },
   "right": {
     "id": "4ad17b90582ceb95",
@@ -171,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2023-06-09.md",
+                "file": "pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,40 +168,41 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "c5c300b6f7ab7cfd",
+  "active": "635d4047615a6495",
   "lastOpenFiles": [
+    "about/index.md",
+    "journals/index.md",
+    "pages/index.md",
+    "list-projects/1.md",
     "list-thought/2.md",
     "list-thought/1.md",
     "list-concept/3.md",
     "list-concept/2.md",
     "list-concept/1.md",
+    "pages/HQYJ-ARM课程.md",
+    "journals/2023-06-09.md",
+    "pages/volatile关键字一般用于修饰寄存器变量.md",
+    "pages/FSMP1A开发板的LED1电路分析.md",
+    "pages/振荡电路.md",
+    "pages/使用 STM32MP157的m4内核控制数码管，显示一个倒计时.md",
     "20230609123214906.txt",
     "20230609123209317.txt",
     "20230609123209066.txt",
     "20230609123208642.txt",
     "20230609123206026.txt",
-    "list-projects/1.md",
-    "journals/index.md",
-    "pages/HQYJ-ARM课程.md",
-    "about/index.md",
     "pages/编写汇编程序控制 GPIO 控制器 和 RCC 进行工作.md",
     "pages/半双工总线.md",
     "pages/16倍采样.md",
     "pages/Bit set or reset registers方式和from on-chip peripheral的区别.md",
     "list-projects",
     "list-unfiled",
-    "pages/index.md",
     "pages/mos管.md",
     "pages/mos管和三极管的区别.md",
     "pages/USART.md",
     "pages/USB总线.md",
     "pages/volatile.md",
-    "pages/volatile关键字一般用于修饰寄存器变量.md",
     "pages/vss和vdd.md",
     "pages/SPSR寄存器.md",
-    "pages/SPI总线.md",
-    "pages/STM32MP157.md",
-    "pages/STM32MP157裸机开发环境搭建.md",
     "list-thought",
     "list-concept",
     "thought_list",
