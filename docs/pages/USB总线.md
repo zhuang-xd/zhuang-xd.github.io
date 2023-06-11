@@ -1,5 +1,5 @@
 ---
-tags: 待成文
+tags: old
 aliases: [Universal Serial Bus, 通用串行总线]
 title: USB总线
 sidebar: false

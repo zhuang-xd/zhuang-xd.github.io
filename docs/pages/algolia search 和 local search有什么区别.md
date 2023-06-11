@@ -1,5 +1,5 @@
 ---
-tags: 待成文
+tags: old
 sidebar: false
 title: algolia search 和 local search有什么区别
 date: 2023-06-09

@@ -1,5 +1,5 @@
 ---
-tags: 待成文 
+tags: old 
 aliases: [CPSR, Current Program Status Register, 程序状态寄存器]
 title: CPSR寄存器
 sidebar: false

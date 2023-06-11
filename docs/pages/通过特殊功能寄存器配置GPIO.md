@@ -1,5 +1,5 @@
 ---
-tags: 待成文
+tags: old
 title: 通过特殊功能寄存器配置GPIO
 sidebar: false
 date: 2023-06-06

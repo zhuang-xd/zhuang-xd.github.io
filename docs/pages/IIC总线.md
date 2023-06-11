@@ -1,5 +1,5 @@
 ---
-tags: 待成文
+tags: old
 title: IIC总线
 sidebar: false
 date: 2023-06-07

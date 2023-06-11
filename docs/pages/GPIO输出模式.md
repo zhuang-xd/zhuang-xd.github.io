@@ -1,5 +1,5 @@
 ---
-tags: 待成文 
+tags: old 
 title: GPIO输出模式
 sidebar: false
 date: 2023-06-06

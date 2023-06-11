@@ -1,5 +1,5 @@
 ---
-tags: 待成文
+tags: old
 aliases: [UART帧格式, 串口帧格式]
 title: UART工作原理
 sidebar: false

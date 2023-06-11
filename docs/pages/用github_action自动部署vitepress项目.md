@@ -1,5 +1,5 @@
 ---
-tags: 待成文
+tags: old
 title: 用github_action自动部署vitepress项目
 sidebar: false
 date: 2023-05-26

@@ -1,5 +1,5 @@
 ---
-tags: 待成文
+tags: old
 aliases: [Saved Program Status Register, SPSR]
 title: SPSR寄存器
 sidebar: false

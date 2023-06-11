@@ -1,5 +1,5 @@
 ---
-tags: 待成文
+tags: old
 title: 编写汇编程序控制 GPIO 控制器 和 RCC 进行工作
 sidebar: false
 date: 2023-06-06

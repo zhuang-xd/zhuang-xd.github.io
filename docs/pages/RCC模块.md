@@ -1,5 +1,5 @@
 ---
-tags: 待成文
+tags: old
 aliases: Reset and Clock Control
 title: RCC模块
 sidebar: false

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2023-06-06.md",
+                "file": "pages/作业 实现字符串输入输出.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +32,7 @@
       {
         "id": "b518eef6bcc0bf7e",
         "type": "tabs",
-        "dimension": 32.6530612244898,
+        "dimension": 39.96865203761755,
         "children": [
           {
             "id": "fa28fd5f60fbff89",
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2023-06-06.md"
+                "file": "pages/作业 实现字符串输入输出.md"
               }
             }
           }
@@ -57,7 +57,7 @@
       {
         "id": "c3108acc7f874e97",
         "type": "tabs",
-        "dimension": 67.3469387755102,
+        "dimension": 60.03134796238244,
         "children": [
           {
             "id": "eafcf902c3bfe127",
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2023-06-06.md",
+                "file": "pages/作业 实现字符串输入输出.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,47 +169,48 @@
   "lastOpenFiles": [
     "list-thought/2.md",
     "list-thought/1.md",
+    "list-concept/4.md",
     "list-concept/3.md",
     "list-concept/2.md",
     "list-concept/1.md",
-    "list-projects/1.md",
+    "pages/assets/20230611202331393.png",
+    "journals/2023-06-11.md",
+    "pages/作业 实现字符串输入输出.md",
+    "pages/为什么要用 FIFO mode disabled.md",
+    "pages/寄存器保留位的作用.md",
+    "journals/assets/20230611145335107.png",
+    "journals/assets/20230611143632272.png",
+    "journals/assets/20230611140641652.png",
+    "pages/UART既然16位的采样率各方面都优于8位，为什么还需要有8位的.md",
+    "journals/assets/20230611112019829.png",
+    "journals/2023-06-09.md",
+    "pages/FIQ为什么比IRQ快.md",
+    "pages/ARM体系结构及接口技术.md",
+    "pages/STM32MP157特殊功能寄存器.md",
+    "pages/冯诺依曼结构.md",
+    "pages/输入设备.md",
+    "pages/数字信号.md",
+    "pages/二进制编码.md",
+    "pages/存储器.md",
+    "pages/运算器.md",
+    "pages/输出设备.md",
+    "pages/ARM汇编.md",
+    "pages/程序和指令的区别.md",
+    "pages/RAM.md",
+    "pages/程序.md",
+    "pages/assets/20230609180414777.png",
     "list-projects",
     "list-thought",
     "list-concept",
-    "pages/时钟漂移.md",
-    "pages/振荡电路.md",
-    "pages/GPIO控制器的工作原理.md",
-    "pages/volatile关键字一般用于修饰寄存器变量.md",
-    "journals/2023-06-09.md",
-    "pages/GoldenDict调用百度领域翻译api.md",
     "pages/assets/20230609165925166.png",
     "pages/assets/20230609165910964.png",
     "pages/assets/20230609165442483.png",
     "pages/assets/20230609165331219.png",
-    "pages/assets/20230609164842464.png",
-    "pages/assets/20230609164254313.png",
-    "pages/assets/20230609164201959.png",
-    "pages/assets/20230609163820672.png",
-    "pages/assets/20230609162907386.png",
-    "pages/assets/20230609162749582.png",
-    "pages/test.md",
-    "about/index.md",
-    "journals/index.md",
-    "pages/index.md",
-    "pages/用github_action自动部署vitepress项目.md",
-    "pages/使用 STM32MP157的m4内核控制数码管，显示一个倒计时.md",
-    "pages/如何再windows环境下自动执行shell脚本.md",
-    "pages/algolia search 和 local search有什么区别.md",
-    "pages/github如何实现这样的主页.md",
-    "pages/HQYJ-ARM课程.md",
-    "pages/FSMP1A开发板的LED1电路分析.md",
     "20230609123214906.txt",
     "20230609123209317.txt",
     "20230609123209066.txt",
     "20230609123208642.txt",
     "20230609123206026.txt",
-    "pages/编写汇编程序控制 GPIO 控制器 和 RCC 进行工作.md",
-    "pages/半双工总线.md",
     "list-unfiled",
     "thought_list",
     "20230605204551162.canvas",

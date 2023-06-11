@@ -1,6 +1,118 @@
 {
   "recentFiles": [
     {
+      "basename": "作业 实现字符串输入输出",
+      "path": "pages/作业 实现字符串输入输出.md"
+    },
+    {
+      "basename": "2023-06-11",
+      "path": "journals/2023-06-11.md"
+    },
+    {
+      "basename": "为什么要用 FIFO mode disabled",
+      "path": "pages/为什么要用 FIFO mode disabled.md"
+    },
+    {
+      "basename": "寄存器保留位的作用",
+      "path": "pages/寄存器保留位的作用.md"
+    },
+    {
+      "basename": "UART既然16位的采样率各方面都优于8位，为什么还需要有8位的",
+      "path": "pages/UART既然16位的采样率各方面都优于8位，为什么还需要有8位的.md"
+    },
+    {
+      "basename": "2023-06-09",
+      "path": "journals/2023-06-09.md"
+    },
+    {
+      "basename": "FIQ为什么比IRQ快",
+      "path": "pages/FIQ为什么比IRQ快.md"
+    },
+    {
+      "basename": "ARM体系结构及接口技术",
+      "path": "pages/ARM体系结构及接口技术.md"
+    },
+    {
+      "basename": "STM32MP157特殊功能寄存器",
+      "path": "pages/STM32MP157特殊功能寄存器.md"
+    },
+    {
+      "basename": "冯诺依曼结构",
+      "path": "pages/冯诺依曼结构.md"
+    },
+    {
+      "basename": "输入设备",
+      "path": "pages/输入设备.md"
+    },
+    {
+      "basename": "数字信号",
+      "path": "pages/数字信号.md"
+    },
+    {
+      "basename": "二进制编码",
+      "path": "pages/二进制编码.md"
+    },
+    {
+      "basename": "存储器",
+      "path": "pages/存储器.md"
+    },
+    {
+      "basename": "运算器",
+      "path": "pages/运算器.md"
+    },
+    {
+      "basename": "输出设备",
+      "path": "pages/输出设备.md"
+    },
+    {
+      "basename": "ARM汇编",
+      "path": "pages/ARM汇编.md"
+    },
+    {
+      "basename": "程序和指令的区别",
+      "path": "pages/程序和指令的区别.md"
+    },
+    {
+      "basename": "RAM",
+      "path": "pages/RAM.md"
+    },
+    {
+      "basename": "程序",
+      "path": "pages/程序.md"
+    },
+    {
+      "basename": "ASCII码",
+      "path": "pages/ASCII码.md"
+    },
+    {
+      "basename": "Unicode编码",
+      "path": "pages/Unicode编码.md"
+    },
+    {
+      "basename": "机器指令",
+      "path": "pages/机器指令.md"
+    },
+    {
+      "basename": "控制器",
+      "path": "pages/控制器.md"
+    },
+    {
+      "basename": "FSMP1A开发板",
+      "path": "pages/FSMP1A开发板.md"
+    },
+    {
+      "basename": "Cortex-M4",
+      "path": "pages/Cortex-M4.md"
+    },
+    {
+      "basename": "Cortex-A7",
+      "path": "pages/Cortex-A7.md"
+    },
+    {
+      "basename": "STM32MP157a",
+      "path": "pages/STM32MP157a.md"
+    },
+    {
       "basename": "2023-06-06",
       "path": "journals/2023-06-06.md"
     },
@@ -19,10 +131,6 @@
     {
       "basename": "volatile关键字一般用于修饰寄存器变量",
       "path": "pages/volatile关键字一般用于修饰寄存器变量.md"
-    },
-    {
-      "basename": "2023-06-09",
-      "path": "journals/2023-06-09.md"
     },
     {
       "basename": "GoldenDict调用百度领域翻译api",

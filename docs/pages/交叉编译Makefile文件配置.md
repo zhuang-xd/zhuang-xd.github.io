@@ -1,5 +1,5 @@
 ---
-tags: 待成文
+tags: old
 title: 交叉编译Makefile文件配置
 sidebar: false
 date: 2023-06-06

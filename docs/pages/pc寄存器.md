@@ -1,5 +1,5 @@
 ---
-tags: 待成文
+tags: old
 aliases: [PC, Program Counter]
 title: PC寄存器
 sidebar: false

@@ -1,5 +1,5 @@
 ---
-tags: 待成文
+tags: old
 title: 使用STM32MP157A的M4内核点亮LED1
 sidebar: false
 date: 2023-06-07

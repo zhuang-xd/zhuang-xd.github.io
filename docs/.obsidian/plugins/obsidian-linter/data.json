@@ -22,7 +22,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "tags: 待成文\naliases: \nsidebar: false"
+      "text-to-insert": "tags: 待成文\nsidebar: false\n"
     },
     "move-tags-to-yaml": {
       "enabled": false,
@@ -34,10 +34,10 @@
       "yaml-keys-to-remove": ""
     },
     "yaml-key-sort": {
-      "enabled": false,
-      "yaml-key-priority-sort-order": "",
+      "enabled": true,
+      "yaml-key-priority-sort-order": "tags\ndate\naliases\ntitle\nsidebar\n",
       "priority-keys-at-start-of-yaml": true,
-      "yaml-sort-order-for-other-keys": "None"
+      "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
     "yaml-timestamp": {
       "enabled": true,

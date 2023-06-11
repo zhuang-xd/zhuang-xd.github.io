@@ -1,5 +1,5 @@
 ---
-tags: 待成文
+tags: old
 title: GPIO上拉-下拉电阻设置设置寄存器
 sidebar: false
 date: 2023-06-06
