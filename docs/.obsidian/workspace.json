@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/作业 实现字符串输入输出.md",
+                "file": "journals/2023-06-11.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/作业 实现字符串输入输出.md"
+                "file": "journals/2023-06-11.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/作业 实现字符串输入输出.md",
+                "file": "journals/2023-06-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,6 +167,7 @@
   },
   "active": "635d4047615a6495",
   "lastOpenFiles": [
+    "list-projects/1.md",
     "list-thought/2.md",
     "list-thought/1.md",
     "list-concept/4.md",
@@ -197,7 +198,6 @@
     "pages/ARM汇编.md",
     "pages/程序和指令的区别.md",
     "pages/RAM.md",
-    "pages/程序.md",
     "pages/assets/20230609180414777.png",
     "list-projects",
     "list-thought",
