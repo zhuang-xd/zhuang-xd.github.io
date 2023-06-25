@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/📇ARM基础与接口技术课程-HQYJ-胡月.md",
+                "file": "pages/📇系统移植课程-HQYJ-胡月.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -82,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/📇ARM基础与接口技术课程-HQYJ-胡月.md"
+                "file": "pages/📇系统移植课程-HQYJ-胡月.md"
               }
             }
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/📇ARM基础与接口技术课程-HQYJ-胡月.md",
+                "file": "pages/📇系统移植课程-HQYJ-胡月.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,11 +168,11 @@
   },
   "active": "d50e95baa6608352",
   "lastOpenFiles": [
+    "journals/2023-06-25.md",
+    "pages/📇ARM基础与接口技术课程-HQYJ-胡月.md",
     "about/📇站点日志.md",
     "pages/📇系统移植课程-HQYJ-胡月.md",
     "pages/FS-MP1A V2.0 开发板.md",
-    "pages/📇ARM基础与接口技术课程-HQYJ-胡月.md",
-    "journals/2023-06-25.md",
     "pages/assets/20230625224929063.png",
     "pages/assets/20230625224923773.png",
     "pages/Linux内核移植.md",

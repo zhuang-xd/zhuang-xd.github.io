@@ -1,7 +1,7 @@
 // .vitepress/theme/index.ts or .vitepress/theme/index.js
 import Theme from "vitepress/theme";
-import "./styles/vars.css";
-import "./styles/style.css";
+// import "./styles/vars.css";
+// import "./styles/style.css";
 
 // 只需添加以下一行代码，引入时间线样式
 import "vitepress-markdown-timeline/dist/theme/index.css";

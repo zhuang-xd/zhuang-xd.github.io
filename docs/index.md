@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: docs
 
 title: Home
 
@@ -13,8 +13,13 @@ hero:
   actions:
     - theme: brand
       text: 日志
-      link: /about/📇站点日志.md
+      link: /about/📇站点日志
     - theme: brand
       text: 归档
       link: /pages/📦归档
 ---
+
+# 个人笔记
+
+- [📇站点日志](/about/📇站点日志)
+- [📦归档](/pages/📦归档)

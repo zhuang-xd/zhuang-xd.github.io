@@ -1,4 +1,3 @@
 export default [
-    { text: "", link: "/about/📇站点日志" },
-    { text: "统计", link: "/pages/📦归档" },
+    { text: "归档", link: "/pages/📦归档" },
 ]

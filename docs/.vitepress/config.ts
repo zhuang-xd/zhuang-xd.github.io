@@ -1,11 +1,12 @@
 // .vitepress/config.js
 import { defineConfig} from "vitepress";
-import { withMermaid } from "vitepress-plugin-mermaid";
+// import { withMermaid } from "vitepress-plugin-mermaid";
 import { sidebar } from "./configs/AutoNavSidebar";
 import nav from "./configs/nav"
 import timeline from "vitepress-markdown-timeline";
 
-export default withMermaid({
+// export default withMermaid({
+export default defineConfig({
     // your existing vitepress config...
     ignoreDeadLinks: true, //忽略死链
     base: '/',
