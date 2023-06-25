@@ -1,26 +1,27 @@
 ---
-tags: 思维
-sidebar: false
-title: GoldenDict调用百度领域翻译api
+tags: 笔记 孤立
 date: 2023-06-09
+title: GoldenDict调用百度领域翻译api
+sidebar: false
 ---
 # GoldenDict调用百度领域翻译api
 
->[百度领域翻译API文档](http://api.fanyi.baidu.com/product/113)
+> [百度领域翻译API文档](http://api.fanyi.baidu.com/product/113)
 
 ## 前言
 
 收到一封百度的推广邮件，升级针对行业领域翻译的API，浅浅尝试一下
-
 
 ## 思路
 
 > 通过 Goldendict 调用 python脚本 发送 get 请求，并显示
 
 完整的 `get` 请求是这样的，只需要将要查询的内容拼接进去，然后调用就好了
-```url
+
+```txt
 http://api.fanyi.baidu.com/api/trans/vip/translate?q=apple&from=en&to=zh&appid=2015063000000001&salt=1435660288&sign=f89f9594663708c1605f3d736d01d2d4
 ```
+
 - [appid 和 key](http://api.fanyi.baidu.com/manage/developer)需要通过注册开发者，填写身份信息后才能获取
 
 ## 代码实现
@@ -49,7 +50,7 @@ def target_language(content):
     match = zhPattern.search(content)
     if match:
         targetLanguage = "en"
-        
+
     content_baidu_translate(content,targetLanguage)
     pass
 
@@ -76,11 +77,11 @@ def content_baidu_translate(content,targetLanguage):
     myurl = myurl + '?appid=' + appid + '&q=' + urllib.parse.quote(
         q) + '&from=' + fromLang + '&to=' + toLang + '&salt=' + str(
         salt) + '&domain=' + domain + '&sign=' + sign
- 
+
     try:
         httpClient = http.client.HTTPConnection('api.fanyi.baidu.com')
         httpClient.request('GET', myurl)
-        
+
         response = httpClient.getresponse() # response是HTTPResponse对象
         jsonResponse = response.read().decode("utf-8")# 获取JSON响应
         js = json.loads(jsonResponse)  # JSON转换
@@ -98,7 +99,7 @@ def content_print_byformat(js):
     reference http://api.fanyi.baidu.com/product/113
     """
     dstStr = str(js["trans_result"][0]["dst"])  # result
-    
+
     # 替换\n
     if("\\r\\n" in dstStr):
         dstStr = dstStr.replace("\\r\\n","\n")
@@ -114,11 +115,12 @@ if __name__ == '__main__':
 
 ## 测试
 
-![](assets/20230609165442483.png)
-<center style="font-size: 12px;">测试图1</center>
+![](file://D:%5Cbackup%5Cblog%5Cdocs%5Cpages%5Cassets%5C20230609165442483.png?msec=1687698260583)
 
+测试图1
 
-![](assets/20230609165331219.png)
-<center style="font-size: 12px;">测试图2</center>
+![](file://D:%5Cbackup%5Cblog%5Cdocs%5Cpages%5Cassets%5C20230609165331219.png?msec=1687698260582)
+
+测试图2
 
 翻译效果差强人意，能看出确实是有一些优化的，比如在语序上，但优化的不多

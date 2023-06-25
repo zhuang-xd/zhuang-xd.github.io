@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9a543ffede3867cf",
+        "id": "44043c29dbbeda79",
         "type": "tabs",
         "children": [
           {
-            "id": "635d4047615a6495",
+            "id": "d50e95baa6608352",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2023-06-11.md",
+                "file": "pages/📇ARM基础与接口技术课程-HQYJ-胡月.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,32 +32,7 @@
       {
         "id": "b518eef6bcc0bf7e",
         "type": "tabs",
-        "dimension": 39.96865203761755,
-        "children": [
-          {
-            "id": "fa28fd5f60fbff89",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "4a979136b41cb68f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "journals/2023-06-11.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c3108acc7f874e97",
-        "type": "tabs",
-        "dimension": 60.03134796238244,
+        "dimension": 49.701492537313435,
         "children": [
           {
             "id": "eafcf902c3bfe127",
@@ -66,7 +41,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -76,12 +51,38 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#待成文",
+                "query": "tag:#归档",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "fa28fd5f60fbff89",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9820ab38840aa740",
+        "type": "tabs",
+        "dimension": 50.29850746268657,
+        "children": [
+          {
+            "id": "4a979136b41cb68f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pages/📇ARM基础与接口技术课程-HQYJ-胡月.md"
               }
             }
           }
@@ -89,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 259
   },
   "right": {
     "id": "4ad17b90582ceb95",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2023-06-11.md",
+                "file": "pages/📇ARM基础与接口技术课程-HQYJ-胡月.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,58 +162,57 @@
       "canvas:新建白板": true,
       "obsidian-file-cleaner:清理文件": false,
       "open-vscode:VSCode": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "635d4047615a6495",
+  "active": "d50e95baa6608352",
   "lastOpenFiles": [
-    "list-projects/1.md",
-    "list-thought/2.md",
-    "list-thought/1.md",
-    "list-concept/4.md",
-    "list-concept/3.md",
-    "list-concept/2.md",
-    "list-concept/1.md",
-    "pages/assets/20230611202331393.png",
-    "journals/2023-06-11.md",
-    "pages/作业 实现字符串输入输出.md",
-    "pages/为什么要用 FIFO mode disabled.md",
-    "pages/寄存器保留位的作用.md",
-    "journals/assets/20230611145335107.png",
-    "journals/assets/20230611143632272.png",
-    "journals/assets/20230611140641652.png",
-    "pages/UART既然16位的采样率各方面都优于8位，为什么还需要有8位的.md",
-    "journals/assets/20230611112019829.png",
-    "journals/2023-06-09.md",
-    "pages/FIQ为什么比IRQ快.md",
-    "pages/ARM体系结构及接口技术.md",
-    "pages/STM32MP157特殊功能寄存器.md",
-    "pages/冯诺依曼结构.md",
-    "pages/输入设备.md",
-    "pages/数字信号.md",
-    "pages/二进制编码.md",
-    "pages/存储器.md",
-    "pages/运算器.md",
-    "pages/输出设备.md",
-    "pages/ARM汇编.md",
-    "pages/程序和指令的区别.md",
-    "pages/RAM.md",
-    "pages/assets/20230609180414777.png",
-    "list-projects",
-    "list-thought",
-    "list-concept",
-    "pages/assets/20230609165925166.png",
-    "pages/assets/20230609165910964.png",
-    "pages/assets/20230609165442483.png",
-    "pages/assets/20230609165331219.png",
-    "20230609123214906.txt",
-    "20230609123209317.txt",
-    "20230609123209066.txt",
-    "20230609123208642.txt",
-    "20230609123206026.txt",
-    "list-unfiled",
-    "thought_list",
+    "about/📇站点日志.md",
+    "pages/📇系统移植课程-HQYJ-胡月.md",
+    "pages/FS-MP1A V2.0 开发板.md",
+    "pages/📇ARM基础与接口技术课程-HQYJ-胡月.md",
+    "journals/2023-06-25.md",
+    "pages/assets/20230625224929063.png",
+    "pages/assets/20230625224923773.png",
+    "pages/Linux内核移植.md",
+    "pages/📦归档.md",
+    "pages/assets/20230625224252850.png",
+    "pages/assets/20230625223640018.png",
+    "pages/assets/20230625223629714.png",
+    "pages/assets/20230625223623277.png",
+    "pages/根文件系统移植.md",
+    "pages/u-boot移植-basic版本.md",
+    "pages/GoldenDict调用百度领域翻译api.md",
+    "pages/搭建 NFS 服务器.md",
+    "pages/搭建 TFTP 服务器.md",
+    "pages/assets/20230625222600476.png",
+    "pages/assets/20230625215605264.png",
+    "pages/用github_action自动部署vitepress项目.md",
+    "pages/TF-A移植.md",
+    "pages/系统移植课程考试-HQYJ.md",
+    "pages/GUN二进制工具集.md",
+    "pages/assets/20230625204736371.png",
+    "pages/assets/20230625204719902.png",
+    "pages/assets",
+    "pages/移植环境搭建.md",
+    "pages/u-boot移植-trusted版本.md",
+    "pages/Makefile解析.md",
+    "pages/u-boot移植.md",
+    "journals",
+    "pages/u-boot-basic版本.md",
+    "pages/思维导图-uboot.md",
+    "pages/ARM基础与接口技术-HQYJ-胡月.md",
+    "pages/思维导图-系统搭建.md",
+    "public/templates/mindmap_template.md",
+    "Obsidian Better Code Block/styles.css",
+    "Obsidian Better Code Block/manifest.json",
+    "Obsidian Better Code Block/main.js",
+    "Obsidian Better Code Block",
+    "2023-06-12+145dd84c-47df-4363-bc07-2545626024fd",
+    "journals/2023-06-12+145dd84c-47df-4363-bc07-2545626024fd/2023-06-12+145dd84c-47df-4363-bc07-2545626024fd/Cortex-A7核+按键中断实验+67320ea1-e886-475c-8348-0858495ba99d",
+    "journals/2023-06-12+145dd84c-47df-4363-bc07-2545626024fd/2023-06-12+145dd84c-47df-4363-bc07-2545626024fd",
+    "journals/2023-06-12+145dd84c-47df-4363-bc07-2545626024fd",
     "20230605204551162.canvas",
     "2023-06-05.canvas",
     "文件IO.canvas",

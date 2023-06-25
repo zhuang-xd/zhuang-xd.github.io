@@ -22,7 +22,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "tags: 待成文\nsidebar: false\n"
+      "text-to-insert": "tags: 闪念\nsidebar: false\n"
     },
     "move-tags-to-yaml": {
       "enabled": false,

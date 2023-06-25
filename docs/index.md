@@ -12,12 +12,9 @@ hero:
     alt: logo
   actions:
     - theme: brand
-      text: 站点日志
-      link: /about/index.md
+      text: 日志
+      link: /about/📇站点日志.md
     - theme: brand
-      text: 内容统计
-      link: /pages/
-    - theme: brand
-      text: 时间轴
-      link: /journals/
+      text: 归档
+      link: /pages/📦归档
 ---

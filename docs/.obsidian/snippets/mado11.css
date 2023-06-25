@@ -22,22 +22,22 @@ body {
 /*                                 彩色标题                            */
 /* ------------------------------------------------------------------- */
 .cm-header-1{
-    color: #e06c75;
+    color: #5994cf;
 }
 .cm-header-2{
     /* color: #8db0dc; */
     /* color: #c0c296; */
-    /* color: #9ab486; */
-    color: #8bac61;
+    color: #e06c75;
 }
 .cm-header-3{
-    color: #8ebbba;
+    color: #8bac61;
 }
 .cm-header-4{
-    color: #b48ead;
+    color: #b9a240;
+    /* color: #8ebbba; */
 }
 .cm-header-5{
-    color: #a59f76;
+    color: #b48ead;
 }
 .cm-header-6{
     color: #898cad;
@@ -107,7 +107,6 @@ token.selector, .token.attr-name, .token.string, .token.char, .token.inserted, .
 .outline .tree-item-self .collapse-icon {
     position: relative;
     margin-left: -2px;
-    margin-right: -3px;
 }
 
 .outline .tree-item-inner {
@@ -115,6 +114,12 @@ token.selector, .token.attr-name, .token.string, .token.char, .token.inserted, .
     position: relative;
     padding: 5px 3px;
     line-height: 1;
+}
+
+.tree-item-self .tree-item-icon svg{
+    margin-top: 5px;
+    /* color: #8bac61; */
+    color: #e06c75;
 }
 
 .outline .tree-item-inner::before {
@@ -130,6 +135,7 @@ token.selector, .token.attr-name, .token.string, .token.char, .token.inserted, .
     position: relative;
     top: -0.1em;
     margin-right: 3px;
+    color: #8bac61;
 }
 
 .outline .tree-item-inner:not(:only-child)::before {

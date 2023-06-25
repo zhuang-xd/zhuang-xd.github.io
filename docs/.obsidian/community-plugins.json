@@ -11,12 +11,14 @@
   "tag-wrangler",
   "obsidian-markmind",
   "mousewheel-image-zoom",
-  "cm-editor-syntax-highlight-obsidian",
   "obsidian-outliner",
   "obsidian-linter",
   "obsidian-jump-to-date-plugin",
   "calendar",
   "table-editor-obsidian",
   "obsidian-image-toolkit",
-  "obsidian-shellcommands"
+  "obsidian-shellcommands",
+  "obsidian-timeline",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-better-codeblock"
 ]

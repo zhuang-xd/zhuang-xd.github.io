@@ -1,31 +1,38 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "path:pages",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#支撑",
+      "query": "tag:#文献笔记",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "tag:#概念",
+      "query": "tag:#永久笔记",
       "color": {
         "a": 1,
         "rgb": 13853796
       }
     },
     {
-      "query": "/",
+      "query": "tag:#闪念笔记",
       "color": {
         "a": 1,
         "rgb": 5935231
+      }
+    },
+    {
+      "query": "/",
+      "color": {
+        "a": 1,
+        "rgb": 7899614
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.1009499234752929,
+  "scale": 1.8276020622083389,
   "close": true
 }

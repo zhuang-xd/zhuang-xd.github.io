@@ -1,164 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-06-11",
-      "path": "journals/2023-06-11.md"
+      "basename": "📇ARM基础与接口技术课程-HQYJ-胡月",
+      "path": "pages/📇ARM基础与接口技术课程-HQYJ-胡月.md"
     },
     {
-      "basename": "作业 实现字符串输入输出",
-      "path": "pages/作业 实现字符串输入输出.md"
+      "basename": "📇站点日志",
+      "path": "about/📇站点日志.md"
     },
     {
-      "basename": "为什么要用 FIFO mode disabled",
-      "path": "pages/为什么要用 FIFO mode disabled.md"
+      "basename": "📇系统移植课程-HQYJ-胡月",
+      "path": "pages/📇系统移植课程-HQYJ-胡月.md"
     },
     {
-      "basename": "寄存器保留位的作用",
-      "path": "pages/寄存器保留位的作用.md"
+      "basename": "FS-MP1A V2.0 开发板",
+      "path": "pages/FS-MP1A V2.0 开发板.md"
     },
     {
-      "basename": "UART既然16位的采样率各方面都优于8位，为什么还需要有8位的",
-      "path": "pages/UART既然16位的采样率各方面都优于8位，为什么还需要有8位的.md"
+      "basename": "2023-06-25",
+      "path": "journals/2023-06-25.md"
     },
     {
-      "basename": "2023-06-09",
-      "path": "journals/2023-06-09.md"
+      "basename": "Linux内核移植",
+      "path": "pages/Linux内核移植.md"
     },
     {
-      "basename": "FIQ为什么比IRQ快",
-      "path": "pages/FIQ为什么比IRQ快.md"
+      "basename": "📦归档",
+      "path": "pages/📦归档.md"
     },
     {
-      "basename": "ARM体系结构及接口技术",
-      "path": "pages/ARM体系结构及接口技术.md"
+      "basename": "根文件系统移植",
+      "path": "pages/根文件系统移植.md"
     },
     {
-      "basename": "STM32MP157特殊功能寄存器",
-      "path": "pages/STM32MP157特殊功能寄存器.md"
-    },
-    {
-      "basename": "冯诺依曼结构",
-      "path": "pages/冯诺依曼结构.md"
-    },
-    {
-      "basename": "输入设备",
-      "path": "pages/输入设备.md"
-    },
-    {
-      "basename": "数字信号",
-      "path": "pages/数字信号.md"
-    },
-    {
-      "basename": "二进制编码",
-      "path": "pages/二进制编码.md"
-    },
-    {
-      "basename": "存储器",
-      "path": "pages/存储器.md"
-    },
-    {
-      "basename": "运算器",
-      "path": "pages/运算器.md"
-    },
-    {
-      "basename": "输出设备",
-      "path": "pages/输出设备.md"
-    },
-    {
-      "basename": "ARM汇编",
-      "path": "pages/ARM汇编.md"
-    },
-    {
-      "basename": "程序和指令的区别",
-      "path": "pages/程序和指令的区别.md"
-    },
-    {
-      "basename": "RAM",
-      "path": "pages/RAM.md"
-    },
-    {
-      "basename": "程序",
-      "path": "pages/程序.md"
-    },
-    {
-      "basename": "ASCII码",
-      "path": "pages/ASCII码.md"
-    },
-    {
-      "basename": "Unicode编码",
-      "path": "pages/Unicode编码.md"
-    },
-    {
-      "basename": "机器指令",
-      "path": "pages/机器指令.md"
-    },
-    {
-      "basename": "控制器",
-      "path": "pages/控制器.md"
-    },
-    {
-      "basename": "FSMP1A开发板",
-      "path": "pages/FSMP1A开发板.md"
-    },
-    {
-      "basename": "Cortex-M4",
-      "path": "pages/Cortex-M4.md"
-    },
-    {
-      "basename": "Cortex-A7",
-      "path": "pages/Cortex-A7.md"
-    },
-    {
-      "basename": "STM32MP157a",
-      "path": "pages/STM32MP157a.md"
-    },
-    {
-      "basename": "2023-06-06",
-      "path": "journals/2023-06-06.md"
-    },
-    {
-      "basename": "时钟漂移",
-      "path": "pages/时钟漂移.md"
-    },
-    {
-      "basename": "振荡电路",
-      "path": "pages/振荡电路.md"
-    },
-    {
-      "basename": "GPIO控制器的工作原理",
-      "path": "pages/GPIO控制器的工作原理.md"
-    },
-    {
-      "basename": "volatile关键字一般用于修饰寄存器变量",
-      "path": "pages/volatile关键字一般用于修饰寄存器变量.md"
+      "basename": "u-boot移植-basic版本",
+      "path": "pages/u-boot移植-basic版本.md"
     },
     {
       "basename": "GoldenDict调用百度领域翻译api",
       "path": "pages/GoldenDict调用百度领域翻译api.md"
     },
     {
-      "basename": "index",
-      "path": "about/index.md"
+      "basename": "搭建 NFS 服务器",
+      "path": "pages/搭建 NFS 服务器.md"
     },
     {
-      "basename": "index",
-      "path": "journals/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "pages/index.md"
+      "basename": "搭建 TFTP 服务器",
+      "path": "pages/搭建 TFTP 服务器.md"
     },
     {
       "basename": "用github_action自动部署vitepress项目",
       "path": "pages/用github_action自动部署vitepress项目.md"
     },
     {
-      "basename": "使用 STM32MP157的m4内核控制数码管，显示一个倒计时",
-      "path": "pages/使用 STM32MP157的m4内核控制数码管，显示一个倒计时.md"
+      "basename": "TF-A移植",
+      "path": "pages/TF-A移植.md"
     },
     {
-      "basename": "algolia search 和 local search有什么区别",
-      "path": "pages/algolia search 和 local search有什么区别.md"
+      "basename": "系统移植课程考试-HQYJ",
+      "path": "pages/系统移植课程考试-HQYJ.md"
+    },
+    {
+      "basename": "GUN二进制工具集",
+      "path": "pages/GUN二进制工具集.md"
+    },
+    {
+      "basename": "u-boot移植-trusted版本",
+      "path": "pages/u-boot移植-trusted版本.md"
+    },
+    {
+      "basename": "Makefile解析",
+      "path": "pages/Makefile解析.md"
+    },
+    {
+      "basename": "u-boot-basic版本",
+      "path": "pages/u-boot-basic版本.md"
+    },
+    {
+      "basename": "思维导图-uboot",
+      "path": "pages/思维导图-uboot.md"
+    },
+    {
+      "basename": "ARM基础与接口技术-HQYJ-胡月",
+      "path": "pages/ARM基础与接口技术-HQYJ-胡月.md"
+    },
+    {
+      "basename": "思维导图-系统搭建",
+      "path": "pages/思维导图-系统搭建.md"
+    },
+    {
+      "basename": "mindmap_template",
+      "path": "public/templates/mindmap_template.md"
+    },
+    {
+      "basename": "rime输入法小鹤双拼配置",
+      "path": "pages/rime输入法小鹤双拼配置.md"
+    },
+    {
+      "basename": "2023-06-21",
+      "path": "journals/2023-06-21.md"
+    },
+    {
+      "basename": "ARM考试",
+      "path": "pages/ARM考试.md"
+    },
+    {
+      "basename": "Cortex-M4内核 UART4实验",
+      "path": "pages/Cortex-M4内核 UART4实验.md"
+    },
+    {
+      "basename": "2023-06-15",
+      "path": "journals/2023-06-15.md"
+    },
+    {
+      "basename": "使用STM32MP157a控制蜂鸣器播放Lemon",
+      "path": "pages/使用STM32MP157a控制蜂鸣器播放Lemon.md"
+    },
+    {
+      "basename": "2023-06-19",
+      "path": "journals/2023-06-19.md"
+    },
+    {
+      "basename": "学习如何使用思维导图",
+      "path": "pages/学习如何使用思维导图.md"
+    },
+    {
+      "basename": "嵌入式笔试题",
+      "path": "pages/嵌入式笔试题.md"
+    },
+    {
+      "basename": "Makefile",
+      "path": "pages/Makefile.md"
+    },
+    {
+      "basename": "ARM课程重点",
+      "path": "pages/ARM课程重点.md"
+    },
+    {
+      "basename": "2023-06-17",
+      "path": "journals/2023-06-17.md"
+    },
+    {
+      "basename": "ARM-day11作业",
+      "path": "pages/ARM-day11作业.md"
+    },
+    {
+      "basename": "Cortex-A7内核 SPI总线实验",
+      "path": "pages/Cortex-A7内核 SPI总线实验.md"
+    },
+    {
+      "basename": "2023-06-16",
+      "path": "journals/2023-06-16.md"
+    },
+    {
+      "basename": "STM32MP157a Cortex-A7内核 PWM实验",
+      "path": "pages/STM32MP157a Cortex-A7内核 PWM实验.md"
+    },
+    {
+      "basename": "STM32MP157a内部有没有pwm硬件",
+      "path": "pages/STM32MP157a内部有没有pwm硬件.md"
+    },
+    {
+      "basename": "ARM-day12作业",
+      "path": "pages/ARM-day12作业.md"
+    },
+    {
+      "basename": "ARM课程安排",
+      "path": "pages/ARM课程安排.md"
+    },
+    {
+      "basename": "Coretx-M4内核 按键中断实验",
+      "path": "pages/Coretx-M4内核 按键中断实验.md"
+    },
+    {
+      "basename": "为什么可以通过PWM方波控制有源蜂鸣器",
+      "path": "pages/为什么可以通过PWM方波控制有源蜂鸣器.md"
+    },
+    {
+      "basename": "IIC总线-创客学院-武老师",
+      "path": "pages/IIC总线-创客学院-武老师.md"
+    },
+    {
+      "basename": "RCC_MP_APB1ENSETR寄存器和RCC_MC_APB1ENSETR寄存器有什么区别",
+      "path": "pages/RCC_MP_APB1ENSETR寄存器和RCC_MC_APB1ENSETR寄存器有什么区别.md"
+    },
+    {
+      "basename": "蜂鸣器的驱动方式",
+      "path": "pages/蜂鸣器的驱动方式.md"
+    },
+    {
+      "basename": "Latex语法",
+      "path": "pages/Latex语法.md"
+    },
+    {
+      "basename": "daily_template",
+      "path": "public/templates/daily_template.md"
+    },
+    {
+      "basename": "STM32MP157的两颗Cortex-A7内核分别干啥",
+      "path": "pages/STM32MP157的两颗Cortex-A7内核分别干啥.md"
     }
   ],
   "omittedPaths": [],

@@ -11,6 +11,7 @@ const { sidebar } = AutoConfigureNavSidebarPlugin({
     ],
     ignoreFiles: [
         "index.md",
+        "归档.md",
     ]
 })
 

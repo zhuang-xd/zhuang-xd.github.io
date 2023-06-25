@@ -1,23 +1,26 @@
 {
-  "name": "vitepress-demo",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "scripts": {
-    "dev": "bash local.sh && vitepress dev docs",
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs --port 3001",
-    "clog": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md"
-  },
-  "devDependencies": {
-    "@w3ctech-editorial-department/vitepress-auto-configure-nav-sidebar": "^1.0.0",
-    "vitepress": "^1.0.0-alpha.4",
-    "vue": "^3.2.37"
-  },
-  "dependencies": {
-    "@iminu/vitepress-plugin-auto-sidebar": "^1.0.3",
-    "vitepress-auto-nav-sidebar": "^0.0.5",
-    "vitepress-markdown-timeline": "^1.2.1"
-  }
+    "name": "vitepress-demo",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "dev": "bash local.sh && vitepress dev docs",
+        "docs:dev": "vitepress dev docs",
+        "docs:build": "vitepress build docs",
+        "docs:serve": "vitepress serve docs --port 3001",
+        "clog": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md"
+    },
+    "devDependencies": {
+        "@mermaid-js/mermaid-mindmap": "^9.3.0",
+        "@w3ctech-editorial-department/vitepress-auto-configure-nav-sidebar": "^1.0.0",
+        "vitepress": "^1.0.0-alpha.4",
+        "vitepress-plugin-mermaid": "^2.0.10",
+        "vue": "^3.2.37"
+    },
+    "dependencies": {
+        "@iminu/vitepress-plugin-auto-sidebar": "^1.0.3",
+        "mermaid": "^9.1.3",
+        "vitepress-auto-nav-sidebar": "^0.0.5",
+        "vitepress-markdown-timeline": "^1.2.1"
+    }
 }
