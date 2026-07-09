@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Generated content
+src/data/obsidianManifest.js
+public/feed.xml
+
+# Private Obsidian vault content and local tool state
+src/obsidian/private/

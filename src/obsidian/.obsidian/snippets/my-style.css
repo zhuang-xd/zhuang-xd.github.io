@@ -1,0 +1,322 @@
+/* ------------------------------------------------------------------- */
+/*                                 全局                                */
+/* ------------------------------------------------------------------- */
+
+/* 全文颜色 */
+.theme-light .workspace-leaf-content{
+     /* --background-primary:rgb(159, 217, 144); */
+}
+
+.theme-dark{
+    /* --text-normal: #aca59a; */
+    --text-normal: rgb(245, 255, 239);
+    /* --background-primary: #181b1c; */
+}
+
+/* ------------------------------------------------------------------- */
+/*                               上下左右栏                             */
+/* ------------------------------------------------------------------- */
+
+/* 左侧边栏 */
+.theme-light .workspace-tabs,
+.mod-left-split .graph-controls{
+    background-color: var(--background-primary)!important;
+}
+/* 左侧栏滚动条 */
+.mod-left-split .workspace-tabs ::-webkit-scrollbar-thumb {
+  border-width: 0px 4px 2px 0px!important;
+  border-color: var(--background-primary);
+}
+
+/* 滚动条轨道 */
+::-webkit-scrollbar-track-piece{
+    background-color: var(--background-primary) !important;
+}
+
+
+/* 顶栏 */
+/* .titlebar{
+    background-color:var(--background-secondary-alt) !important;
+} */
+/* 工具栏 */
+/* .workspace-ribbon{
+    background-color:var(--background-secondary-alt) !important;
+} */
+
+/* ------------------------------------------------------------------- */
+/*                                   颜色                              */
+/* ------------------------------------------------------------------- */
+
+/* 大标题*/
+/* .view-header-title-container {
+    display: none;
+    display: flex;
+    justify-content: center;
+    font-size: 17px;
+    color: brown;
+} */
+
+/* 二级标题颜色 */
+:root {
+    /* --h2-color: #25ad75;*/
+    /* --h1-color: #9f1360;  */
+    --h2-color: #2e80f2;
+    --h4-color: #c16396;
+    --h3-color: #e5b567;
+    /* --h5-color: #e83e3e; */
+    --h5-color: #da4f4f;
+    --h6-color: rgb(109, 191, 37);
+}
+
+/* 文字Bold加粗 */
+:root{
+    --strong-color:#2e80f2;
+    /* --strong-color:#7eb746; */
+    /* --strong-color:#6ea736; */
+}
+
+
+.workspace-leaf.mod-active .view-header-title{
+    color: #8493a4;
+    /* color: #3a5781; */
+}
+
+/* 四级标题取消大写*/
+.markdown-preview-view h4,
+.HyperMD-header-4 .cm-header-4,
+.cm-s-obsidian .cm-header-4 {
+  text-transform: unset;
+  font-weight: bold !important;
+}
+
+.cm-s-obsidian .cm-header-5{
+    font-weight: bold !important;
+}
+
+
+
+
+/* ------------------------------------------------------------------- */
+/*                                  斜体                               */
+/* ------------------------------------------------------------------- */
+body:not(.default-font-color) em, body:not(.default-font-color) .cm-s-obsidian .cm-em.cm-header, body:not(.default-font-color) .cm-s-obsidian .cm-em.cm-header.cm-header-1, body:not(.default-font-color) .cm-s-obsidian .cm-em.cm-header.cm-header-2, body:not(.default-font-color) .cm-s-obsidian .cm-em.cm-header.cm-header-3, body:not(.default-font-color) .cm-s-obsidian .cm-em.cm-header.cm-header-4, body:not(.default-font-color) .cm-s-obsidian .cm-em.cm-header.cm-header-5, body:not(.default-font-color) .cm-s-obsidian .cm-em.cm-header.cm-header-6, body:not(.default-font-color) .cm-s-obsidian .cm-em.cm-header.cm-header-1, body:not(.default-font-color) .cm-s-obsidian .cm-em.cm-header.cm-header-2, body:not(.default-font-color) .cm-s-obsidian .cm-em.cm-header.cm-header-3, body:not(.default-font-color) .cm-s-obsidian .cm-em.cm-header.cm-header-4, body:not(.default-font-color) .cm-s-obsidian .cm-em.cm-header.cm-header-5, body:not(.default-font-color) .cm-s-obsidian .cm-em.cm-header.cm-header-6, body:not(.default-font-color) .markdown-preview-section em, body:not(.default-font-color) .cm-s-obsidian .cm-em{
+    color:var(--text-normal)
+    font-style:normal
+}
+
+
+/* ------------------------------------------------------------------- */
+/*                                  高亮                               */
+/* ------------------------------------------------------------------- */
+
+/* 引用 */
+/* span.cm-quote.cm-quote-1{
+    color: #25ad75 !important;
+} */
+
+
+/* ==高亮== */
+.cm-s-obsidian span .cm-formatting-highlight,
+.cm-s-obsidian span.cm-highlight {
+    /* background-color: #ff82b2a1; */
+    background-color: #639631;
+}
+
+/* 行内代码高亮 */
+
+.cm-s-obsidian span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight){
+    /* background-color:var(--background-primary-alt); */
+    color: #60912e;
+}
+
+.cm-s-obsidian span.cm-hmd-internal-link,/* wiki链接颜色 */
+.cm-s-obsidian span.cm-link,/* md链接颜色 */
+.internal-link {/* 预览链接颜色（wiki，md） */
+    color: #60912e !important;
+}
+
+/* ------------------------------------------------------------------- */
+/*                                 侧栏                                */
+/* ------------------------------------------------------------------- */
+
+/* 高亮文件夹中的md文件 */
+.nav-file-title.is-active,
+.nav-folder-title.is-active,
+body:not(.is-grabbing) .nav-file-title:hover,
+body:not(.is-grabbing) .nav-folder-title:hover{
+    background-color: #2e80f285;
+    color:#ffffff !important;
+}
+.workspace-leaf.mod-active .nav-file.has-focus{
+    border: transparent 1px solid;
+    background-color: transparent;
+}
+
+/* 高亮日历文件 */
+.calendar .filled,
+.calendar .task{
+    stroke: #2e80f2 !important;
+}
+.calendar .filled{
+    fill: #2e80f2 !important;
+}
+/* 高亮今日文字 */
+#calendar-container .today{
+    color: #5a98f5;
+}
+/* 高亮今日文件 */
+#calendar-container .today:hover{
+    color: #fff;
+    background-color: #2e80f2;
+}
+.today:hover .filled,
+.today:hover .task{
+    stroke: #fff !important;
+}
+.today:hover .filled{
+    fill: #fff !important;
+}
+
+
+
+/* ------------------------------------------------------------------- */
+/*                                 表格                                */
+/* ------------------------------------------------------------------- */
+
+/* 表头 */
+.markdown-rendered th{
+    text-align: center;
+}
+
+
+/* table配色、居中 */
+/* .markdown-rendered table {
+    text-align: center;
+} */
+
+.markdown-rendered th {
+    background-color: #4e8de65a;
+}
+
+/* ------------------------------------------------------------------- */
+/*                                 大纲对齐                             */
+/* ------------------------------------------------------------------- */
+
+/* outline对齐 */
+.outline {
+    padding: 10px 10px;
+}
+
+.outline .tree-item-self {
+    font-weight: 500;
+    padding: 0;
+    margin: 0;
+}
+
+.outline .tree-item-self .collapse-icon {
+    position: relative;
+    margin-left: -2px;
+    margin-right: -3px;
+}
+
+.outline .tree-item-inner {
+    align-items: flex-start;
+    position: relative;
+    padding: 5px 3px;
+    line-height: 1;
+}
+
+.outline .tree-item-inner::before {
+    flex-shrink: 0;
+    content: "●";
+    font-family: sans-serif;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    width: 12px;
+    height: 12px;
+    font-size: 10px;
+    position: relative;
+    top: -0.1em;
+    margin-right: 3px;
+}
+
+.outline .tree-item-inner:not(:only-child)::before {
+    display: none;
+}
+
+.outline .tree-item-children {
+    margin-left: 13px;
+}
+
+/* outline箭头 */
+body:not(.minimal-icons-off) svg.right-triangle{
+    /* background-color: #c78aab; */
+    background-color:#2e80f2;
+}
+
+/* ------------------------------------------------------------------- */
+/*                             圆形checkbox                            */
+/* ------------------------------------------------------------------- */
+
+/* 圆形checkbox */
+:root {
+    --checkbox-size:17px;
+    --checkbox-icon:20px;
+    --checkbox-radius:50%;
+    --checkbox-top:2px;
+    --checkbox-left:0px;
+    --checkbox-margin:0px 6px 0px -1.35em; 
+}
+
+
+/* checkbox未选中轮廓 */
+input[type=checkbox] {
+    -webkit-appearance: none;
+    appearance: none;
+    border-radius: var(--checkbox-radius);
+    border: 1px solid var(--text-faint);
+    padding: 0;
+    width: var(--checkbox-size);
+    height: var(--checkbox-size); 
+}
+  
+/* checkbox选中后轮廓 */
+.checklist-plugin-main .group .compact > .toggle .checked,
+.is-flashing input[type=checkbox]:checked,
+    input[type=checkbox]:checked {
+    background-color: rgb(104, 180, 109);
+    border: 1px solid rgb(42, 165, 130);
+    background-position: 44% 55%;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-image: url('data:image/svg+xml; utf8, <svg width="12px" height="10px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-4.000000, -6.000000)" fill="%23ffffff"><path d="M8.1043257,14.0367999 L4.52468714,10.5420499 C4.32525014,10.3497722 4.32525014,10.0368095 4.52468714,9.8424863 L5.24777413,9.1439454 C5.44721114,8.95166768 5.77142411,8.95166768 5.97086112,9.1439454 L8.46638057,11.5903727 L14.0291389,6.1442083 C14.2285759,5.95193057 14.5527889,5.95193057 14.7522259,6.1442083 L15.4753129,6.84377194 C15.6747499,7.03604967 15.6747499,7.35003511 15.4753129,7.54129009 L8.82741268,14.0367999 C8.62797568,14.2290777 8.3037627,14.2290777 8.1043257,14.0367999"></path></g></g></svg>'); 
+}
+  
+body .markdown-source-view.mod-cm6 .HyperMD-task-line[data-task]:not([data-task=" "]),
+body .markdown-preview-view ul > li.task-list-item.is-checked {
+    /* text-decoration:line-through; */
+    text-decoration:none;
+}
+
+/* ------------------------------------------------------------------- */
+/*                            插件-kanban                              */
+/* ------------------------------------------------------------------- */
+/* 字体大小 */
+body .kanban-plugin__markdown-preview-view ol.contains-task-list .contains-task-list, body .kanban-plugin__markdown-preview-view ul.contains-task-list .contains-task-list, body .kanban-plugin__markdown-preview-view ul, .kanban-plugin__markdown-preview-view ol{
+    font-size: 12px;
+}
+
+/* ------------------------------------------------------------------- */
+/*                                  元信息                             */
+/* ------------------------------------------------------------------- */
+
+/* metadata框消失 */
+/* .frontmatter-container {
+    display: none;
+} */
+
+/* 仅metadata标题消失 */
+/* .frontmatter-container .frontmatter-container-header{
+    display: none;
+} */

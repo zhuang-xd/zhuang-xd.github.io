@@ -1,0 +1,184 @@
+{
+  "workspaces": {
+    "Default": {
+      "main": {
+        "id": "4b1466b83548e22b",
+        "type": "split",
+        "children": [
+          {
+            "id": "d29b25638d0f805a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c293ed1494cd8c33",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/2023-05-30.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3051022b4e35b9c2",
+        "type": "split",
+        "children": [
+          {
+            "id": "162e34f036d7a318",
+            "type": "tabs",
+            "dimension": 68.08510638297872,
+            "children": [
+              {
+                "id": "6b924ba43ae381bf",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "inbox/2023-05-30.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "-path:_ignore -file:HomePage",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": false,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14701138
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 122,
+                      "scale": 1.2414543899483053,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "eafcf902c3bfe127",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "d8f9e9166e07ca1e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabeticalReverse"
+                  }
+                }
+              },
+              {
+                "id": "4a979136b41cb68f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "inbox/2023-05-30.md"
+                  }
+                }
+              },
+              {
+                "id": "ad8881ca09b5e6bb",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "50e5ac41b8093b36",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "e155ed1e5e84fcbf",
+            "type": "tabs",
+            "dimension": 31.91489361702128,
+            "children": [
+              {
+                "id": "fa28fd5f60fbff89",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 275
+      },
+      "right": {
+        "id": "4ad17b90582ceb95",
+        "type": "split",
+        "children": [],
+        "direction": "horizontal",
+        "width": 317,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "templates:插入模板": true,
+          "switcher:打开快速切换": true,
+          "graph:查看关系图谱": true,
+          "daily-notes:打开/创建今天的日记": true,
+          "command-palette:打开命令面板": true,
+          "random-note:开始漫游笔记": true,
+          "workspaces:管理工作区布局": true,
+          "canvas:新建白板": false,
+          "homepage:Open homepage": false,
+          "obsidian-file-cleaner:清理文件": false,
+          "open-vscode:VSCode": false
+        }
+      },
+      "active": "c293ed1494cd8c33"
+    }
+  },
+  "active": "Default"
+}

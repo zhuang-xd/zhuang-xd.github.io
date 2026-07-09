@@ -1,0 +1,5 @@
+{
+  "folder": "private/daily",
+  "format": "YYYY-MM-DD（WW周）",
+  "template": "templates/daily"
+}

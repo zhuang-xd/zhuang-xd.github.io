@@ -1,0 +1,7 @@
+{
+  "snapToObjects": true,
+  "snapToGrid": true,
+  "defaultWheelBehavior": "pan",
+  "defaultModDragBehavior": "card",
+  "cardLabelVisibility": "hover"
+}

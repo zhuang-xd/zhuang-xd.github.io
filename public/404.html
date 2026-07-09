@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Zhuang Xiao Dong</title>
+    <script>
+      var path = window.location.pathname;
+      var markdownMatch = path.match(/\/([^/]+)\.md$/i);
+      var target = '/#blog';
+
+      if (markdownMatch) {
+        try {
+          target = '/#/post/' + encodeURIComponent(decodeURIComponent(markdownMatch[1]));
+        } catch (error) {
+          target = '/#/post/' + encodeURIComponent(markdownMatch[1]);
+        }
+      } else if (path.indexOf('/tag') === 0) {
+        target = '/#tag';
+      }
+
+      window.location.replace(target);
+    </script>
+  </head>
+  <body></body>
+</html>

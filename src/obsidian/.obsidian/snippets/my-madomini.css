@@ -1,0 +1,161 @@
+.workspace-split.mod-vertical.mod-root .markdown-preview-view {
+    padding-inline: 0px !important;
+}
+
+
+/* 代码 */
+    /* 注释 */
+.cm-s-obsidian span.cm-comment {
+    color: #d1d7e2d8;
+}
+    /* 函数 */
+.token.entity, .token.parameter, .token.property, .token.url, .language-css .token.string, .style .token.string, .token.variable, .cm-link, .cm-variable, .cm-variable-2, .cm-variable-3 {
+    color:#88bfcf;
+}
+    /* 方法 */
+.token.atrule, .token.attr-value, .token.builtin, .token.function, .token.class-name, .token.property-access, .cm-builtin, .cm-property, .cm-attribute, .cm-type{
+    color: #e5c689;
+}
+    /* 变量 */
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-codeblock{
+    color:#88bfcf
+}
+    /* 字符串 */
+token.selector, .token.attr-name, .token.string, .token.char, .token.inserted, .cm-qualifier, .cm-string, .cm-string-2 {
+    color: #4ea468;
+}
+    /* 运算符 */
+.token.operator, .cm-operator {
+    color: #cb5c52;
+}
+    /* 关键词 */
+.token.keyword, .cm-keyword{
+    color: #c5709e;
+}
+
+
+/* 加粗 */
+.HyperMD-quote .cm-strong,
+strong, .cm-strong{
+    /* color:#bd626c !important; */
+    color:#cfcf29 !important;
+}
+
+/* tags */
+a.tag, .editor .cl-hashtag{
+    color: #8ebbba;
+}
+
+/* callout */
+.callout {
+    background-color: #287244;
+    color: beige;
+    padding:10px;
+}
+
+a.tag,
+.markdown-rendered .internal-link,
+.markdown-source-view.mod-cm6 .edit-block-button,
+.callout li::marker,
+.callout strong,
+.callout .external-link,
+.callout-icon .svg-icon,
+.callout-title{
+    color: rgb(223, 220, 220) !important;
+}
+
+.callout-content{
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+
+
+/* 高亮日历文件 */
+.calendar .filled,
+.calendar .task{
+    stroke: #3e7b3b !important;
+}
+.calendar .filled{
+    fill: #3e7b3b !important;
+}
+/* 高亮今日文字 */
+#calendar-container .today{
+    color: #388134;
+}
+/* 高亮今日文件 */
+#calendar-container .today:hover{
+    color: #fff;
+    background-color: #3e7b3b;
+}
+.today:hover .filled,
+.today:hover .task{
+    stroke: #fff !important;
+}
+.today:hover .filled{
+    fill: #fff !important;
+}
+
+
+/* checkbox未选中轮廓 */
+input[type=checkbox] {
+    -webkit-appearance: none;
+    appearance: none;
+    border-radius: var(--checkbox-radius);
+    border: 1px solid var(--text-faint);
+    padding: 0;
+    width: var(--checkbox-size);
+    height: var(--checkbox-size); 
+}
+  
+
+/* 标题*/
+.cm-header-1{
+    color: #61bf67;
+}
+.cm-header-2{
+    color: #3e8ced;
+}
+.cm-header-3{
+    color: #9ab486;
+}
+.cm-header-4{
+    color: #b48ead;
+}
+.cm-header-5{
+    color: #8ebbba;
+}
+.cm-header-5{
+    color: #80a0c0;
+}
+
+
+/* 状态栏 */
+body:is(:not(.css-settings-manager),.toggle-status-bar) .status-bar,
+:is(.workspace-tab-header-status-icon, .clickable-icon){
+    bottom: 0px;
+    background-color: transparent;
+    color:transparent;
+    border-color: transparent;
+    margin-right: 44px;
+} 
+
+.status-bar-item.plugin-auto-note-mover,
+.status-bar-item.mod-clickable{
+    display: none;
+}
+
+body:is(:not(.css-settings-manager),.toggle-status-bar) .status-bar:hover .status-bar-item{
+    color:#737f93;
+}
+
+/* 标签栏 */
+.clickable-icon.is-active,
+.nav-header{
+    display: none;
+}
+
+
+/* 看板 */
+.kanban-plugin__item.is-complete :is(.markdown-preview-view>div *, .kanban-plugin__item-metadata-wrapper:not(:empty) *){
+    text-decoration:none;
+}
