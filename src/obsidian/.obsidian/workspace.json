@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b62fe2844bce10a8",
+        "id": "44a3f12e41bcad73",
         "type": "tabs",
         "children": [
           {
-            "id": "859838d9a3701c93",
+            "id": "192315635c0096a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/git：生成当前工作区与上一个 commit 的 patch 文件.md",
+                "file": "private/chamsion/doc/1代眼镜-g5k61/杰理设备状态维护说明.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "git：生成当前工作区与上一个 commit 的 patch 文件"
+              "title": "杰理设备状态维护说明"
+            }
+          },
+          {
+            "id": "867115c9a8f4a9fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/daily/2026-07-09（28周）.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-09（28周）"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +85,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -73,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "eq",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -197,52 +222,53 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "859838d9a3701c93",
+  "active": "867115c9a8f4a9fe",
   "lastOpenFiles": [
-    "posts/git：本地dev推送并同步到远程feature.md",
-    "posts/git：生成当前工作区与上一个 commit 的 patch 文件.md",
-    "posts/git：用dev分支隔离main上的待提交改动.md",
-    "posts/obsidian + claude code cli实践.md",
-    "posts/codex desktop远程ssh开发.md",
-    "posts/claude code desktop接入第三方api.md",
-    "posts/cursor不能ctrl+左键跳转的解决方案.md",
-    "posts/window连接虚拟机linux的samba.md",
-    "attachments/images/Pasted image 20260709131850.png",
-    "attachments/images/Pasted image 20260709131742.png",
-    "attachments/images/Pasted image 20260709131728.png",
-    "attachments/images/Pasted image 20260709131715.png",
-    "attachments/images/Pasted image 20260709131623.png",
-    "attachments/images/Pasted image 20260709131600.png",
+    "private/chamsion/doc/1代眼镜-g5k61/杰理设备状态维护说明.md",
     "private/daily/2026-07-09（28周）.md",
-    "private/daily/2026-06-16（25周）.md",
-    "private/chamsion/2代眼镜-g5t71/备忘.md",
-    "private/chamsion/2代眼镜-g5t71/ble/ios自动回连设备ble的mtu始终是23.md",
-    "private/chamsion/2代眼镜-g5t71/未命名",
-    "private/chamsion/2代眼镜-g5t71/ble",
+    "private/chamsion/doc/1代眼镜-g5k61/ai_voice_spp_ack_protocol.md",
+    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
+    "private/chamsion/code/jl7016g/sdk/cpu/br28/tools/null",
+    "private/chamsion/code/jl7016g/sdk/cpu/br28/tools/bank20.bin",
+    "private/chamsion/code/jl7016g/sdk/cpu/br28/tools/bank19.bin",
+    "private/chamsion/code/jl7016g/sdk/cpu/br28/tools/bank18.bin",
+    "private/chamsion/code/jl7016g/sdk/cpu/br28/tools/bank17.bin",
+    "private/chamsion/code/jl7016g/sdk/cpu/br28/tools/bank16.bin",
+    "private/chamsion/code/jl7016g/sdk/cpu/br28/tools/bank15.bin",
+    "private/chamsion/code/jl7016g/sdk/cpu/br28/tools/bank14.bin",
+    "private/chamsion/code/jl7016g/sdk/cpu/br28/tools/bank13.bin",
+    "private/chamsion/code/jl7016g/sdk/cpu/br28/tools/bank12.bin",
+    "private/chamsion/doc/2代眼镜-g5t71/eq/eq_dev/doc.md",
+    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
+    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+    "private/chamsion/code/CytG5T7/app/src/main/res/drawable/ic_launcher_app.png",
+    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+    "private/daily/2026-07-07（28周）.md",
+    "private/chamsion/doc/2代眼镜-g5t71/eq/eq_dev/音效模式接口与实现计划.md",
+    "private/chamsion/doc/2代眼镜-g5t71/新手引导/新手引导模块开发总结.md",
+    "private/daily/2026-07-04（27周）.md",
+    "private/chamsion/doc/2代眼镜-g5t71/eq/音效模式接口与实现计划.md",
+    "private/chamsion/doc/2代眼镜-g5t71/eq/音效模式App对接文档.md",
+    "private/chamsion/doc/2代眼镜-g5t71/ble/ios自动回连设备ble的mtu始终是23.md",
+    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+    "private/daily/2026-06-16-photo-recog2-sequence.md",
     "private/daily/2026-07-08（28周）.md",
     "private/daily/2026-07-06（28周）.md",
-    "private/chamsion/2代眼镜-g5t71/新手引导/正式App新手引导开发文档.md",
-    "private/chamsion/2代眼镜-g5t71/ai识图/智能图像识别_App端开发文档.md",
-    "private/chamsion/2代眼镜-g5t71/eq/音效模式App对接文档.md",
-    "private/chamsion/2代眼镜-g5t71/eq/音效模式BLE时序图.svg",
-    "private/chamsion/2代眼镜-g5t71/eq/音效模式接口与实现计划.md",
-    "private/chamsion/2代眼镜-g5t71/新手引导/新手引导完整时序图.png",
-    "private/chamsion/2代眼镜-g5t71/新手引导/新手引导模块设计实现方案.md",
-    "private/chamsion/2代眼镜-g5t71/新手引导/_generate_guide_sequence_png.py",
-    "private/chamsion/2代眼镜-g5t71/新手引导/新手引导模块开发总结.md",
-    "private/chamsion/2代眼镜-g5t71/新手引导/设计说明.png",
-    "private/chamsion/2代眼镜-g5t71/ai识图/智能图像识别 BLE 图片回传实现计划.md",
-    "private/chamsion/2代眼镜-g5t71/新手引导/res/hd/9.jpg.0.pdnSave",
-    "private/chamsion/2代眼镜-g5t71/新手引导/res/hd/8.jpg.0.pdnSave",
-    "private/chamsion/2代眼镜-g5t71/新手引导/res/hd/7.jpg.0.pdnSave",
-    "private/chamsion/2代眼镜-g5t71/新手引导/res/hd/6.jpg.0.pdnSave",
-    "private/chamsion/2代眼镜-g5t71/新手引导/res/hd/5.jpg.0.pdnSave",
-    "private/chamsion/2代眼镜-g5t71/新手引导/res/hd/4.jpg.0.pdnSave",
-    "private/chamsion/2代眼镜-g5t71/新手引导/res/hd/3.jpg.0.pdnSave",
-    "private/chamsion/2代眼镜-g5t71/新手引导/res/hd/4.jpg",
-    "private/chamsion/1代眼镜-g5k61/协议/新手引导接口说明.md",
-    "private/chamsion/1代眼镜-g5k61/协议/BLE_WIFI传输协议源码实现分析.md",
-    "private/chamsion/1代眼镜-g5k61/协议/photo_recognize2_app_integration.md",
-    "private/chamsion/1代眼镜-g5k61/info/device_status_management.md"
+    "private/daily/2026-07-03（27周）.md",
+    "private/daily/2026-07-02（27周）.md",
+    "private/daily/2026-06-30（27周）.md",
+    "private/daily/2026-07-01（27周）.md",
+    "private/daily/2026-06-29（27周）.md",
+    "private/daily/2026-06-27（26周）.md",
+    "private/daily/2026-06-16（25周）.md",
+    "private/daily/2026-06-26（26周）.md",
+    "private/daily/2026-06-25（26周）.md",
+    "private/daily/2026-06-24（26周）.md"
   ]
 }

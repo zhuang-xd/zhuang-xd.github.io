@@ -23,5 +23,11 @@ git diff HEAD > diff.patch
 
 ```bash
 git apply diff.patch
-patch -p1 < diff.patch
+patch -p1 < diff.patch 
+```
+
+这个p1表示层级
+```bash
+patch -p1 < BES2800BP-FreeRTOS/mtu_ble.patch
+patch -p2 < mtu_ble.patch
 ```
