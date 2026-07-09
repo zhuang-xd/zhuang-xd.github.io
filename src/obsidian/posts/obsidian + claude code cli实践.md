@@ -1,12 +1,12 @@
 ---
-title: claude code cli + obsidian实践
+title: obsidian + claude code cli实践
 date: 2026-06-06
 tags:
   - documents
 public: true
 star: false
 ---
-# claude code cli + obsidian实践
+# obsidian + claude code cli实践
 
 ## 效果
 

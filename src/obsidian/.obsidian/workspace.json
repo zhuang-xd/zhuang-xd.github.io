@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/daily/2026-07-09（28周）.md",
+                "file": "posts/git：生成当前工作区与上一个 commit 的 patch 文件.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-07-09（28周）"
+              "title": "git：生成当前工作区与上一个 commit 的 patch 文件"
             }
           }
         ]
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/daily/2026-07-09（28周）.md",
+                "file": "posts/git：生成当前工作区与上一个 commit 的 patch 文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-07-09（28周） 的反向链接列表"
+              "title": "git：生成当前工作区与上一个 commit 的 patch 文件 的反向链接列表"
             }
           },
           {
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,12 +194,25 @@
       "command-palette:打开命令面板": false,
       "obsidian-file-cleaner:清理文件": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "realclaudian:Open Claudian": false,
       "terminal:Open terminal": false
     }
   },
   "active": "859838d9a3701c93",
   "lastOpenFiles": [
+    "posts/git：本地dev推送并同步到远程feature.md",
+    "posts/git：生成当前工作区与上一个 commit 的 patch 文件.md",
+    "posts/git：用dev分支隔离main上的待提交改动.md",
+    "posts/obsidian + claude code cli实践.md",
+    "posts/codex desktop远程ssh开发.md",
+    "posts/claude code desktop接入第三方api.md",
+    "posts/cursor不能ctrl+左键跳转的解决方案.md",
+    "posts/window连接虚拟机linux的samba.md",
+    "attachments/images/Pasted image 20260709131850.png",
+    "attachments/images/Pasted image 20260709131742.png",
+    "attachments/images/Pasted image 20260709131728.png",
+    "attachments/images/Pasted image 20260709131715.png",
+    "attachments/images/Pasted image 20260709131623.png",
+    "attachments/images/Pasted image 20260709131600.png",
     "private/daily/2026-07-09（28周）.md",
     "private/daily/2026-06-16（25周）.md",
     "private/chamsion/2代眼镜-g5t71/备忘.md",
@@ -226,24 +240,9 @@
     "private/chamsion/2代眼镜-g5t71/新手引导/res/hd/4.jpg.0.pdnSave",
     "private/chamsion/2代眼镜-g5t71/新手引导/res/hd/3.jpg.0.pdnSave",
     "private/chamsion/2代眼镜-g5t71/新手引导/res/hd/4.jpg",
-    "private/chamsion/2代眼镜-g5t71/新手引导/res/hd/86ac409d24a0ade5354f20a7be938bae.jpg",
-    "private/chamsion/2代眼镜-g5t71/新手引导/res/hd/9.jpg",
-    "private/chamsion/2代眼镜-g5t71/新手引导/res/hd/047de543039db941d8544d06aa81a88d.jpg",
-    "private/chamsion/2代眼镜-g5t71/新手引导/res/hd/1.jpg",
-    "private/chamsion/2代眼镜-g5t71/新手引导/res/hd/8deca171c8c229400def539868559f9b.jpg",
-    "private/chamsion/2代眼镜-g5t71/新手引导/res/hd/2.jpg",
     "private/chamsion/1代眼镜-g5k61/协议/新手引导接口说明.md",
     "private/chamsion/1代眼镜-g5k61/协议/BLE_WIFI传输协议源码实现分析.md",
     "private/chamsion/1代眼镜-g5k61/协议/photo_recognize2_app_integration.md",
-    "private/chamsion/1代眼镜-g5k61/info/device_status_management.md",
-    "private/chamsion/1代眼镜-g5k61/1代拍照识图/拍照识图传输优化总结.md",
-    "private/chamsion/2代眼镜-g5t71/eq/eq_dev/音效模式接口与实现计划.md",
-    "private/chamsion/2代眼镜-g5t71/eq/eq_dev/doc.md",
-    "private/daily/2026-07-07（28周）.md",
-    "private/chamsion/2代眼镜-g5t71/ai识图/智能图像识别_拍照识图流程总结.md",
-    "private/chamsion/1代眼镜-g5k61/备忘.md",
-    "private/chamsion/1代眼镜-g5k61/ai_voice_spp_ack_protocol.md",
-    "private/chamsion/1代眼镜-g5k61/电池电量显示与电压阈值.md",
-    "private/chamsion/命令.md"
+    "private/chamsion/1代眼镜-g5k61/info/device_status_management.md"
   ]
 }

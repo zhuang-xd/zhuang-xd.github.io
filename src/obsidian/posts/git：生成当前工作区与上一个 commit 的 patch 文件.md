@@ -1,12 +1,12 @@
 ---
-title: git 生成当前工作区与上一个 commit 的 patch 文件
+title: Git：生成当前工作区与上一个 commit 的 patch 文件
 date: 2026-06-27
 tags:
   - documents
 public: true
 star: false
 ---
-# git 生成当前工作区与上一个 commit 的 patch 文件
+# Git：生成当前工作区与上一个 commit 的 patch 文件
 
 ## 场景
 
