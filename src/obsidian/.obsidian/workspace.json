@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态模块实现计划.md",
+                "file": "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态_App开发文档.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "设备状态模块实现计划"
+              "title": "设备状态_App开发文档"
             }
           }
         ]
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eq",
+                "query": "logcat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,13 +90,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/daily/2026-07-09（28周）.md",
+                "file": "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态_App开发文档.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-07-09（28周） 的大纲"
+              "title": "设备状态_App开发文档 的大纲"
             }
           },
           {
@@ -199,50 +199,50 @@
   },
   "active": "fecf2722b734f316",
   "lastOpenFiles": [
-    "private/chamsion/doc/2代眼镜-g5t71/智能眼镜按键及交互定义V1.3.pdf",
-    "private/chamsion/doc/2代眼镜-g5t71/自动清理2800编译生成的文件.md",
+    "private/chamsion/doc/2代眼镜-g5t71/设备状态/AI录音-对端开发文档(3).md",
     "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
-    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态模块实施方案.md",
+    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态_App开发文档.md",
+    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态设备端和App端开发总结.md",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/project_dex_archive/debug/out/com/cyt/aiglass/AiRecordActivity.dex",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/project_dex_archive/debug/out/com/cyt/aiglass/AiRecordActivity$4.dex",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/project_dex_archive/debug/out/com/cyt/aiglass/MainActivity$DeviceActionResponseListener.dex",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/javac/debug/classes/com/cyt/aiglass/MainActivity$DeviceActionResponseListener.class",
+    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/AiRecordActivity$4.class.uniqueId31",
+    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/AIFragment$2.class.uniqueId30",
+    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/GlassFragment$1.class.uniqueId29",
+    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/DeviceStatusManager$ActionResponse.class.uniqueId28",
+    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/MainActivity$GuideEventListener.class.uniqueId20",
+    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/ImageGalleryFragment.class.uniqueId13",
     "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态模块实现计划.md",
-    "private/chamsion/doc/2代眼镜-g5t71/设备状态",
+    "attachments/images/mermaid-flowchart-2026-07-11T09-48-33.png",
+    "attachments/images/mermaid-flowchart-2026-07-11T09-47-05.png",
+    "attachments/images/mermaid-flowchart-2026-07-11T09-43-08.png",
+    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
+    "private/others/codx-pet/ikun.codex-pet/spritesheet.webp",
+    "private/chamsion/code/jl/out/bak/CytG5K6-voice-ack/docs/app_media_control_0x6a_protocol.md",
+    "private/chamsion/code/jl/out/bak/CytG5K6-voice-ack/docs/wifi_p2p_media_download_zh.md",
+    "private/chamsion/code/jl/out/bak/CytG5K6-ae3a/docs/app_media_control_0x6a_protocol.md",
+    "private/chamsion/code/jl/out/bak/CytG5K6-ae3a/docs/voice_v2_e2e_test_plan.md",
+    "private/chamsion/code/jl/out/bak/CytG5K6-ae3a/docs/voice_v2_spp_ack_protocol.md",
+    "private/chamsion/code/jl/out/bak/CytG5K6-ble/docs/app_media_control_0x6a_protocol.md",
+    "private/chamsion/code/jl/out/bak/CytG5K6-ble/docs/wifi_p2p_media_download_zh.md",
+    "private/chamsion/code/jl/out/CytG5K6-ble/docs/wifi_p2p_media_download_zh.md",
+    "private/chamsion/doc/2代眼镜-g5t71/自动清理2800编译生成的文件.md",
+    "private/chamsion/doc/2代眼镜-g5t71/ai识图/智能图像识别_App端开发文档.md",
+    "private/chamsion/doc/2代眼镜-g5t71/ai识图/智能图像识别_拍照识图流程总结.md",
+    "private/chamsion/doc/2代眼镜-g5t71/ai识图/智能图像识别 BLE 图片回传实现计划.md",
+    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态模块实施方案.md",
     "private/daily/2026-07-10（28周）.md",
     "private/daily/2026-07-09（28周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/新建 文本文档.txt",
     "private/others/codex-模型解锁指南.md",
-    "private/chamsion/doc/2代眼镜-g5t71/clean.sh",
-    "private/chamsion/code/jl/jl7016g/sdk/objs/apps/common/third_party_profile/jieli/wireless_mic/le_wireless_mic_server.c.o",
-    "private/chamsion/code/jl/jl7016g/sdk/objs/apps/common/third_party_profile/jieli/wireless_mic/le_wireless_mic_server.c.d",
-    "private/chamsion/code/jl/jl7016g/sdk/objs/apps/common/third_party_profile/jieli/wireless_mic/le_wireless_mic_client.c.o",
-    "private/chamsion/code/jl/jl7016g/sdk/objs/apps/common/third_party_profile/jieli/wireless_mic/le_wireless_mic_client.c.d",
-    "private/chamsion/code/jl/jl7016g/sdk/objs/apps/common/third_party_profile/jieli/wireless_mic",
-    "private/chamsion/code/jl/jl7016g/sdk/objs/apps/common/test/os_test.c.d",
     "private/chamsion/doc/2代眼镜-g5t71/ble/ios自动回连设备ble的mtu始终是23.md",
     "private/chamsion/tools/glass_v2/OTA Multi-file Packaging Toolv1.2.1.3/教程.png",
     "private/chamsion/doc/1代眼镜-g5k61/杰理设备状态维护说明.md",
     "private/daily/2026-07-06（28周）.md",
-    "private/chamsion/doc/1代眼镜-g5k61/ai_voice_spp_ack_protocol.md",
-    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
-    "private/chamsion/doc/2代眼镜-g5t71/eq/eq_dev/doc.md",
     "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
     "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-hdpi/ic_launcher.png",
     "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
     "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-mdpi/ic_launcher.png",
-    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
-    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
-    "private/chamsion/code/CytG5T7/app/src/main/res/drawable/ic_launcher_app.png",
-    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
-    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
-    "private/daily/2026-07-07（28周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/eq/eq_dev/音效模式接口与实现计划.md",
-    "private/chamsion/doc/2代眼镜-g5t71/新手引导/新手引导模块开发总结.md",
-    "private/daily/2026-07-04（27周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/eq/音效模式接口与实现计划.md",
-    "private/chamsion/doc/2代眼镜-g5t71/eq/音效模式App对接文档.md",
-    "private/daily/2026-06-16-photo-recog2-sequence.md",
-    "private/daily/2026-07-08（28周）.md",
-    "private/daily/2026-07-03（27周）.md",
-    "private/daily/2026-07-02（27周）.md",
-    "private/daily/2026-06-30（27周）.md",
-    "private/daily/2026-07-01（27周）.md"
+    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
   ]
 }
