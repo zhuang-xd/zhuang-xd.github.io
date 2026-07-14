@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f1705a7c3736677",
+            "id": "b1d4e516b1a0d735",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+                "file": "posts/恢复标准 dev null 设备节.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "备忘"
+              "title": "恢复标准 dev null 设备节"
             }
           }
         ]
@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,53 +197,53 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "3f1705a7c3736677",
+  "active": "b1d4e516b1a0d735",
   "lastOpenFiles": [
-    "private/chamsion/code/CytG5T7-save/settings.gradle",
-    "private/chamsion/code/CytG5T7-save/scripts/crop_pairing_images.py",
-    "private/chamsion/code/CytG5T7-save/scripts",
-    "private/chamsion/code/CytG5T7-save/README.md",
-    "private/chamsion/code/CytG5T7-save/log065",
-    "private/chamsion/code/CytG5T7-save/local.properties",
-    "private/chamsion/code/CytG5T7-save/ks",
-    "private/chamsion/code/CytG5T7-save/gradle.properties",
-    "private/chamsion/code/CytG5T7-save/gradle/wrapper/gradle-wrapper.properties",
-    "private/chamsion/code/CytG5T7-save/gradle/wrapper",
-    "private/chamsion/code/CytG5T7-save/gradle",
-    "private/chamsion/code/CytG5T7-save/COMMUNICATION_ARCHITECTURE.md",
-    "private/chamsion/code/CytG5T7-save/build.gradle",
-    "private/chamsion/code/CytG5T7-save/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
-    "private/chamsion/code/CytG5T7-save/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
-    "private/chamsion/code/CytG5T7-save/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
-    "private/chamsion/code/CytG5T7-save/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
-    "private/chamsion/code/CytG5T7-save/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
-    "private/chamsion/code/CytG5T7-save/app/src/main/res/mipmap-mdpi/ic_launcher.png",
-    "private/chamsion/code/CytG5T7-save/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
-    "private/chamsion/code/CytG5T7-save/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
-    "private/chamsion/code/CytG5T7-save/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
-    "private/chamsion/code/CytG5T7-save/app/src/main/res/mipmap-hdpi/ic_launcher.png",
-    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态_App开发文档.md",
     "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
-    "private/chamsion/doc/2代眼镜-g5t71/ai识图/智能图像识别_App端开发文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态模块实现计划.md",
-    "private/chamsion/doc/2代眼镜-g5t71/设备状态/AI录音-对端开发文档(3).md",
-    "private/chamsion/doc/2代眼镜-g5t71/ai识图/智能图像识别 BLE 图片回传实现计划.md",
-    "private/chamsion/doc/2代眼镜-g5t71/ai识图/智能图像识别_拍照识图流程总结.md",
-    "private/daily/2026-07-13（29周）.md",
-    "posts/git：用dev分支隔离main上的待提交改动.md",
-    "posts/claude code desktop接入第三方api.md",
-    "private/chamsion/doc/2代眼镜-g5t71/新手引导/新手引导模块设计实现方案.md",
-    "posts/git：本地dev推送并同步到远程feature.md",
-    "private/chamsion/code/CytG5T7-1/README.md",
-    "private/chamsion/code/CytG5T7-1/COMMUNICATION_ARCHITECTURE.md",
-    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
-    "private/chamsion/code/CytG5T7 - 副本/README.md",
-    "private/chamsion/code/CytG5T7 - 副本/COMMUNICATION_ARCHITECTURE.md",
-    "posts/git：生成当前工作区与上一个 commit 的 patch 文件.md",
-    "posts/cursor不能ctrl+左键跳转的解决方案.md",
-    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态设备端和App端开发总结.md",
-    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
-    "private/chamsion/code/jl/out/bak/CytG5K6-voice-ack/docs/app_media_control_0x6a_protocol.md",
-    "private/chamsion/code/jl/out/bak/CytG5K6-voice-ack/docs/wifi_p2p_media_download_zh.md"
+    "posts/恢复标准 dev null 设备节.md",
+    "private/daily/2026-07-14（29周）.md",
+    "attachments/images/Pasted image 20260714203310.png",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v28/values-v28.xml",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v28",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v31/values-v31.xml",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v31",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v26",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-uk/values-uk.xml",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-uk",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v24",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher_round.png",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher.png",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher_round.png",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher_round.png",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/ic_launcher_round.png",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/ic_launcher.png",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher_round.png",
+    "private/others/ai-api/cloudflare_temp_email/mail-parser-wasm/README.md",
+    "private/others/ai-api/cloudflare_temp_email/skills/cf-temp-mail-agent-mail/SKILL.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/ui/pages.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/ui/worker.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/ui/d1.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/webhook.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/user-oauth2.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/telegram.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/subdomain.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/send-mail-api.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/s3-attachment.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/new-address-api.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/mail_parser_wasm_worker.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/mail-api.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/google-ads.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/delete-address.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/config-smtp-proxy.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/another-worker-enhanced.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/ai-extract.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/agent-email.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/admin.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/admin-user-management.md",
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/cli/worker.md"
   ]
 }
