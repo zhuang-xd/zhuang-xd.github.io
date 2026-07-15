@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/恢复标准 dev null 设备节.md",
+                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "恢复标准 dev null 设备节"
+              "title": "备忘"
             }
           }
         ]
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "version",
+                "query": "master",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -199,8 +199,9 @@
   },
   "active": "b1d4e516b1a0d735",
   "lastOpenFiles": [
-    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
     "posts/恢复标准 dev null 设备节.md",
+    "private/daily/2026-07-15（29周）.md",
+    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
     "private/daily/2026-07-14（29周）.md",
     "attachments/images/Pasted image 20260714203310.png",
     "private/chamsion/code/CytG5T7/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v28/values-v28.xml",
@@ -243,7 +244,6 @@
     "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/ai-extract.md",
     "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/agent-email.md",
     "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/admin.md",
-    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/admin-user-management.md",
-    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/cli/worker.md"
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/admin-user-management.md"
   ]
 }
