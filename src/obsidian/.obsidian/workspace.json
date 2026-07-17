@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/daily/2026-07-16（29周）.md",
+                "file": "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态_App开发文档.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-07-16（29周）"
+              "title": "设备状态_App开发文档"
             }
           }
         ],
@@ -158,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 262.5
   },
   "right": {
     "id": "0b41738d8e969a5f",
@@ -224,29 +224,33 @@
   },
   "active": "d1ff693f22c11ebc",
   "lastOpenFiles": [
-    "private/chamsion/code/test/关闭经典蓝牙扫描.txt",
-    "private/chamsion/code/test/新建 文本文档.txt",
-    "private/chamsion/code/test/新建 WinRAR 压缩文件.rar",
-    "private/chamsion/code/test/jl7016g/sdk/cpu/br28/tools/download/earphone/update716-3-bleonly.ufw",
-    "private/chamsion/code/test/jl7016g/sdk/cpu/br28/tools/download/earphone/update716-3.ufw",
-    "private/chamsion/code/test/jl7016g/sdk/cpu/br28/tools/download/earphone/null",
-    "private/chamsion/code/test/jl7016g/sdk/cpu/br28/tools/download/earphone/update.ufw",
-    "private/chamsion/code/test/jl7016g/sdk/cpu/br28/tools/bank2.bin",
-    "private/chamsion/code/test/jl7016g/sdk/cpu/br28/tools/bank1.bin",
-    "private/chamsion/code/test/jl7016g/sdk/cpu/br28/tools/bank0.bin",
-    "private/chamsion/code/test/jl7016g/sdk/cpu/br28/tools/sdk.elf",
+    "private/chamsion/code/CytG5T7/app3.log",
+    "private/chamsion/code/CytG5T7/app2.log",
+    "private/chamsion/code/test/jl7016g/sdk/objs/apps/common/cJSON/cJSON.c.o",
+    "private/chamsion/code/test/jl7016g/sdk/objs/apps/common/cJSON/cJSON.c.d",
+    "private/chamsion/code/test/jl7016g/sdk/objs/apps/common/cJSON",
+    "private/chamsion/code/test/jl7016g/sdk/objs/apps/common/bt_common/bt_test_api.c.o",
+    "private/chamsion/code/test/jl7016g/sdk/objs/apps/common/bt_common/bt_test_api.c.d",
+    "private/chamsion/code/test/jl7016g/sdk/objs/apps/common/bt_common",
+    "private/chamsion/code/test/jl7016g/sdk/objs/apps/common/audio/wm8978/wm8978.c.o",
+    "private/chamsion/code/test/jl7016g/sdk/objs/apps/common/audio/wm8978/wm8978.c.d",
+    "private/chamsion/code/test/jl7016g/sdk/objs/apps/common/audio/wm8978/iic.c.o",
+    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态设备端和App端开发总结.md",
+    "private/chamsion/doc/2代眼镜-g5t71/设备状态/AI录音-对端开发文档(3).md",
+    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态模块实现计划.md",
+    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态_App开发文档.md",
+    "private/daily/2026-07-17（29周）.md",
+    "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测模块方案设计.md",
+    "private/daily/2026-07-14（29周）.md",
+    "private/daily/2026-07-16（29周）.md",
     "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
     "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
     "private/others/备忘录.md",
     "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
-    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态_App开发文档.md",
-    "private/daily/2026-07-16（29周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态设备端和App端开发总结.md",
     "private/chamsion/doc/2代眼镜-g5t71/2800获取6350版本号/2800获取6350版本号实现说明.md",
     "private/chamsion/doc/2代眼镜-g5t71/自动清理2800编译生成的文件.md",
     "posts/恢复标准 dev null 设备节.md",
     "private/daily/2026-07-15（29周）.md",
-    "private/daily/2026-07-14（29周）.md",
     "attachments/images/Pasted image 20260714203310.png",
     "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher_round.png",
     "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher.png",
@@ -265,10 +269,6 @@
     "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/webhook.md",
     "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/user-oauth2.md",
     "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/telegram.md",
-    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/subdomain.md",
-    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/send-mail-api.md",
-    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/s3-attachment.md",
-    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/new-address-api.md",
-    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/mail_parser_wasm_worker.md"
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/subdomain.md"
   ]
 }
