@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "167f7b4cffdf8114",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "备忘"
-            }
-          },
-          {
             "id": "d1ff693f22c11ebc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态_App开发文档.md",
+                "file": "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测模块方案设计.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +28,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "设备状态_App开发文档"
+              "title": "佩戴检测模块方案设计"
+            }
+          },
+          {
+            "id": "4ef044637137c282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/daily/2026-07-18（29周）.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-18（29周）"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,26 +223,27 @@
   },
   "active": "d1ff693f22c11ebc",
   "lastOpenFiles": [
-    "private/chamsion/code/CytG5T7/app3.log",
-    "private/chamsion/code/CytG5T7/app2.log",
-    "private/chamsion/code/test/jl7016g/sdk/objs/apps/common/cJSON/cJSON.c.o",
-    "private/chamsion/code/test/jl7016g/sdk/objs/apps/common/cJSON/cJSON.c.d",
-    "private/chamsion/code/test/jl7016g/sdk/objs/apps/common/cJSON",
-    "private/chamsion/code/test/jl7016g/sdk/objs/apps/common/bt_common/bt_test_api.c.o",
-    "private/chamsion/code/test/jl7016g/sdk/objs/apps/common/bt_common/bt_test_api.c.d",
-    "private/chamsion/code/test/jl7016g/sdk/objs/apps/common/bt_common",
-    "private/chamsion/code/test/jl7016g/sdk/objs/apps/common/audio/wm8978/wm8978.c.o",
-    "private/chamsion/code/test/jl7016g/sdk/objs/apps/common/audio/wm8978/wm8978.c.d",
-    "private/chamsion/code/test/jl7016g/sdk/objs/apps/common/audio/wm8978/iic.c.o",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/javac/debug/classes/com/cyt/aiglass/GlassSettingsActivity$1.class",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/javac/debug/classes/com/cyt/aiglass/AiVisionTransferManager.class",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/javac/debug/classes/com/cyt/aiglass/FileImportManager$ImportCallback.class",
+    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/BleManager$3.class.uniqueId56",
+    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/FileImportManager.class.uniqueId54",
+    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/GlassFragment$1.class.uniqueId53",
+    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/ConnectionActivity.class.uniqueId52",
+    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/ImageGalleryFragment.class.uniqueId38",
+    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/AIFragment$1.class.uniqueId37",
+    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/AiVisionTransferManager.class.uniqueId30",
+    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/GlassSettingsActivity$1.class.uniqueId26",
+    "private/daily/2026-07-18（29周）.md",
+    "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测模块方案设计.md",
+    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
+    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态_App开发文档.md",
     "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态设备端和App端开发总结.md",
     "private/chamsion/doc/2代眼镜-g5t71/设备状态/AI录音-对端开发文档(3).md",
     "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态模块实现计划.md",
-    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态_App开发文档.md",
     "private/daily/2026-07-17（29周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测模块方案设计.md",
     "private/daily/2026-07-14（29周）.md",
     "private/daily/2026-07-16（29周）.md",
-    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
     "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
     "private/others/备忘录.md",
     "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
@@ -268,7 +268,6 @@
     "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/ui/d1.md",
     "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/webhook.md",
     "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/user-oauth2.md",
-    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/telegram.md",
-    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/subdomain.md"
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/telegram.md"
   ]
 }
