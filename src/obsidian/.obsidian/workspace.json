@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1ff693f22c11ebc",
+            "id": "c79833b245d0884e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测模块方案设计.md",
+                "file": "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态_App开发文档.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "佩戴检测模块方案设计"
-            }
-          },
-          {
-            "id": "4ef044637137c282",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/daily/2026-07-18（29周）.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-07-18（29周）"
+              "title": "设备状态_App开发文档"
             }
           }
         ]
@@ -97,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "toop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -153,11 +129,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 324.5
   },
   "right": {
     "id": "0b41738d8e969a5f",
@@ -173,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/git：生成当前工作区与上一个 commit 的 patch 文件.md",
+                "file": "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态_App开发文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "git：生成当前工作区与上一个 commit 的 patch 文件 的反向链接列表"
+              "title": "设备状态_App开发文档 的反向链接列表"
             }
           },
           {
@@ -192,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/daily/2026-07-09（28周）.md",
+                "file": "private/chamsion/doc/2代眼镜-g5t71/新手引导/正式App新手引导开发文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-07-09（28周） 的出链列表"
+              "title": "正式App新手引导开发文档 的出链列表"
             }
           }
         ]
@@ -221,33 +197,35 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d1ff693f22c11ebc",
+  "active": "c79833b245d0884e",
   "lastOpenFiles": [
+    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
+    "private/daily/2026-06-27（26周）.md",
+    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态模块实现计划.md",
+    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态_App开发文档.md",
+    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态设备端和App端开发总结.md",
+    "private/chamsion/doc/2代眼镜-g5t71/设备状态/AI录音-对端开发文档(3).md",
+    "private/daily/2026-07-20（30周）.md",
+    "private/chamsion/tools/glass_v2/OTA Multi-file Packaging Toolv1.2.1.3/bin/ota_boot_watch.bin",
+    "private/chamsion/tools/glass_v2/OTA Multi-file Packaging Toolv1.2.1.3/bin/ota_boot_remap_7eb2e4fb26_nse_0827.bin",
+    "private/chamsion/tools/glass_v2/OTA Multi-file Packaging Toolv1.2.1.3/bin/cp_subsys_bth.bin",
+    "private/chamsion/tools/glass_v2/OTA Multi-file Packaging Toolv1.2.1.3/bin/bth_core.bin",
+    "private/chamsion/tools/glass_v2/OTA Multi-file Packaging Toolv1.2.1.3/bin/best1700_watch_opt1.bin",
+    "private/chamsion/tools/glass_v2/OTA Multi-file Packaging Toolv1.2.1.3/bin/best1700_glass.bin",
+    "private/chamsion/doc/2代眼镜-g5t71/新手引导/正式App新手引导开发文档.md",
+    "private/chamsion/doc/2代眼镜-g5t71/2800获取6350版本号/2800获取6350版本号实现说明.md",
+    "private/daily/2026-07-17（29周）.md",
+    "private/daily/2026-07-18（29周）.md",
+    "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测模块方案设计.md",
     "private/chamsion/code/CytG5T7/app/build/intermediates/javac/debug/classes/com/cyt/aiglass/GlassSettingsActivity$1.class",
     "private/chamsion/code/CytG5T7/app/build/intermediates/javac/debug/classes/com/cyt/aiglass/AiVisionTransferManager.class",
     "private/chamsion/code/CytG5T7/app/build/intermediates/javac/debug/classes/com/cyt/aiglass/FileImportManager$ImportCallback.class",
     "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/BleManager$3.class.uniqueId56",
-    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/FileImportManager.class.uniqueId54",
-    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/GlassFragment$1.class.uniqueId53",
-    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/ConnectionActivity.class.uniqueId52",
-    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/ImageGalleryFragment.class.uniqueId38",
-    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/AIFragment$1.class.uniqueId37",
-    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/AiVisionTransferManager.class.uniqueId30",
-    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/GlassSettingsActivity$1.class.uniqueId26",
-    "private/daily/2026-07-18（29周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测模块方案设计.md",
-    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
-    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态_App开发文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态设备端和App端开发总结.md",
-    "private/chamsion/doc/2代眼镜-g5t71/设备状态/AI录音-对端开发文档(3).md",
-    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态模块实现计划.md",
-    "private/daily/2026-07-17（29周）.md",
     "private/daily/2026-07-14（29周）.md",
     "private/daily/2026-07-16（29周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
     "private/others/备忘录.md",
     "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
-    "private/chamsion/doc/2代眼镜-g5t71/2800获取6350版本号/2800获取6350版本号实现说明.md",
     "private/chamsion/doc/2代眼镜-g5t71/自动清理2800编译生成的文件.md",
     "posts/恢复标准 dev null 设备节.md",
     "private/daily/2026-07-15（29周）.md",
@@ -266,8 +244,6 @@
     "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/ui/pages.md",
     "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/ui/worker.md",
     "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/ui/d1.md",
-    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/webhook.md",
-    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/user-oauth2.md",
-    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/telegram.md"
+    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/feature/webhook.md"
   ]
 }
