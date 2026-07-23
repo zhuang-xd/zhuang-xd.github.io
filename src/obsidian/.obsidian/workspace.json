@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0a246200270fc2c9",
+        "id": "355b26b963d0a3d7",
         "type": "tabs",
         "children": [
           {
-            "id": "af60fb4f4e5d4e00",
+            "id": "002fec044fbe5ac4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态_App开发文档.md",
+                "file": "private/chamsion/doc/2代眼镜-g5t71/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "设备状态_App开发文档"
+              "title": "README"
             }
           },
           {
-            "id": "180057568a6d835d",
+            "id": "d09433453751eb03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/daily/2026-07-22（30周）.md",
+                "file": "private/daily/2026-07-23（30周）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-07-22（30周）"
+              "title": "2026-07-23（30周）"
+            }
+          },
+          {
+            "id": "dfd91f859c3e6ce8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测app开发文档.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "佩戴检测app开发文档"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,53 +246,53 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "af60fb4f4e5d4e00",
+  "active": "dfd91f859c3e6ce8",
   "lastOpenFiles": [
-    "private/daily/2026-07-22（30周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态_App开发文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测app开发文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/设备状态/AI录音-对端开发文档(3).md",
-    "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测模块方案设计.md",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/flash-menu-template-2800BPZE7-Glass-test-bin-ruiguo.bat",
+    "private/chamsion/tools/glass_v2/PowerTool4.0.5.2(1)/PixPin_2026-07-23_20-17-07.png",
+    "private/daily/2026-07-23（30周）.md",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_4/graph.bin",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_4",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/project_dex_archive/debug/out/com/cyt/aiglass/DeviceAdapter$OnDeviceClickListener.dex",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/merged_res/debug/drawable_ic_robot_avatar.xml.flat",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/merged_res/debug/drawable_ic_plus_circle.xml.flat",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/merged_res/debug/drawable_ic_play.xml.flat",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/merged_res/debug/drawable_ic_pause.xml.flat",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/merged_res/debug/drawable_ic_nav_glass.xml.flat",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/merged_res/debug/drawable_ic_nav_ai.xml.flat",
+    "private/chamsion/tools/glass_v2/PowerTool4.0.5.2(1)/PixPin_2026-07-23_19-38-06.png",
+    "private/chamsion/doc/2代眼镜-g5t71/README.md",
     "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
-    "private/chamsion/code/CytG5T7/app/src/main/java/com/cyt/aiglass/WebViewActivity.java",
-    "private/chamsion/code/CytG5T7/app/src/main/java/com/cyt/aiglass/WearDetectionSettingsManager.java",
-    "private/chamsion/code/CytG5T7/app/src/main/java/com/cyt/aiglass/SystemUpgradeActivity.java",
-    "private/chamsion/code/CytG5T7/app/src/main/java/com/cyt/aiglass/SystemBarHelper.java",
-    "private/chamsion/code/CytG5T7/app/src/main/java/com/cyt/aiglass/SessionManager.java",
-    "private/chamsion/code/CytG5T7/app/src/main/java/com/cyt/aiglass/OtaUpgradeManager.java",
-    "private/chamsion/code/CytG5T7/app/src/main/java/com/cyt/aiglass/RecordingTimeActivity.java",
-    "private/chamsion/code/CytG5T7/app/src/main/java/com/cyt/aiglass/NewFileNotificationManager.java",
-    "private/chamsion/code/CytG5T7/app/src/main/java/com/cyt/aiglass/MediaViewerActivity.java",
-    "private/chamsion/code/CytG5T7/app/src/main/java/com/cyt/aiglass/MediaOrientationHelper.java",
-    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
-    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
-    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
-    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
-    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
-    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
-    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
-    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-mdpi/ic_launcher.png",
-    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
-    "private/chamsion/code/CytG5T7/app/src/main/res/mipmap-hdpi/ic_launcher.png",
-    "private/chamsion/code/CytG5T7/README.md",
-    "private/chamsion/code/CytG5T7/COMMUNICATION_ARCHITECTURE.md",
-    "private/chamsion/code/CytG5T7-bak/README.md",
-    "private/chamsion/code/CytG5T7-bak/COMMUNICATION_ARCHITECTURE.md",
-    "private/chamsion/code/bak/CytG5T7/README.md",
-    "private/chamsion/code/bak/CytG5T7/COMMUNICATION_ARCHITECTURE.md",
-    "private/daily/2026-07-17（29周）.md",
-    "private/chamsion/doc/1代眼镜-g5k61/杰理设备状态维护说明.md",
-    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态模块实现计划.md",
-    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态设备端和App端开发总结.md",
-    "private/daily/2026-07-09（28周）.md",
-    "private/daily/2026-07-06（28周）.md",
-    "private/daily/2026-07-07（28周）.md",
+    "private/chamsion/doc/2代眼镜-g5t71/sh/自动清理2800编译生成的文件.md",
+    "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测app开发文档.md",
+    "private/chamsion/doc/2代眼镜-g5t71/电量主动上报/电量主动上报app对接文档.md",
+    "private/chamsion/doc/2代眼镜-g5t71/电量主动上报/电量主动上报设计计划.md",
+    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态_App开发文档.md",
     "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
-    "private/chamsion/doc/2代眼镜-g5t71/EQ_SW_IIR_修改不生效可能的原因分析.md",
-    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/zh/guide/ui/pages.md",
-    "private/others/ai-api/cloudflare_temp_email/vitepress-docs/docs/en/guide/ui/pages.md",
-    "private/chamsion/doc/EQ_SW_IIR_修改不生效可能的原因分析.md",
-    "private/daily/2026-06-27（26周）.md",
-    "private/daily/2026-07-20（30周）.md"
+    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher_round.png",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher_round.png",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher_round.png",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher_round.png",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher.png",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher.png",
+    "private/daily/2026-07-17（29周）.md",
+    "private/daily/2026-07-16（29周）.md",
+    "private/daily/2026-07-14（29周）.md",
+    "private/daily/2026-07-10（28周）.md",
+    "private/daily/2026-07-09（28周）.md",
+    "private/daily/2026-07-08（28周）.md",
+    "private/daily/2026-07-07（28周）.md",
+    "private/daily/2026-07-04（27周）.md",
+    "private/daily/2026-07-02（27周）.md",
+    "private/daily/2026-07-22（30周）.md",
+    "private/daily/2026-07-20（30周）.md",
+    "private/daily/2026-07-18（29周）.md",
+    "private/daily/2026-07-13（29周）.md",
+    "private/daily/2026-07-15（29周）.md",
+    "private/daily/2026-07-06（28周）.md",
+    "private/daily/2026-07-03（27周）.md"
   ]
 }
