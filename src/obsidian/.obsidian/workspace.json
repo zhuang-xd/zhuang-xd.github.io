@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "355b26b963d0a3d7",
+        "id": "1e14b4e7e716a9cb",
         "type": "tabs",
         "children": [
           {
-            "id": "f219489187a7e448",
+            "id": "e6fcb99644c35057",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率开发设计文档.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "视频录制分辨率开发设计文档"
-            }
-          },
-          {
-            "id": "38a549cd1a0f4bda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
+                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -56,12 +32,12 @@
             }
           },
           {
-            "id": "61ec2ea4370e5332",
+            "id": "bc04db4f79b99e4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率开发设计文档.md",
+                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "视频录制分辨率开发设计文档"
+              "title": "备忘"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "logcat",
+                "query": "master",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -197,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率开发设计文档.md",
+                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +184,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "视频录制分辨率开发设计文档 的反向链接列表"
+              "title": "备忘 的反向链接列表"
             }
           },
           {
@@ -228,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,35 +221,39 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f219489187a7e448",
+  "active": "bc04db4f79b99e4d",
   "lastOpenFiles": [
-    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/AiRecordActivity$1.class.uniqueId23",
-    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/MainActivity$DeviceActionResponseListener.class.uniqueId29",
-    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/MainActivity$AiVoiceListener.class.uniqueId7",
-    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/MainActivity$AiRecordListener.class.uniqueId5",
-    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
-    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/AiRecordActivity$4.class.uniqueId35",
-    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/VideoResolutionActivity.class.uniqueId34",
-    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/ImageGalleryFragment$3.class.uniqueId17",
-    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/LoginActivity.class.uniqueId16",
-    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/AiRecordActivity$2.class.uniqueId6",
-    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/LoginActivity$4.class.uniqueId10",
-    "private/chamsion/code/CytG5T7/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/LoginActivity$3.class.uniqueId30",
+    "private/daily/2026-07-27（31周）.md",
+    "private/chamsion/doc/2代眼镜-g5t71/eq/eq.png",
+    "private/chamsion/doc/2代眼镜-g5t71/eq/89cab60e9bebd7ab8e0aa3f31b0c2dd5.png",
+    "private/chamsion/tools/glass_v2/AudioTool_V5.4/eq/iir_eq_bass_boost_hw.txt",
+    "private/chamsion/tools/glass_v2/AudioTool_V5.4/eq/iir_eq_bass_boost_dac.txt",
+    "private/chamsion/tools/glass_v2/AudioTool_V5.4/iireq.dat",
+    "private/chamsion/tools/glass_v2/AudioTool_V5.4/eq/cur_iir_eq.txt",
+    "private/chamsion/tools/glass_v2/AudioTool_V5.4/eq/iir_eq.c",
+    "private/others/ai-api/grok-register/_cpa/xai-shexkjhfbkaec@zxd.life.json",
+    "private/others/ai-api/grok-register/accounts_20260727_205809.txt",
+    "private/chamsion/doc/2代眼镜-g5t71/eq/audio_eq_tool_user_guide_v3.5.3.pdf",
+    "private/chamsion/doc/2代眼镜-g5t71/eq/audio_eq_tool_user_guide_v3.5.3.pdf.crdownload",
+    "private/others/ai-api/grok-register.zip",
+    "private/others/ai-api/grok-register - 副本 (2)/assets/banner.png",
+    "private/others/ai-api/grok-register - 副本 (2)/README.md",
+    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
     "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率开发设计文档.md",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher_round.png",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher_round.png",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher.png",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher.png",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher_round.png",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher_round.png",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher.png",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/ic_launcher_round.png",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/ic_launcher.png",
+    "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率app开发文档.md",
+    "private/others/ai-api/grok-register/_cpa/ok/logo.png",
+    "private/others/ai-api/grok-register/_cpa/ok/代码提交前先拉取 (2).png",
+    "private/others/ai-api/grok-register/_cpa/ok/代码提交前先拉取 (4).png",
+    "private/others/ai-api/grok-register/_cpa/ok/图片改黑底.png",
+    "private/others/ai-api/grok-register/_cpa/ok/mermaid-flowchart-2026-07-06T09-52-27.jpg",
+    "private/others/ai-api/grok-register/_cpa/ok/mermaid-flowchart-2026-07-08T09-32-00.png",
+    "private/others/ai-api/grok-register/_cpa/ok/mermaid-flowchart-2026-07-08T09-33-06.png",
+    "private/others/ai-api/grok-register/_cpa/ok/EQ_SW_IIR_修改不生效可能的原因分析.md",
+    "private/others/ai-api/grok-register - 副本/README.md",
+    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
     "private/daily/2026-07-24（30周）.md",
     "private/daily/2026-07-25（30周）.md",
     "private/chamsion/doc/2代眼镜-g5t71/AI录音-对端开发文档(3).md",
-    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
     "private/others/ai-api/old/grokRegister-cpa/README.md",
     "private/others/ai-api/old/grokRegister-cpa/DEPLOYMENT.md",
     "private/others/ai-api/old/grok-register/README.md",
@@ -287,10 +267,6 @@
     "private/chamsion/code/test3/CytG5T7/COMMUNICATION_ARCHITECTURE.md",
     "private/daily/2026-07-14（29周）.md",
     "private/daily/2026-07-20（30周）.md",
-    "private/daily/2026-07-18（29周）.md",
-    "private/daily/2026-07-17（29周）.md",
-    "private/daily/2026-07-22（30周）.md",
-    "private/daily/2026-07-08（28周）.md",
-    "private/daily/2026-07-09（28周）.md"
+    "private/daily/2026-07-18（29周）.md"
   ]
 }
