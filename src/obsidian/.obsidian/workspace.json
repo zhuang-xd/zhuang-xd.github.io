@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e14b4e7e716a9cb",
+        "id": "69c60e32c49c4892",
         "type": "tabs",
         "children": [
           {
-            "id": "e6fcb99644c35057",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "备忘"
-            }
-          },
-          {
-            "id": "bc04db4f79b99e4d",
+            "id": "f3bcefc0c5e1b367",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +31,7 @@
               "title": "备忘"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,24 +196,26 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "bc04db4f79b99e4d",
+  "active": "f3bcefc0c5e1b367",
   "lastOpenFiles": [
+    "private/others/ai-api/grok-register/accounts_20260728_214404.txt",
+    "private/others/ai-api/grok-register/_cpa/xai-sherlabpzt4wgb@zxd.life.json",
+    "private/others/ai-api/grok-register/accounts_20260728_211137.txt",
+    "private/others/ai-api/grok-register/accounts_20260728_200644.txt",
+    "private/others/ai-api/grok-register/_cpa/xai-sheelnh39famf@zxd.life.json",
+    "private/others/ai-api/grok-register/accounts_20260728_195017.txt",
+    "private/daily/2026-07-28（31周）.md",
+    "private/others/ai-api/grok-register/_cpa/xai-she31wqv6hhnx@zxd.life.json",
+    "private/others/ai-api/grok-register/accounts_20260728_190844.txt",
+    "private/others/ai-api/grok-register/_cpa/xai-sheet6zc5eghfh@zxd.life.json",
+    "private/others/ai-api/grok-register/accounts_20260728_180959.txt",
+    "private/others/ai-api/grok-register/_cpa/xai-shes8s3397ff6f@zxd.life.json",
+    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
     "private/daily/2026-07-27（31周）.md",
     "private/chamsion/doc/2代眼镜-g5t71/eq/eq.png",
     "private/chamsion/doc/2代眼镜-g5t71/eq/89cab60e9bebd7ab8e0aa3f31b0c2dd5.png",
-    "private/chamsion/tools/glass_v2/AudioTool_V5.4/eq/iir_eq_bass_boost_hw.txt",
-    "private/chamsion/tools/glass_v2/AudioTool_V5.4/eq/iir_eq_bass_boost_dac.txt",
-    "private/chamsion/tools/glass_v2/AudioTool_V5.4/iireq.dat",
-    "private/chamsion/tools/glass_v2/AudioTool_V5.4/eq/cur_iir_eq.txt",
-    "private/chamsion/tools/glass_v2/AudioTool_V5.4/eq/iir_eq.c",
-    "private/others/ai-api/grok-register/_cpa/xai-shexkjhfbkaec@zxd.life.json",
-    "private/others/ai-api/grok-register/accounts_20260727_205809.txt",
-    "private/chamsion/doc/2代眼镜-g5t71/eq/audio_eq_tool_user_guide_v3.5.3.pdf",
-    "private/chamsion/doc/2代眼镜-g5t71/eq/audio_eq_tool_user_guide_v3.5.3.pdf.crdownload",
-    "private/others/ai-api/grok-register.zip",
     "private/others/ai-api/grok-register - 副本 (2)/assets/banner.png",
     "private/others/ai-api/grok-register - 副本 (2)/README.md",
-    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
     "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率开发设计文档.md",
     "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率app开发文档.md",
     "private/others/ai-api/grok-register/_cpa/ok/logo.png",
@@ -266,7 +243,6 @@
     "private/chamsion/code/test3/CytG5T7/README.md",
     "private/chamsion/code/test3/CytG5T7/COMMUNICATION_ARCHITECTURE.md",
     "private/daily/2026-07-14（29周）.md",
-    "private/daily/2026-07-20（30周）.md",
-    "private/daily/2026-07-18（29周）.md"
+    "private/daily/2026-07-20（30周）.md"
   ]
 }
