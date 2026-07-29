@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "master",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+                "file": "private/chamsion/doc/2代眼镜-g5t71/ble/ios自动回连设备ble的mtu始终是23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "备忘 的反向链接列表"
+              "title": "ios自动回连设备ble的mtu始终是23 的反向链接列表"
             }
           },
           {
@@ -196,21 +196,30 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f3bcefc0c5e1b367",
+  "active": "03c05c15548d24b4",
   "lastOpenFiles": [
-    "private/others/ai-api/grok-register/accounts_20260728_214404.txt",
-    "private/others/ai-api/grok-register/_cpa/xai-sherlabpzt4wgb@zxd.life.json",
-    "private/others/ai-api/grok-register/accounts_20260728_211137.txt",
-    "private/others/ai-api/grok-register/accounts_20260728_200644.txt",
-    "private/others/ai-api/grok-register/_cpa/xai-sheelnh39famf@zxd.life.json",
-    "private/others/ai-api/grok-register/accounts_20260728_195017.txt",
-    "private/daily/2026-07-28（31周）.md",
-    "private/others/ai-api/grok-register/_cpa/xai-she31wqv6hhnx@zxd.life.json",
-    "private/others/ai-api/grok-register/accounts_20260728_190844.txt",
-    "private/others/ai-api/grok-register/_cpa/xai-sheet6zc5eghfh@zxd.life.json",
-    "private/others/ai-api/grok-register/accounts_20260728_180959.txt",
-    "private/others/ai-api/grok-register/_cpa/xai-shes8s3397ff6f@zxd.life.json",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt",
+    "private/chamsion/code/CytG5T7/app/build/outputs/apk/debug/app-debug.apk",
+    "private/chamsion/code/CytG5T7/app/build/outputs/apk/debug",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/project_dex_archive/debug/out/com/cyt/aiglass/AIFragment.dex",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/processed_res/debug/out/output-metadata.json",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/runtime_symbol_list/debug/R.txt",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/processed_res/debug/out/resources-debug.ap_",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/stable_resource_ids_file/debug/stableIds.txt",
+    "private/chamsion/code/CytG5T7/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex",
+    "private/chamsion/doc/2代眼镜-g5t71/debug-无法使用btrf问题/btrf参考文档.md",
+    "private/chamsion/doc/2代眼镜-g5t71/eq/音效模式BLE时序图.svg",
+    "private/chamsion/doc/2代眼镜-g5t71/eq/音效模式App对接文档.md",
+    "private/chamsion/doc/2代眼镜-g5t71/eq/音效模式接口与实现计划.md",
+    "private/daily/2026-07-29（31周）.md",
     "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+    "private/others/ai-api/grokRegister-cpa/README.md",
+    "private/others/ai-api/grokRegister-cpa/DEPLOYMENT.md",
+    "private/others/ai-api/新建文件夹/grokRegister-cpa/README.md",
+    "private/others/ai-api/新建文件夹/grokRegister-cpa/DEPLOYMENT.md",
+    "private/daily/2026-07-28（31周）.md",
     "private/daily/2026-07-27（31周）.md",
     "private/chamsion/doc/2代眼镜-g5t71/eq/eq.png",
     "private/chamsion/doc/2代眼镜-g5t71/eq/89cab60e9bebd7ab8e0aa3f31b0c2dd5.png",
@@ -224,7 +233,6 @@
     "private/others/ai-api/grok-register/_cpa/ok/图片改黑底.png",
     "private/others/ai-api/grok-register/_cpa/ok/mermaid-flowchart-2026-07-06T09-52-27.jpg",
     "private/others/ai-api/grok-register/_cpa/ok/mermaid-flowchart-2026-07-08T09-32-00.png",
-    "private/others/ai-api/grok-register/_cpa/ok/mermaid-flowchart-2026-07-08T09-33-06.png",
     "private/others/ai-api/grok-register/_cpa/ok/EQ_SW_IIR_修改不生效可能的原因分析.md",
     "private/others/ai-api/grok-register - 副本/README.md",
     "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
@@ -234,15 +242,7 @@
     "private/others/ai-api/old/grokRegister-cpa/README.md",
     "private/others/ai-api/old/grokRegister-cpa/DEPLOYMENT.md",
     "private/others/ai-api/old/grok-register/README.md",
-    "private/others/ai-api/grokRegister-cpa/README.md",
-    "private/others/ai-api/grokRegister-cpa/DEPLOYMENT.md",
     "private/others/ai-api/新建文件夹 (2)/grok-register/README.md",
-    "private/others/ai-api/新建文件夹/grok-register/README.md",
-    "private/others/ai-api/新建文件夹/grokRegister-cpa/README.md",
-    "private/others/ai-api/新建文件夹/grokRegister-cpa/DEPLOYMENT.md",
-    "private/chamsion/code/test3/CytG5T7/README.md",
-    "private/chamsion/code/test3/CytG5T7/COMMUNICATION_ARCHITECTURE.md",
-    "private/daily/2026-07-14（29周）.md",
-    "private/daily/2026-07-20（30周）.md"
+    "private/others/ai-api/新建文件夹/grok-register/README.md"
   ]
 }
