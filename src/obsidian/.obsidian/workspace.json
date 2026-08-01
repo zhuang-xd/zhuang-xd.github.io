@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/daily/2026-07-30（31周）.md",
+                "file": "private/daily/2026-07-31（31周）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-07-30（31周）"
+              "title": "2026-07-31（31周）"
             }
           }
         ],
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "master",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/daily/2026-07-30（31周）.md",
+                "file": "private/daily/2026-07-31（31周）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-07-30（31周） 的反向链接列表"
+              "title": "2026-07-31（31周） 的反向链接列表"
             }
           },
           {
@@ -221,8 +221,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "03c05c15548d24b4",
+  "active": "03c42eaa71f9f2a1",
   "lastOpenFiles": [
+    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+    "private/daily/2026-07-31（31周）.md",
+    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
+    "private/others/ai-api/grokRegister-cpa/accounts/shea47ma7zxsbu@zxd.life.txt",
+    "private/others/ai-api/grokRegister-cpa/log/app_20260731_092516.log",
+    "private/daily/2026-07-30（31周）.md",
     "private/others/ai-api/grokRegister-cpa/accounts/sheof235h9kyza@zxd.life.txt",
     "private/others/ai-api/grokRegister-cpa/log/app_20260730_190259.log",
     "private/others/ai-api/grokRegister-cpa/log/app_20260730_190256.log",
@@ -231,11 +237,6 @@
     "private/others/ai-api/grokRegister-cpa/log/app_20260730_145106.log",
     "private/others/ai-api/grokRegister-cpa/log/app_20260730_145033.log",
     "private/others/ai-api/grokRegister-cpa/accounts/she8j3719sjsof@zxd.life.txt",
-    "private/others/ai-api/grokRegister-cpa/log/app_20260730_143431.log",
-    "private/others/ai-api/grokRegister-cpa/log/app_20260730_135726.log",
-    "private/others/ai-api/grokRegister-cpa/log/app_20260730_132624.log",
-    "private/daily/2026-07-30（31周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
     "private/chamsion/doc/2代眼镜-g5t71/ble/ios自动回连设备ble的mtu始终是23.md",
     "private/others/ai-api/grokRegister-cpa - 副本/README.md",
     "private/others/ai-api/grokRegister-cpa - 副本/DEPLOYMENT.md",
@@ -264,10 +265,8 @@
     "private/others/ai-api/grok-register/_cpa/ok/mermaid-flowchart-2026-07-08T09-32-00.png",
     "private/others/ai-api/grok-register/_cpa/ok/EQ_SW_IIR_修改不生效可能的原因分析.md",
     "private/others/ai-api/grok-register - 副本/README.md",
-    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
     "private/daily/2026-07-24（30周）.md",
     "private/daily/2026-07-25（30周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/AI录音-对端开发文档(3).md",
-    "private/others/ai-api/old/grokRegister-cpa/README.md"
+    "private/chamsion/doc/2代眼镜-g5t71/AI录音-对端开发文档(3).md"
   ]
 }
