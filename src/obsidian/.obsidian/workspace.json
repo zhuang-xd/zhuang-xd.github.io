@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "备忘"
             }
-          },
-          {
-            "id": "03c42eaa71f9f2a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/daily/2026-08-01（31周）.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-01（31周）"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +61,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabeticalReverse",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -174,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/daily/2026-08-01（31周）.md",
+                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-08-01（31周） 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -205,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,28 +199,39 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "03c42eaa71f9f2a1",
+  "active": "f3bcefc0c5e1b367",
   "lastOpenFiles": [
-    "private/daily/2026-07-31（31周）.md",
-    "private/daily/2026-08-01（31周）.md",
+    "private/daily/2026-08-03（32周）.md",
+    "private/chamsion/info/2026",
+    "private/chamsion/info/2026/w-32/设备状态未同步/app-log.png",
+    "private/chamsion/info/2026/w-32/设备状态未同步",
+    "private/chamsion/info/2026/w-32/视频录制2k-1080-720/视频录制分辨率app开发文档.pdf",
+    "private/chamsion/info/2026/w-32/视频录制2k-1080-720/video_02_49_27.mp4",
+    "private/chamsion/info/2026/w-32/视频录制2k-1080-720/video_02_48_38.mp4",
+    "private/chamsion/info/2026/w-32/视频录制2k-1080-720/video_02_46_30.mp4",
+    "private/chamsion/info/2026/w-32/视频录制2k-1080-720",
+    "private/chamsion/info/2026/w-32/蓝牙电量和系统电量不一致/手机系统蓝牙.jpg",
+    "private/chamsion/info/2026/w-32/蓝牙电量和系统电量不一致",
+    "private/chamsion/info/2026/w-32/导图过程中死机/2800-正常关机日志.txt",
+    "private/chamsion/info/2026/w-32/导图过程中死机/2026-07-22_16_54_25_sys_log.txt",
+    "private/chamsion/info/2026/w-32/低功耗优化/开启shell，关闭佩戴检测，关闭电量上报，功耗.png",
+    "private/chamsion/info/2026/w-32/低功耗优化/关闭shell，关闭佩戴检测，关闭电量上报，功耗.png",
+    "private/chamsion/info/2026/w-31/实验室蓝牙指令问题/g5t7/使用教程.gif",
+    "private/chamsion/info/2026/w-31/wifi连接失败-无法导图/新建文件夹/ios-log2.jpg",
+    "private/chamsion/info/2026/w-31/wifi连接失败-无法导图/新建文件夹/ios-log-1.jpg",
+    "private/chamsion/info/2026/w-31/wifi连接失败-无法导图/ios-log-3.jpg",
+    "private/chamsion/info/2026/w-31/wifi连接失败-无法导图/ios-log-2.jpg",
+    "private/chamsion/info/2026/w-31/wifi连接失败-无法导图/ios-log-1.jpg",
     "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+    "private/chamsion/doc/2代眼镜-g5t71/翻译录音_App对接文档.md",
+    "private/daily/2026-08-01（31周）.md",
+    "private/daily/2026-07-31（31周）.md",
     "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
-    "private/others/ai-api/grokRegister-cpa/accounts/shea47ma7zxsbu@zxd.life.txt",
-    "private/others/ai-api/grokRegister-cpa/log/app_20260731_092516.log",
     "private/daily/2026-07-30（31周）.md",
-    "private/others/ai-api/grokRegister-cpa/accounts/sheof235h9kyza@zxd.life.txt",
-    "private/others/ai-api/grokRegister-cpa/log/app_20260730_190259.log",
-    "private/others/ai-api/grokRegister-cpa/log/app_20260730_190256.log",
-    "private/others/ai-api/grokRegister-cpa/accounts/she1pm50m52xj4@zxd.life.txt",
-    "private/others/ai-api/grokRegister-cpa/log/app_20260730_171817.log",
-    "private/others/ai-api/grokRegister-cpa/log/app_20260730_145106.log",
-    "private/others/ai-api/grokRegister-cpa/log/app_20260730_145033.log",
-    "private/others/ai-api/grokRegister-cpa/accounts/she8j3719sjsof@zxd.life.txt",
     "private/chamsion/doc/2代眼镜-g5t71/ble/ios自动回连设备ble的mtu始终是23.md",
     "private/others/ai-api/grokRegister-cpa - 副本/README.md",
     "private/others/ai-api/grokRegister-cpa - 副本/DEPLOYMENT.md",
     "private/chamsion/doc/2代眼镜-g5t71/debug-无法使用btrf问题/btrf参考文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/eq/音效模式BLE时序图.svg",
     "private/chamsion/doc/2代眼镜-g5t71/eq/音效模式App对接文档.md",
     "private/chamsion/doc/2代眼镜-g5t71/eq/音效模式接口与实现计划.md",
     "private/daily/2026-07-29（31周）.md",
@@ -252,22 +241,10 @@
     "private/others/ai-api/新建文件夹/grokRegister-cpa/DEPLOYMENT.md",
     "private/daily/2026-07-28（31周）.md",
     "private/daily/2026-07-27（31周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/eq/eq.png",
-    "private/chamsion/doc/2代眼镜-g5t71/eq/89cab60e9bebd7ab8e0aa3f31b0c2dd5.png",
-    "private/others/ai-api/grok-register - 副本 (2)/assets/banner.png",
     "private/others/ai-api/grok-register - 副本 (2)/README.md",
     "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率开发设计文档.md",
     "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率app开发文档.md",
-    "private/others/ai-api/grok-register/_cpa/ok/logo.png",
-    "private/others/ai-api/grok-register/_cpa/ok/代码提交前先拉取 (2).png",
-    "private/others/ai-api/grok-register/_cpa/ok/代码提交前先拉取 (4).png",
-    "private/others/ai-api/grok-register/_cpa/ok/图片改黑底.png",
-    "private/others/ai-api/grok-register/_cpa/ok/mermaid-flowchart-2026-07-06T09-52-27.jpg",
-    "private/others/ai-api/grok-register/_cpa/ok/mermaid-flowchart-2026-07-08T09-32-00.png",
     "private/others/ai-api/grok-register/_cpa/ok/EQ_SW_IIR_修改不生效可能的原因分析.md",
-    "private/others/ai-api/grok-register - 副本/README.md",
-    "private/daily/2026-07-24（30周）.md",
-    "private/daily/2026-07-25（30周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/AI录音-对端开发文档(3).md"
+    "private/others/ai-api/grok-register - 副本/README.md"
   ]
 }
