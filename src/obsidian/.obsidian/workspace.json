@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+                "file": "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "备忘"
             }
+          },
+          {
+            "id": "7a8cb107c01df36a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/daily/2026-08-04（32周）.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-04（32周）"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+                "file": "private/daily/2026-08-04（32周）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,8 +224,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f3bcefc0c5e1b367",
+  "active": "7a8cb107c01df36a",
   "lastOpenFiles": [
+    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+    "private/daily/2026-08-04（32周）.md",
+    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
     "private/daily/2026-08-03（32周）.md",
     "private/chamsion/info/2026",
     "private/chamsion/info/2026/w-32/设备状态未同步/app-log.png",
@@ -222,11 +250,9 @@
     "private/chamsion/info/2026/w-31/wifi连接失败-无法导图/ios-log-3.jpg",
     "private/chamsion/info/2026/w-31/wifi连接失败-无法导图/ios-log-2.jpg",
     "private/chamsion/info/2026/w-31/wifi连接失败-无法导图/ios-log-1.jpg",
-    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
     "private/chamsion/doc/2代眼镜-g5t71/翻译录音_App对接文档.md",
     "private/daily/2026-08-01（31周）.md",
     "private/daily/2026-07-31（31周）.md",
-    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
     "private/daily/2026-07-30（31周）.md",
     "private/chamsion/doc/2代眼镜-g5t71/ble/ios自动回连设备ble的mtu始终是23.md",
     "private/others/ai-api/grokRegister-cpa - 副本/README.md",
