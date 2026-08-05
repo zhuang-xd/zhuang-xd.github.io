@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "69c60e32c49c4892",
+        "id": "7d95cebba9851e12",
         "type": "tabs",
         "children": [
           {
-            "id": "f3bcefc0c5e1b367",
+            "id": "be9deda5f794a508",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "备忘"
-            }
-          },
-          {
-            "id": "7a8cb107c01df36a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/daily/2026-08-04（32周）.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-04（32周）"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/daily/2026-08-04（32周）.md",
+                "file": "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,24 +185,28 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7a8cb107c01df36a",
+  "active": "03c05c15548d24b4",
   "lastOpenFiles": [
+    "private/chamsion/doc/2代眼镜-g5t71/智能眼镜按键及交互定义V1.3.pdf",
+    "private/daily/2026-08-05（32周）.md",
+    "private/chamsion/doc/2代眼镜-g5t71/WiFi_SRRC_Sideband_wifi_set_power_cfg_Debug_Guide(1).md",
     "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
-    "private/daily/2026-08-04（32周）.md",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/readme.txt",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/新建 文本文档.txt",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/pil_algo_ifly_glasses_wakeup.dll",
+    "private/chamsion/tools/glass_v2/ASS_CITTestTool_V2.0.3/testlog/G5T712604R00246_FC4CEA201E3B_20260805143914.log",
+    "private/chamsion/tools/glass_v2/ASS_CITTestTool_V2.0.3/testlog/G5T712604R00246_FC4CEA201E3B_20260805143856.log",
+    "private/chamsion/tools/glass_v2/ASS_CITTestTool_V2.0.3/testlog/G5T712604R00246_FC4CEA201E3B_20260805143750.log",
+    "private/chamsion/tools/glass_v2/ASS_CITTestTool_V2.0.3/testlog/G5T712604R00246_FC4CEA201E3B_20260805143644.log",
+    "private/chamsion/tools/glass_v2/ASS_CITTestTool_V2.0.3/testlog/G5T712604R00246_FC4CEA201E3B_20260805143635.log",
+    "private/chamsion/tools/glass_v2/ASS_CITTestTool_V2.0.3/testlog/G5T712604R00246_FC4CEA201E3B_20260805143523.log",
+    "private/chamsion/tools/glass_v2/ASS_CITTestTool_V2.0.3/testlog/G5T712604R00246_FC4CEA201E3B_20260805143436.log",
+    "private/chamsion/doc/2代眼镜-g5t71/eq/eq_dev/doc.md",
     "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
+    "private/daily/2026-08-04（32周）.md",
     "private/daily/2026-08-03（32周）.md",
-    "private/chamsion/info/2026",
     "private/chamsion/info/2026/w-32/设备状态未同步/app-log.png",
-    "private/chamsion/info/2026/w-32/设备状态未同步",
-    "private/chamsion/info/2026/w-32/视频录制2k-1080-720/视频录制分辨率app开发文档.pdf",
-    "private/chamsion/info/2026/w-32/视频录制2k-1080-720/video_02_49_27.mp4",
-    "private/chamsion/info/2026/w-32/视频录制2k-1080-720/video_02_48_38.mp4",
-    "private/chamsion/info/2026/w-32/视频录制2k-1080-720/video_02_46_30.mp4",
-    "private/chamsion/info/2026/w-32/视频录制2k-1080-720",
     "private/chamsion/info/2026/w-32/蓝牙电量和系统电量不一致/手机系统蓝牙.jpg",
-    "private/chamsion/info/2026/w-32/蓝牙电量和系统电量不一致",
-    "private/chamsion/info/2026/w-32/导图过程中死机/2800-正常关机日志.txt",
-    "private/chamsion/info/2026/w-32/导图过程中死机/2026-07-22_16_54_25_sys_log.txt",
     "private/chamsion/info/2026/w-32/低功耗优化/开启shell，关闭佩戴检测，关闭电量上报，功耗.png",
     "private/chamsion/info/2026/w-32/低功耗优化/关闭shell，关闭佩戴检测，关闭电量上报，功耗.png",
     "private/chamsion/info/2026/w-31/实验室蓝牙指令问题/g5t7/使用教程.gif",
@@ -267,10 +232,6 @@
     "private/others/ai-api/新建文件夹/grokRegister-cpa/DEPLOYMENT.md",
     "private/daily/2026-07-28（31周）.md",
     "private/daily/2026-07-27（31周）.md",
-    "private/others/ai-api/grok-register - 副本 (2)/README.md",
-    "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率开发设计文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率app开发文档.md",
-    "private/others/ai-api/grok-register/_cpa/ok/EQ_SW_IIR_修改不生效可能的原因分析.md",
-    "private/others/ai-api/grok-register - 副本/README.md"
+    "private/others/ai-api/grok-register - 副本 (2)/README.md"
   ]
 }
