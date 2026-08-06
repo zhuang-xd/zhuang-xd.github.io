@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7d95cebba9851e12",
+        "id": "85da8b359e7bde74",
         "type": "tabs",
         "children": [
           {
-            "id": "be9deda5f794a508",
+            "id": "a3a23f504243fa0e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "private/daily/2026-08-06（32周）.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026-08-06（32周）"
             }
           }
         ]
@@ -61,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "master",
+                "query": "佩戴检测",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,13 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/git：生成当前工作区与上一个 commit 的 patch 文件.md",
+                "file": "private/daily/2026-08-06（32周）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "git：生成当前工作区与上一个 commit 的 patch 文件 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -185,22 +199,35 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "03c05c15548d24b4",
+  "active": "a3a23f504243fa0e",
   "lastOpenFiles": [
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/flash-menu-template-2800BPZE7-Glass-test-bin-0369.bat",
+    "posts/git：本地代码领先远端代码无法pull代码.md",
+    "private/daily/2026-08-06（32周）.md",
+    "posts/git：本地dev推送并同步到远程feature.md",
+    "posts/git：将本地其他分支的提交合并到master分支.md",
+    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
+    "posts/git：将本地其他分支的提交合并到master分支 - 副本.md",
+    "posts/git：本地dev推送并同步到远程feature - 副本.md",
+    "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测app开发文档.md",
+    "private/chamsion/doc/2代眼镜-g5t71/ai识图/智能图像识别_App端开发文档.md",
+    "posts/window连接虚拟机linux的samba.md",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/flash-menu-template-2800BPZE7-Glass-test-bin-liang.bat",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/flash-menu-template-2800BPZE7-Glass-test-bin-0395 - 副本.bat",
+    "posts/git：用dev分支隔离main上的待提交改动.md",
+    "posts/git：拉取远程代码时和本地代码有冲突的解决方法 - 副本.md",
+    "posts/obsidian + claude code cli实践.md",
+    "private/chamsion/tools/glass_v2/ASS_CITTestTool_V2.0.3/testlog/G5T712604R00246_000000000000_20260806174402.log",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/flash-menu-template-2800BPZE7-Glass-test-bin-0395.bat",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/flash-menu-template-2800BPZE7-Glass-test-bin-369 - 副本.bat",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/flash-menu-template-2800BPZE7-Glass-test-bin-xia.bat",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/flash-menu-template-2800BPZE7-Glass-test-bin - 副本.bat",
     "private/chamsion/doc/2代眼镜-g5t71/智能眼镜按键及交互定义V1.3.pdf",
     "private/daily/2026-08-05（32周）.md",
     "private/chamsion/doc/2代眼镜-g5t71/WiFi_SRRC_Sideband_wifi_set_power_cfg_Debug_Guide(1).md",
     "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
     "private/chamsion/tools/glass_v2/tdbg_v1.2.1/readme.txt",
     "private/chamsion/tools/glass_v2/tdbg_v1.2.1/新建 文本文档.txt",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/pil_algo_ifly_glasses_wakeup.dll",
-    "private/chamsion/tools/glass_v2/ASS_CITTestTool_V2.0.3/testlog/G5T712604R00246_FC4CEA201E3B_20260805143914.log",
-    "private/chamsion/tools/glass_v2/ASS_CITTestTool_V2.0.3/testlog/G5T712604R00246_FC4CEA201E3B_20260805143856.log",
-    "private/chamsion/tools/glass_v2/ASS_CITTestTool_V2.0.3/testlog/G5T712604R00246_FC4CEA201E3B_20260805143750.log",
-    "private/chamsion/tools/glass_v2/ASS_CITTestTool_V2.0.3/testlog/G5T712604R00246_FC4CEA201E3B_20260805143644.log",
-    "private/chamsion/tools/glass_v2/ASS_CITTestTool_V2.0.3/testlog/G5T712604R00246_FC4CEA201E3B_20260805143635.log",
-    "private/chamsion/tools/glass_v2/ASS_CITTestTool_V2.0.3/testlog/G5T712604R00246_FC4CEA201E3B_20260805143523.log",
-    "private/chamsion/tools/glass_v2/ASS_CITTestTool_V2.0.3/testlog/G5T712604R00246_FC4CEA201E3B_20260805143436.log",
     "private/chamsion/doc/2代眼镜-g5t71/eq/eq_dev/doc.md",
     "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
     "private/daily/2026-08-04（32周）.md",
@@ -219,19 +246,6 @@
     "private/daily/2026-08-01（31周）.md",
     "private/daily/2026-07-31（31周）.md",
     "private/daily/2026-07-30（31周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/ble/ios自动回连设备ble的mtu始终是23.md",
-    "private/others/ai-api/grokRegister-cpa - 副本/README.md",
-    "private/others/ai-api/grokRegister-cpa - 副本/DEPLOYMENT.md",
-    "private/chamsion/doc/2代眼镜-g5t71/debug-无法使用btrf问题/btrf参考文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/eq/音效模式App对接文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/eq/音效模式接口与实现计划.md",
-    "private/daily/2026-07-29（31周）.md",
-    "private/others/ai-api/grokRegister-cpa/README.md",
-    "private/others/ai-api/grokRegister-cpa/DEPLOYMENT.md",
-    "private/others/ai-api/新建文件夹/grokRegister-cpa/README.md",
-    "private/others/ai-api/新建文件夹/grokRegister-cpa/DEPLOYMENT.md",
-    "private/daily/2026-07-28（31周）.md",
-    "private/daily/2026-07-27（31周）.md",
-    "private/others/ai-api/grok-register - 副本 (2)/README.md"
+    "private/chamsion/doc/2代眼镜-g5t71/ble/ios自动回连设备ble的mtu始终是23.md"
   ]
 }
