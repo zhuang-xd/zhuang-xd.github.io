@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/daily/2026-08-06（32周）.md",
+                "file": "posts/git：本地代码领先远端代码无法pull代码.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-06（32周）"
+              "title": "git：本地代码领先远端代码无法pull代码"
             }
           }
         ]
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "佩戴检测",
+                "query": "rebase",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/daily/2026-08-06（32周）.md",
+                "file": "posts/git：本地代码领先远端代码无法pull代码.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -131,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -201,35 +201,37 @@
   },
   "active": "a3a23f504243fa0e",
   "lastOpenFiles": [
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/flash-menu-template-2800BPZE7-Glass-test-bin-0369.bat",
-    "posts/git：本地代码领先远端代码无法pull代码.md",
-    "private/daily/2026-08-06（32周）.md",
-    "posts/git：本地dev推送并同步到远程feature.md",
+    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
     "posts/git：将本地其他分支的提交合并到master分支.md",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/glass_test_bin/new/pil_ns4_algo_normal.dll",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/glass_test_bin/new/pil_algo_vad_demo.dll",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/glass_test_bin/new/ota_boot_watch.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/glass_test_bin/new/ota_boot_remap_7eb2e4fb26_nse_0827.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/glass_test_bin/new/norfs.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/glass_test_bin/new/cp_subsys_bth.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/glass_test_bin/new/bth_core.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/glass_test_bin/new/best1700_watch_opt1.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/glass_test_bin/new/best1700_glass.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/glass_test_bin/new/mmcfs.bin",
+    "posts/git：删除多个本地提交中间的某个提交.md",
+    "posts/git：本地代码领先远端代码无法pull代码.md",
+    "private/daily/2026-08-07（32周）.md",
+    "attachments/images/Pasted image 20260807091501.png",
+    "posts/git：本地dev推送并同步到远程feature.md",
+    "private/daily/2026-08-06（32周）.md",
     "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
     "posts/git：将本地其他分支的提交合并到master分支 - 副本.md",
     "posts/git：本地dev推送并同步到远程feature - 副本.md",
     "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测app开发文档.md",
     "private/chamsion/doc/2代眼镜-g5t71/ai识图/智能图像识别_App端开发文档.md",
     "posts/window连接虚拟机linux的samba.md",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/flash-menu-template-2800BPZE7-Glass-test-bin-liang.bat",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/flash-menu-template-2800BPZE7-Glass-test-bin-0395 - 副本.bat",
     "posts/git：用dev分支隔离main上的待提交改动.md",
     "posts/git：拉取远程代码时和本地代码有冲突的解决方法 - 副本.md",
     "posts/obsidian + claude code cli实践.md",
-    "private/chamsion/tools/glass_v2/ASS_CITTestTool_V2.0.3/testlog/G5T712604R00246_000000000000_20260806174402.log",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/flash-menu-template-2800BPZE7-Glass-test-bin-0395.bat",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/flash-menu-template-2800BPZE7-Glass-test-bin-369 - 副本.bat",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/flash-menu-template-2800BPZE7-Glass-test-bin-xia.bat",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/flash-menu-template-2800BPZE7-Glass-test-bin - 副本.bat",
-    "private/chamsion/doc/2代眼镜-g5t71/智能眼镜按键及交互定义V1.3.pdf",
     "private/daily/2026-08-05（32周）.md",
     "private/chamsion/doc/2代眼镜-g5t71/WiFi_SRRC_Sideband_wifi_set_power_cfg_Debug_Guide(1).md",
     "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/readme.txt",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/新建 文本文档.txt",
     "private/chamsion/doc/2代眼镜-g5t71/eq/eq_dev/doc.md",
-    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
     "private/daily/2026-08-04（32周）.md",
     "private/daily/2026-08-03（32周）.md",
     "private/chamsion/info/2026/w-32/设备状态未同步/app-log.png",
@@ -241,11 +243,8 @@
     "private/chamsion/info/2026/w-31/wifi连接失败-无法导图/新建文件夹/ios-log-1.jpg",
     "private/chamsion/info/2026/w-31/wifi连接失败-无法导图/ios-log-3.jpg",
     "private/chamsion/info/2026/w-31/wifi连接失败-无法导图/ios-log-2.jpg",
-    "private/chamsion/info/2026/w-31/wifi连接失败-无法导图/ios-log-1.jpg",
     "private/chamsion/doc/2代眼镜-g5t71/翻译录音_App对接文档.md",
     "private/daily/2026-08-01（31周）.md",
-    "private/daily/2026-07-31（31周）.md",
-    "private/daily/2026-07-30（31周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/ble/ios自动回连设备ble的mtu始终是23.md"
+    "private/daily/2026-07-31（31周）.md"
   ]
 }
