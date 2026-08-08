@@ -15,7 +15,8 @@
   "useMarkdownLinks": true,
   "showInlineTitle": false,
   "userIgnoreFilters": [
-    "templates/"
+    "templates/",
+    "private/others/"
   ],
   "openBehavior": "daily"
 }
