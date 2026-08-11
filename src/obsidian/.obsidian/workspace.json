@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "85da8b359e7bde74",
+        "id": "740088b2f3463462",
         "type": "tabs",
         "children": [
           {
-            "id": "a3a23f504243fa0e",
+            "id": "2e38691f03b7faad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
+                "file": "private/chamsion/doc/2代眼镜-g5t71/ai识图/智能图像识别_App端开发文档.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "git：拉取远程代码时和本地代码有冲突的解决方法"
+              "title": "智能图像识别_App端开发文档"
+            }
+          },
+          {
+            "id": "459125c5a39b5a13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/daily/2026-08-11（33周）.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-11（33周）"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rebase",
+                "query": "pick",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -92,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+                "file": "private/daily/2026-08-11（33周）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,20 +224,37 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1833a3384fcb81c2",
+  "active": "459125c5a39b5a13",
   "lastOpenFiles": [
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/update-0810-tp-interrupt.ufw",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/null",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/update.ufw",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/bank20.bin",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/bank19.bin",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/bank18.bin",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/bank17.bin",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/bank16.bin",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/bank15.bin",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/bank14.bin",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/bank13.bin",
+    "posts/git：将本地其他分支的提交合并到master分支.md",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/update-V02.01.01.02-beta1-J.img",
+    "private/daily/2026-08-11（33周）.md",
+    "private/chamsion/doc/2代眼镜-g5t71/ai识图/智能图像识别_App端开发文档.md",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/isp0810.img",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/glass_test_bin/glass_test_bin_0810_kuangming/ota_boot_remap_7eb2e4fb26_nse_0827.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/glass_test_bin/glass_test_bin_0810_kuangming/ota_boot_remap_7eb2e4fb26_se_0827.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/glass_test_bin/glass_test_bin_0810_kuangming/pil_algo_vad_demo.dll",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/glass_test_bin/glass_test_bin_0810_kuangming/pil_sco_down_algo.dll",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/glass_test_bin/glass_test_bin_0810_kuangming/pil_ns4_algo_normal.dll",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/glass_test_bin/glass_test_bin_0810_kuangming/ota_boot_watch.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/glass_test_bin/glass_test_bin_0810_kuangming/ota_boot_remap_1700_11eb20a3f2_20250514.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/glass_test_bin/glass_test_bin_0810_kuangming/norfs.bin",
+    "private/chamsion/doc/2代眼镜-g5t71/ai识图/智能图像识别_拍照识图流程总结.md",
+    "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测app开发文档.md",
+    "posts/未命名.md",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/photo_20260811_165905.jpg",
     "private/daily/2026-08-10（33周）.md",
+    "private/chamsion/doc/2代眼镜-g5t71/WiFi_SRRC_Sideband_wifi_set_power_cfg_Debug_Guide(1).md",
+    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
+    "posts/git：管理分支.md",
+    "posts/git：重新编辑某一个提交记录.md",
+    "posts/git：本地dev推送并同步到远程feature.md",
+    "private/daily/2026-07-13（29周）.md",
+    "private/chamsion/doc/2代眼镜-g5t71/2800获取6350版本号/2800获取6350版本号实现说明.md",
+    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+    "posts/git：删除多个本地提交中间的某个提交.md",
+    "posts/git：生成当前工作区与上一个 commit 的 patch 文件.md",
+    "posts/git：用dev分支隔离main上的待提交改动.md",
     "private/chamsion/code/unblock/CytG5T7/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
     "private/chamsion/code/unblock/CytG5T7/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
     "private/chamsion/code/unblock/CytG5T7/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
@@ -222,30 +264,12 @@
     "private/chamsion/code/unblock/CytG5T7/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
     "private/chamsion/code/unblock/CytG5T7/app/src/main/res/mipmap-mdpi/ic_launcher.png",
     "private/chamsion/code/unblock/CytG5T7/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
-    "private/chamsion/code/unblock/CytG5T7/app/src/main/res/mipmap-hdpi/ic_launcher.png",
     "private/chamsion/code/unblock/CytG5T7/README.md",
     "private/chamsion/code/unblock/CytG5T7/COMMUNICATION_ARCHITECTURE.md",
-    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
     "private/chamsion/doc/2代眼镜-g5t71/eq/eq_dev/doc.md",
-    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
-    "posts/git：将本地其他分支的提交合并到master分支.md",
     "private/daily/2026-08-08（32周）.md",
     "private/others/ai-api/cloudflare_temp_email/CHANGELOG.md",
-    "posts/git：删除多个本地提交中间的某个提交.md",
-    "posts/git：用dev分支隔离main上的待提交改动.md",
-    "posts/git：生成当前工作区与上一个 commit 的 patch 文件.md",
-    "posts/git：本地dev推送并同步到远程feature.md",
     "posts/git：本地代码领先远端代码无法pull代码.md",
-    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
-    "private/daily/2026-08-07（32周）.md",
-    "private/daily/2026-08-06（32周）.md",
-    "posts/git：将本地其他分支的提交合并到master分支 - 副本.md",
-    "posts/git：本地dev推送并同步到远程feature - 副本.md",
-    "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测app开发文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/ai识图/智能图像识别_App端开发文档.md",
-    "posts/window连接虚拟机linux的samba.md",
-    "posts/git：拉取远程代码时和本地代码有冲突的解决方法 - 副本.md",
-    "posts/obsidian + claude code cli实践.md",
-    "private/daily/2026-08-05（32周）.md"
+    "private/chamsion/doc/1代眼镜-g5k61/备忘.md"
   ]
 }
