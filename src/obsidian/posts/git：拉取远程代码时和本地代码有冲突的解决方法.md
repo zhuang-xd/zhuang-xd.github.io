@@ -12,7 +12,15 @@ star: false
 远程代码领先于本地版本，无法通过 `git pull` 直接拉取
 ## 操作步骤
 
-### 方法1： 保留本地修改，并合并远程更新
+### 方法1 使用变基拉取 (Pull with Rebase)
+
+避免生成merge的脏commit，会把本地的 commit，**整体挪到** 远程的 commit 的最新进度后面，保持一条直线。
+
+```bash
+git pull --rebase origin master
+```
+
+### 方法2： 保留本地修改，并合并远程更新
 
 使用 `git stash` 将本地修改暂时藏起来，拉取远程代码，然后再把修改应用回来。
 
@@ -37,11 +45,4 @@ git stash pop
 =======
 （你本地 stash 中的改动）
 >>>>>>> Stashed changes
-```
-### 方法2 使用变基拉取 (Pull with Rebase)
-
-避免生成merge的脏commit，会把本地的 commit，**整体挪到** 远程的 commit 的最新进度后面，保持一条直线。
-
-```bash
-git pull --rebase origin master
 ```
