@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "740088b2f3463462",
+        "id": "691d0a5df1e6a2d8",
         "type": "tabs",
         "children": [
           {
-            "id": "b8d0dc53e68ce96b",
+            "id": "7ae892230e5b421d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+                "file": "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态_App开发文档.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "备忘"
+              "title": "设备状态_App开发文档"
             }
           }
         ]
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "push",
+                "query": "设备状态",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+                "file": "posts/git：将本地其他分支的提交合并到master分支.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,44 +199,46 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b8d0dc53e68ce96b",
+  "active": "7ae892230e5b421d",
   "lastOpenFiles": [
-    "posts/git：重新编辑某一个提交记录.md",
-    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
-    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/intermediates/dex_number_of_buckets_file/debugAndroidTest/out",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/intermediates/dex_number_of_buckets_file/debugAndroidTest",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/intermediates/dex_archive_input_jar_hashes/debugAndroidTest/out",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/intermediates/dex_archive_input_jar_hashes/debugAndroidTest",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/intermediates/desugar_graph/debugAndroidTest/out/currentProject/jar_427a3de6ddb8e5be4e0e61fc15f1f0d3c6f9f08c0b22e2c572f8ffb34578170f_bucket_9/graph.bin",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/intermediates/desugar_graph/debugAndroidTest/out/currentProject/jar_427a3de6ddb8e5be4e0e61fc15f1f0d3c6f9f08c0b22e2c572f8ffb34578170f_bucket_8/graph.bin",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/intermediates/desugar_graph/debugAndroidTest/out/currentProject/jar_427a3de6ddb8e5be4e0e61fc15f1f0d3c6f9f08c0b22e2c572f8ffb34578170f_bucket_7/graph.bin",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/intermediates/desugar_graph/debugAndroidTest/out/currentProject/jar_427a3de6ddb8e5be4e0e61fc15f1f0d3c6f9f08c0b22e2c572f8ffb34578170f_bucket_6/graph.bin",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/intermediates/desugar_graph/debugAndroidTest/out/currentProject/jar_427a3de6ddb8e5be4e0e61fc15f1f0d3c6f9f08c0b22e2c572f8ffb34578170f_bucket_5/graph.bin",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/intermediates/desugar_graph/debugAndroidTest/out/currentProject/jar_427a3de6ddb8e5be4e0e61fc15f1f0d3c6f9f08c0b22e2c572f8ffb34578170f_bucket_3/graph.bin",
-    "private/chamsion/code/jl/out/CytG5K6-ble - 副本/README.md",
-    "private/chamsion/code/jl/out/CytG5K6-ble - 副本/AI语音数据解析与开发指南.md",
-    "posts/git：本地dev推送并同步到远程feature.md",
-    "posts/git：将本地其他分支的提交合并到master分支.md",
-    "posts/git：管理分支.md",
-    "private/others/ai-api/old/grok-register/assets/banner.png",
-    "private/others/ai-api/old/grok-register/README.md",
-    "private/others/ai-api/old/grokRegister-cpa/README.md",
-    "private/others/ai-api/old/grokRegister-cpa/DEPLOYMENT.md",
-    "private/others/grok-register/docs/proxy-pool.md",
-    "private/others/grok-register/assets/banner.png",
-    "private/others/grok-register/README.md",
-    "private/chamsion/doc/2代眼镜-g5t71/翻译录音_App对接文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/README.md",
-    "private/daily/2026-08-15（33周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/AI录音-对端开发文档(3).md",
-    "private/chamsion/doc/2代眼镜-g5t71/WiFi_SRRC_Sideband_wifi_set_power_cfg_Debug_Guide(1).md",
-    "private/chamsion/doc/2代眼镜-g5t71/电量主动上报/电量主动上报app对接文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/恢复出厂设置/恢复出厂设置app开发文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/电量主动上报/电量主动上报设计计划.md",
-    "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测app开发文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测模块方案设计.md",
+    "private/chamsion/code/jl/out/jl7016g/sdk/user/err.log",
+    "private/chamsion/code/jl/out/jl7016g/sdk/user/run.log",
+    "private/chamsion/code/jl/out/jl7016g/sdk/user/in.txt",
+    "private/chamsion/code/jl/out/jl7016g/sdk/user/code.exe",
+    "private/chamsion/code/jl/out/jl7016g/sdk/user/Unlock.exe",
+    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/sdk.elf.0.0.preopt.bc.temp",
+    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/sdk.elf.temp",
+    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/run_jtag.sh.temp",
+    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/run.log.temp",
+    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/isd_download.temp",
+    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/in.txt.temp",
+    "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态模块实现计划.md",
     "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态_App开发文档.md",
+    "private/chamsion/doc/2代眼镜-g5t71/2800获取6350版本号/ISP固件版本号修改指引.md",
+    "private/chamsion/doc/2代眼镜-g5t71/2800获取6350版本号/2800获取6350版本号实现说明.md",
+    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
+    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+    "private/chamsion/doc/2代眼镜-g5t71/翻译录音_App对接文档.md",
+    "private/daily/2026-08-18（34周）.md",
+    "private/daily/2026-08-15（33周）.md",
+    "posts/git：将本地其他分支的提交合并到master分支.md",
+    "posts/git：重新编辑某一个提交记录.md",
+    "private/chamsion/code/jl/out/CytG5K6-ble - 副本/docs/shabing/拍照识图指令0x70.md",
+    "private/chamsion/code/jl/out/CytG5K6-ble - 副本/docs/shabing/拍照识图分辨率设置指令0x71.md",
+    "private/chamsion/code/jl/out/CytG5K6-ble - 副本/docs/shabing/photo_recognize2_spp_frame_parsing_developer.md",
+    "private/chamsion/code/jl/out/CytG5K6-ble - 副本/docs/shabing/WIFI热点开启指令0x37.md",
+    "private/chamsion/code/jl/out/CytG5K6-ble - 副本/docs/shabing/device_status_query_0x72_protocol.md",
+    "private/chamsion/code/jl/out/CytG5K6-ble - 副本/docs/photo_recognize_app_developer.md",
+    "private/chamsion/code/jl/out/CytG5K6-ble - 副本/docs/photo_recognize2_spp_frame_parsing_developer.md",
+    "private/chamsion/code/jl/out/CytG5K6-ble - 副本/docs/wifi_p2p_media_download_zh.md",
+    "private/chamsion/code/jl/out/CytG5K6-ble - 副本/docs/wifi_hotspot_app_developer.md",
+    "private/chamsion/code/jl/out/CytG5K6-ble - 副本/docs/wifi_hotspot_0x37_protocol.md",
+    "private/chamsion/code/jl/out/CytG5K6-ble - 副本/docs/sd_disk_usage_app_developer.md",
+    "private/chamsion/code/jl/out/CytG5K6-ble - 副本/docs/photo_recognize2_0x70_protocol.md",
+    "private/chamsion/code/jl/out/CytG5K6-ble - 副本/docs/photo_recognize2_0x71_resolution.md",
+    "private/chamsion/code/jl/out/CytG5K6-ble - 副本/docs/device_status_query_0x72_protocol.md",
+    "private/others/ai-api/old/grok-register/assets/banner.png",
+    "private/others/grok-register/assets/banner.png",
     "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher_round.png",
     "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
     "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher_round.png",
@@ -244,8 +246,6 @@
     "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher_round.png",
     "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher.png",
     "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher_round.png",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher.png",
-    "private/chamsion/code/CytG5T7/README.md",
-    "private/chamsion/code/CytG5T7/COMMUNICATION_ARCHITECTURE.md"
+    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher.png"
   ]
 }
