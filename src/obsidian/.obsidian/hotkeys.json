@@ -1,4 +1,6 @@
 {
+  "terminal:close-terminal": [],
+  "terminal:find-in-terminal": [],
   "editor:delete-paragraph": [],
   "app:delete-file": [
     {
@@ -146,14 +148,20 @@
       "key": "R"
     }
   ],
-  "terminal:close-terminal": [],
-  "terminal:find-in-terminal": [],
   "terminal:open-terminal.integrated.current": [
     {
       "modifiers": [
         "Alt"
       ],
       "key": "T"
+    }
+  ],
+  "dsh-harness:open-dsh": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
     }
   ]
 }
