@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2dac8cdb08e839ed",
+        "id": "3240968ad30c25a8",
         "type": "tabs",
         "children": [
           {
-            "id": "3e813ece2c0fda1a",
+            "id": "a035c6a5ace6a0ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/daily/2026-08-22（34周）.md",
+                "file": "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-22（34周）"
+              "title": "git：拉取远程代码时和本地代码有冲突的解决方法"
             }
           }
         ]
@@ -44,6 +44,21 @@
         "id": "bed472dde40300e8",
         "type": "tabs",
         "children": [
+          {
+            "id": "03c05c15548d24b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
           {
             "id": "ef8f2916f4734a54",
             "type": "leaf",
@@ -122,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/daily/2026-08-22（34周）.md",
+                "file": "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -131,13 +146,11 @@
               "title": "大纲"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "right": {
     "id": "0b41738d8e969a5f",
@@ -163,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "push",
+                "query": "rebase",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -173,27 +186,14 @@
               "icon": "lucide-search",
               "title": "搜索"
             }
-          },
-          {
-            "id": "03c05c15548d24b4",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabeticalReverse",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 1165.5
+    "width": 733.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,19 +210,24 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "3e813ece2c0fda1a",
+  "active": "a035c6a5ace6a0ad",
   "lastOpenFiles": [
+    "private/chamsion/doc/1代眼镜-g5k61/手册/C22440782_数字信号处理器(DSP-DSC)_JL7016G8_规格书_WJ1183205.pdf",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/apps/common/device/usb/usb_host_config.c.d",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/apps/common/device/usb/usb_config.c.d",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/apps/common/third_party_profile/jieli/wireless_mic/le_wireless_mic_server.c.d",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/apps/common/third_party_profile/jieli/wireless_mic/le_wireless_mic_server.c.o",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/apps/common/third_party_profile/jieli/wireless_mic/le_wireless_mic_client.c.o",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/apps/common/third_party_profile/jieli/wireless_mic/le_wireless_mic_client.c.d",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/apps/common/third_party_profile/jieli/wireless_mic",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/apps/common/test/os_test.c.o",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/apps/common/test/os_test.c.d",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/apps/common/test/fs_test.c.o",
+    "private/chamsion/doc/1代眼镜-g5k61/M1142011078LA - JL7016G Datasheet V1.md",
+    "private/chamsion/doc/1代眼镜-g5k61/电池电量显示与电压阈值.md",
+    "private/chamsion/doc/1代眼镜-g5k61/ai_voice_spp_ack_protocol.md",
+    "private/daily/2026-08-24（35周）.md",
     "private/daily/2026-08-22（34周）.md",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/pil_algo_ifly_glasses_wakeup.dll",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/pil_algo_ifly_glasses_nr.dll",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/pil_algo_ifly_glasses_fanyi.dll",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/ota_boot_watch.bin",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/ota_boot_remap_7eb2e4fb26_nse_0827.bin",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/cp_subsys_bth.bin",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/bth_core.bin",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/best1700_watch_opt1.bin",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/best1700_glass.bin",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/algo_local.json",
     "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
     "posts/git：用dev分支隔离main上的待提交改动.md",
     "posts/git：删除多个本地提交中间的某个提交.md",
@@ -252,10 +257,6 @@
     "private/chamsion/doc/2代眼镜-g5t71/2800获取6350版本号/ISP固件版本号修改指引.md",
     "private/chamsion/code/jl/out/CytG5K6-ble - 副本/docs/sd_disk_usage_app_developer.md",
     "private/chamsion/doc/2代眼镜-g5t71/恢复出厂设置/恢复出厂设置app开发文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/电量主动上报/电量主动上报app对接文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测app开发文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/电量主动上报/电量主动上报设计计划.md",
-    "private/daily/2026-08-19（34周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/避免写盘满方案/避免写盘满设计方案2.md"
+    "private/chamsion/doc/2代眼镜-g5t71/电量主动上报/电量主动上报app对接文档.md"
   ]
 }
