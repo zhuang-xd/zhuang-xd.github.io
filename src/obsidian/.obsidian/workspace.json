@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aea83a9730cb6315",
+        "id": "ca1d3fe3b97e81e0",
         "type": "tabs",
         "children": [
           {
-            "id": "1f63c3d3a8df2116",
+            "id": "56f89133b0b2b72d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/daily/2026-08-25（35周）.md",
+                "file": "private/daily/2026-08-26（35周）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-25（35周）"
-            }
-          },
-          {
-            "id": "a6a0d5b610f66b8e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026-08-26（35周）"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,6 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "private/daily/2026-08-26（35周）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -160,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "right": {
     "id": "0b41738d8e969a5f",
@@ -186,7 +177,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "push",
+                "query": "drop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -202,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 733.5,
-    "collapsed": true
+    "width": 818.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,28 +210,31 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a6a0d5b610f66b8e",
+  "active": "56f89133b0b2b72d",
   "lastOpenFiles": [
+    "posts/git：删除多个本地提交中间的某个提交.md",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/pil_algo_ifly_glasses_wakeup.dll",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/pil_algo_ifly_glasses_nr.dll",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/pil_algo_ifly_glasses_fanyi.dll",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/ota_boot_watch.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/ota_boot_remap_7eb2e4fb26_nse_0827.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/cp_subsys_bth.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/bth_core.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/best1700_watch_opt1.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/best1700_glass.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/algo_local.json",
+    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
+    "private/daily/2026-08-26（35周）.md",
     "private/daily/2026-08-25（35周）.md",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/update-0825-3-i2cprint.ufw",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/update-8025-2-i2cchangeprint.ufw",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/update-8025-2 i.ufw",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/update-0825-3.ufw",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/null",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/update.ufw",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/sdk.elf",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/user_mic_aec_process.c.o",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/apps/earphone/sdk_version.z.S.o",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/user_hfp_sco_vad_monitor.c.o",
+    "private/chamsion/doc/1代眼镜-g5k61/1代拍照识图/拍照识图传输优化总结.md",
+    "private/chamsion/doc/1代眼镜-g5k61/1代拍照识图/photo_recognize2_app_integration.md",
     "private/chamsion/doc/1代眼镜-g5k61/ai_voice_spp_ack_protocol.md",
     "private/chamsion/doc/1代眼镜-g5k61/M1142011078LA - JL7016G Datasheet V1.md",
     "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
-    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
     "private/chamsion/doc/1代眼镜-g5k61/电池电量显示与电压阈值.md",
     "private/daily/2026-08-24（35周）.md",
     "private/daily/2026-08-22（34周）.md",
     "posts/git：用dev分支隔离main上的待提交改动.md",
-    "posts/git：删除多个本地提交中间的某个提交.md",
     "posts/git：重新编辑某一个提交记录.md",
     "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher_round.png",
     "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
@@ -263,9 +256,6 @@
     "posts/git：本地dev推送并同步到远程feature.md",
     "private/chamsion/doc/2代眼镜-g5t71/README.md",
     "private/daily/2026-07-25（30周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/避免写盘满方案/避免写盘满设计方案.md",
-    "private/chamsion/doc/2代眼镜-g5t71/2800获取6350版本号/ISP固件版本号修改指引.md",
-    "private/chamsion/code/jl/out/CytG5K6-ble - 副本/docs/sd_disk_usage_app_developer.md",
-    "private/chamsion/doc/2代眼镜-g5t71/恢复出厂设置/恢复出厂设置app开发文档.md"
+    "private/chamsion/doc/2代眼镜-g5t71/避免写盘满方案/避免写盘满设计方案.md"
   ]
 }
