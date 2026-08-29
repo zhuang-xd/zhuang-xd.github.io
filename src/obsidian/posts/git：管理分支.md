@@ -16,4 +16,7 @@ git branch -m 新分支名
 
 #删除分支
 git branch -D 待删除分支名
+
+#改名
+git branch -m 旧名 新名
 ```
