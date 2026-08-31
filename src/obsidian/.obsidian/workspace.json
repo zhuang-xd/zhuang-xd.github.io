@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/工厂模式/工厂模式6350版本号查询命令说明.md",
+                "file": "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "工厂模式6350版本号查询命令说明"
+              "title": "备忘"
+            }
+          },
+          {
+            "id": "ce7fc788968ea79e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "备忘"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/工厂模式/工厂模式6350版本号查询命令说明.md",
+                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -176,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "push",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -209,25 +234,28 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1bf0dae3df8bff12",
+  "active": "ce7fc788968ea79e",
   "lastOpenFiles": [
+    "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率开发设计文档.md",
+    "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率app开发文档.md",
+    "private/daily/2026-08-31（36周）.md",
+    "private/chamsion/tools/glass_v2/MolDownloadV3.0.0.31/Log/2026-08-31.log",
     "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
-    "private/chamsion/jl7016g/sdk/apps/earphone/wireless_mic/odev/odev_bt/include/adapter_odev_edr.h",
-    "private/chamsion/jl7016g/sdk/apps/earphone/wireless_mic/odev/odev_bt/odev_edr/adapter_odev_edr.c",
-    "private/chamsion/jl7016g/sdk/apps/earphone/wireless_mic/odev/odev_bt/odev_ble/adapter_odev_ble.c",
-    "private/chamsion/jl7016g/sdk/apps/earphone/wireless_mic/odev/odev_bt/odev_ble/odev_ble_wireless.c",
-    "private/chamsion/jl7016g/sdk/apps/earphone/wireless_mic/odev/odev_bt/include/adapter_odev_bt.h",
-    "private/chamsion/jl7016g/sdk/apps/earphone/wireless_mic/idev/idev_bt/include/adapter_idev_ble.h",
-    "private/chamsion/jl7016g/sdk/apps/earphone/wireless_mic/odev/odev_bt/include/adapter_odev_ble.h",
-    "private/chamsion/jl7016g/sdk/apps/earphone/wireless_mic/idev/idev_bt/include/adapter_idev_bt.h",
-    "private/chamsion/jl7016g/sdk/apps/earphone/wireless_mic/idev/idev_bt/idev_ble/adapter_idev_ble.c",
-    "private/chamsion/jl7016g/sdk/apps/earphone/wireless_mic/odev/odev_dac/adapter_odev_dac.h",
-    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
-    "private/chamsion/doc/2代眼镜-g5t71/README.md",
     "private/daily/2026-08-28（35周）.md",
+    "private/chamsion/jl7016g/sdk/apps/common/update/update_tws_new.c",
+    "private/chamsion/jl7016g/sdk/apps/common/update/update.c",
+    "private/chamsion/jl7016g/sdk/apps/common/update/update_tws.c",
+    "private/chamsion/jl7016g/sdk/apps/common/update/testbox_update.c",
+    "private/chamsion/jl7016g/sdk/apps/common/update",
+    "private/chamsion/jl7016g/sdk/apps/common/ui/lcd_simple/ui.c",
+    "private/chamsion/jl7016g/sdk/apps/common/ui/lcd_simple/ui_mainmenu.c",
+    "private/chamsion/jl7016g/sdk/apps/common/ui/lcd_simple/lcd_simple_api.c",
+    "private/chamsion/jl7016g/sdk/apps/common/ui/lcd_simple",
+    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+    "private/chamsion/doc/2代眼镜-g5t71/工厂模式/工厂模式6350版本号查询命令说明.md",
+    "private/chamsion/doc/2代眼镜-g5t71/README.md",
     "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
     "posts/git：管理分支.md",
-    "private/chamsion/doc/2代眼镜-g5t71/工厂模式/工厂模式6350版本号查询命令说明.md",
     "posts/git：删除多个本地提交中间的某个提交.md",
     "private/daily/2026-08-27（35周）.md",
     "posts/git：重新编辑某一个提交记录.md",
@@ -253,8 +281,6 @@
     "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher_round.png",
     "private/chamsion/doc/2代眼镜-g5t71/低电量禁用/低电量禁用App开发文档.md",
     "private/chamsion/doc/2代眼镜-g5t71/避免写盘满方案/避免写盘满app开发文档.md",
-    "private/daily/2026-08-21（34周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/低电量禁用/低电量禁用设计方案.md",
-    "private/chamsion/doc/2代眼镜-g5t71/ai识图/智能图像识别_App端开发文档.md"
+    "private/daily/2026-08-21（34周）.md"
   ]
 }
