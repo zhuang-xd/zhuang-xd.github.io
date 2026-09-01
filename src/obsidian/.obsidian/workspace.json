@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
+                "file": "private/daily/2026-09-01（36周）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "备忘"
+              "title": "2026-09-01（36周）"
             }
           },
           {
-            "id": "ce7fc788968ea79e",
+            "id": "6b1cd22cbe012b48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+                "file": "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "备忘"
+              "title": "git：拉取远程代码时和本地代码有冲突的解决方法"
             }
           }
         ],
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+                "file": "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "push",
+                "query": "rebase",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -234,53 +234,53 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ce7fc788968ea79e",
+  "active": "03c05c15548d24b4",
   "lastOpenFiles": [
+    "private/chamsion/code/jl/out/jl7016g/sdk/user/user_ble_ai_voice.h",
+    "private/chamsion/code/jl/out/jl7016g/sdk/user/bluetooth_transport.h",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/user_mic_aec_process.c.o-6000af70",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/user_hfp_sco_vad_monitor.c.o-5a25d2f1",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/user_ble_ai_voice.c.o-8131aa63",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/user_mic_aec_ai.c.o-20875762",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/user_uart_demo.c.o-893db9c7",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/bluetooth_spp_user.c.o-b701cbc5",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/bluetooth_transport.c.o-1eb8c110",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/tp_task.c.o-48897ef4",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/gx8002_voice_task.c.o-b58cfd6a",
+    "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-icon5.png",
+    "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-icon4.png",
+    "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-icon3.png",
+    "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-icon2.png",
+    "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-icon1.png",
+    "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-glass1.png",
+    "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-glass.png",
+    "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-edit.png",
+    "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-contact-pic4.png",
+    "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-contact-pic3.png",
+    "private/daily/2026-09-01（36周）.md",
+    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
+    "posts/git：用dev分支隔离main上的待提交改动.md",
+    "posts/git：删除多个本地提交中间的某个提交.md",
+    "posts/git：重新编辑某一个提交记录.md",
+    "private/daily/2026-08-31（36周）.md",
+    "private/daily/2026-08-28（35周）.md",
+    "private/daily/2026-08-27（35周）.md",
+    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
+    "private/chamsion/doc/2代眼镜-g5t71/WiFi_SRRC_Sideband_wifi_set_power_cfg_Debug_Guide(1).md",
+    "private/chamsion/doc/2代眼镜-g5t71/README.md",
+    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+    "private/chamsion/doc/2代眼镜-g5t71/翻译录音_App对接文档.md",
+    "private/chamsion/doc/2代眼镜-g5t71/AI录音-对端开发文档(3).md",
+    "private/chamsion/doc/1代眼镜-g5k61/ai_voice_spp_ack_protocol.md",
+    "private/chamsion/doc/1代眼镜-g5k61/M1142011078LA - JL7016G Datasheet V1.md",
+    "private/chamsion/doc/2代眼镜-g5t71/功耗测试/功耗测试.md",
     "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率开发设计文档.md",
     "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率app开发文档.md",
-    "private/daily/2026-08-31（36周）.md",
-    "private/chamsion/tools/glass_v2/MolDownloadV3.0.0.31/Log/2026-08-31.log",
-    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
-    "private/daily/2026-08-28（35周）.md",
-    "private/chamsion/jl7016g/sdk/apps/common/update/update_tws_new.c",
-    "private/chamsion/jl7016g/sdk/apps/common/update/update.c",
-    "private/chamsion/jl7016g/sdk/apps/common/update/update_tws.c",
-    "private/chamsion/jl7016g/sdk/apps/common/update/testbox_update.c",
-    "private/chamsion/jl7016g/sdk/apps/common/update",
-    "private/chamsion/jl7016g/sdk/apps/common/ui/lcd_simple/ui.c",
-    "private/chamsion/jl7016g/sdk/apps/common/ui/lcd_simple/ui_mainmenu.c",
-    "private/chamsion/jl7016g/sdk/apps/common/ui/lcd_simple/lcd_simple_api.c",
-    "private/chamsion/jl7016g/sdk/apps/common/ui/lcd_simple",
-    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
     "private/chamsion/doc/2代眼镜-g5t71/工厂模式/工厂模式6350版本号查询命令说明.md",
-    "private/chamsion/doc/2代眼镜-g5t71/README.md",
-    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
     "posts/git：管理分支.md",
-    "posts/git：删除多个本地提交中间的某个提交.md",
-    "private/daily/2026-08-27（35周）.md",
-    "posts/git：重新编辑某一个提交记录.md",
     "private/daily/2026-08-26（35周）.md",
     "private/daily/2026-08-25（35周）.md",
     "private/chamsion/doc/1代眼镜-g5k61/1代拍照识图/拍照识图传输优化总结.md",
-    "private/chamsion/doc/1代眼镜-g5k61/1代拍照识图/photo_recognize2_app_integration.md",
-    "private/chamsion/doc/1代眼镜-g5k61/ai_voice_spp_ack_protocol.md",
-    "private/chamsion/doc/1代眼镜-g5k61/M1142011078LA - JL7016G Datasheet V1.md",
-    "private/chamsion/doc/1代眼镜-g5k61/电池电量显示与电压阈值.md",
-    "private/daily/2026-08-24（35周）.md",
-    "private/daily/2026-08-22（34周）.md",
-    "posts/git：用dev分支隔离main上的待提交改动.md",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher_round.png",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/ic_launcher_round.png",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/ic_launcher.png",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/drawable-xxhdpi-v4/ic_avatar.png",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher_round.png",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher.png",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/drawable-xxhdpi-v4/img_eq_mode_standard.png",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/drawable-xxhdpi-v4/img_glasses_product.png",
-    "private/chamsion/code/CytG5T7/app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher_round.png",
-    "private/chamsion/doc/2代眼镜-g5t71/低电量禁用/低电量禁用App开发文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/避免写盘满方案/避免写盘满app开发文档.md",
-    "private/daily/2026-08-21（34周）.md"
+    "private/chamsion/doc/1代眼镜-g5k61/1代拍照识图/photo_recognize2_app_integration.md"
   ]
 }
