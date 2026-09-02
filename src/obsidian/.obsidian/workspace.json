@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/daily/2026-09-01（36周）.md",
+                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-09-01（36周）"
+              "title": "备忘"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "git：拉取远程代码时和本地代码有冲突的解决方法"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +200,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rebase",
+                "query": "push",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -234,19 +233,27 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "03c05c15548d24b4",
+  "active": "1bf0dae3df8bff12",
   "lastOpenFiles": [
-    "private/chamsion/code/jl/out/jl7016g/sdk/user/user_ble_ai_voice.h",
-    "private/chamsion/code/jl/out/jl7016g/sdk/user/bluetooth_transport.h",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/user_mic_aec_process.c.o-6000af70",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/user_hfp_sco_vad_monitor.c.o-5a25d2f1",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/user_ble_ai_voice.c.o-8131aa63",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/user_mic_aec_ai.c.o-20875762",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/user_uart_demo.c.o-893db9c7",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/bluetooth_spp_user.c.o-b701cbc5",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/bluetooth_transport.c.o-1eb8c110",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/tp_task.c.o-48897ef4",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/gx8002_voice_task.c.o-b58cfd6a",
+    "posts/git：本地dev推送并同步到远程feature.md",
+    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_imu_trim.c.o",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_imu_trim.c.d",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_effect_tws.c.o",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_effect_tws.c.d",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_effect_test.c.o",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_effect_test.c.d",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_effect_imu.c.o",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_effect_imu.c.d",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_effect.c.o",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_effect.c.d",
+    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
+    "private/daily/2026-09-01（36周）.md",
+    "posts/git：用dev分支隔离main上的待提交改动.md",
+    "posts/git：重新编辑某一个提交记录.md",
+    "posts/git：删除多个本地提交中间的某个提交.md",
+    "private/daily/2026-09-02（36周）.md",
     "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-icon5.png",
     "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-icon4.png",
     "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-icon3.png",
@@ -257,18 +264,11 @@
     "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-edit.png",
     "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-contact-pic4.png",
     "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-contact-pic3.png",
-    "private/daily/2026-09-01（36周）.md",
-    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
-    "posts/git：用dev分支隔离main上的待提交改动.md",
-    "posts/git：删除多个本地提交中间的某个提交.md",
-    "posts/git：重新编辑某一个提交记录.md",
     "private/daily/2026-08-31（36周）.md",
     "private/daily/2026-08-28（35周）.md",
     "private/daily/2026-08-27（35周）.md",
-    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
     "private/chamsion/doc/2代眼镜-g5t71/WiFi_SRRC_Sideband_wifi_set_power_cfg_Debug_Guide(1).md",
     "private/chamsion/doc/2代眼镜-g5t71/README.md",
-    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
     "private/chamsion/doc/2代眼镜-g5t71/翻译录音_App对接文档.md",
     "private/chamsion/doc/2代眼镜-g5t71/AI录音-对端开发文档(3).md",
     "private/chamsion/doc/1代眼镜-g5k61/ai_voice_spp_ack_protocol.md",
@@ -280,7 +280,6 @@
     "posts/git：管理分支.md",
     "private/daily/2026-08-26（35周）.md",
     "private/daily/2026-08-25（35周）.md",
-    "private/chamsion/doc/1代眼镜-g5k61/1代拍照识图/拍照识图传输优化总结.md",
-    "private/chamsion/doc/1代眼镜-g5k61/1代拍照识图/photo_recognize2_app_integration.md"
+    "private/chamsion/doc/1代眼镜-g5k61/1代拍照识图/拍照识图传输优化总结.md"
   ]
 }
