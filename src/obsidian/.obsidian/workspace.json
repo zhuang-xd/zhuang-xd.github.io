@@ -235,8 +235,11 @@
   },
   "active": "1bf0dae3df8bff12",
   "lastOpenFiles": [
-    "posts/git：本地dev推送并同步到远程feature.md",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/2026-09-03_20_15_01_crash_log.txt",
+    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
+    "private/daily/2026-09-03（36周）.md",
     "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+    "posts/git：本地dev推送并同步到远程feature.md",
     "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
     "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_imu_trim.c.o",
     "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_imu_trim.c.d",
@@ -248,7 +251,6 @@
     "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_effect_imu.c.d",
     "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_effect.c.o",
     "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_effect.c.d",
-    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
     "private/daily/2026-09-01（36周）.md",
     "posts/git：用dev分支隔离main上的待提交改动.md",
     "posts/git：重新编辑某一个提交记录.md",
@@ -278,8 +280,6 @@
     "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率app开发文档.md",
     "private/chamsion/doc/2代眼镜-g5t71/工厂模式/工厂模式6350版本号查询命令说明.md",
     "posts/git：管理分支.md",
-    "private/daily/2026-08-26（35周）.md",
-    "private/daily/2026-08-25（35周）.md",
-    "private/chamsion/doc/1代眼镜-g5k61/1代拍照识图/拍照识图传输优化总结.md"
+    "private/daily/2026-08-26（35周）.md"
   ]
 }
