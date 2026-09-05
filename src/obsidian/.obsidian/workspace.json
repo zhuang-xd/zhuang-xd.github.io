@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1bf0dae3df8bff12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "备忘"
-            }
-          },
-          {
             "id": "6b1cd22cbe012b48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
+                "file": "private/daily/2026-09-04（36周）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "git：拉取远程代码时和本地代码有冲突的解决方法"
+              "title": "2026-09-04（36周）"
             }
           }
         ]
@@ -200,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "push",
+                "query": "2026-09-0",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -233,29 +209,37 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1bf0dae3df8bff12",
+  "active": "6b1cd22cbe012b48",
   "lastOpenFiles": [
+    "private/daily/2026-09-01（36周）.md",
+    "private/daily/2026-09-02（36周）.md",
+    "private/daily/2026-09-03（36周）.md",
+    "private/daily/2026-09-04（36周）.md",
+    "posts/git：重新编辑某一个提交记录.md",
+    "posts/git：删除多个本地提交中间的某个提交.md",
+    "posts/git：用dev分支隔离main上的待提交改动.md",
+    "private/chamsion/doc/智能眼镜按键及交互定义V1.3.pdf",
+    "private/chamsion/doc/2代眼镜-g5t71/WiFi_SRRC_Sideband_wifi_set_power_cfg_Debug_Guide(1).md",
+    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+    "private/chamsion/doc/2代眼镜-g5t71/ai识图/智能图像识别_App端开发文档.md",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/glass_test_bin/algo_manifest.json",
+    "private/chamsion/doc/2代眼镜-g5t71/ai识图/智能图像识别_拍照识图流程总结.md",
+    "private/chamsion/code/jl/out/CytG5K6-ble - 副本/docs/shabing/拍照识图指令0x70.md",
+    "private/daily/2026-08-20（34周）.md",
+    "private/chamsion/doc/2代眼镜-g5t71/低电量禁用/低电量禁用设计方案.md",
+    "private/chamsion/doc/2代眼镜-g5t71/低电量禁用/低电量禁用App开发文档.md",
+    "private/chamsion/code/jl/out/CytG5K6-ble/docs/wifi_p2p_media_download_zh.md",
+    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/2026-09-04_01_09_46_crash_log.txt",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/2026-09-04_12_57_25_crash_log.txt",
+    "private/chamsion/doc/2代眼镜-g5t71/原理图/G5T7_MB_SCH_V1.4_2025_1225_2110.pdf",
+    "private/chamsion/doc/2代眼镜-g5t71/原理图",
     "private/chamsion/tools/glass_v2/tdbg_v1.2.1/2026-09-03_20_15_01_crash_log.txt",
     "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
-    "private/daily/2026-09-03（36周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
     "posts/git：本地dev推送并同步到远程feature.md",
-    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
     "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_imu_trim.c.o",
     "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_imu_trim.c.d",
     "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_effect_tws.c.o",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_effect_tws.c.d",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_effect_test.c.o",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_effect_test.c.d",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_effect_imu.c.o",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_effect_imu.c.d",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_effect.c.o",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/spatial_effect/spatial_effect.c.d",
-    "private/daily/2026-09-01（36周）.md",
-    "posts/git：用dev分支隔离main上的待提交改动.md",
-    "posts/git：重新编辑某一个提交记录.md",
-    "posts/git：删除多个本地提交中间的某个提交.md",
-    "private/daily/2026-09-02（36周）.md",
     "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-icon5.png",
     "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-icon4.png",
     "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-icon3.png",
@@ -269,17 +253,8 @@
     "private/daily/2026-08-31（36周）.md",
     "private/daily/2026-08-28（35周）.md",
     "private/daily/2026-08-27（35周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/WiFi_SRRC_Sideband_wifi_set_power_cfg_Debug_Guide(1).md",
     "private/chamsion/doc/2代眼镜-g5t71/README.md",
     "private/chamsion/doc/2代眼镜-g5t71/翻译录音_App对接文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/AI录音-对端开发文档(3).md",
-    "private/chamsion/doc/1代眼镜-g5k61/ai_voice_spp_ack_protocol.md",
-    "private/chamsion/doc/1代眼镜-g5k61/M1142011078LA - JL7016G Datasheet V1.md",
-    "private/chamsion/doc/2代眼镜-g5t71/功耗测试/功耗测试.md",
-    "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率开发设计文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率app开发文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/工厂模式/工厂模式6350版本号查询命令说明.md",
-    "posts/git：管理分支.md",
-    "private/daily/2026-08-26（35周）.md"
+    "private/chamsion/doc/2代眼镜-g5t71/AI录音-对端开发文档(3).md"
   ]
 }
