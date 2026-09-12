@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dad505658c942ab5",
+        "id": "299aceb7123ce175",
         "type": "tabs",
         "children": [
           {
-            "id": "9f2d63d27969fb17",
+            "id": "7d824b6da3948044",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+                "file": "private/daily/2026-09-04（36周）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "备忘"
+              "title": "2026-09-04（36周）"
             }
           }
         ]
@@ -176,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "push",
+                "query": "电量",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -209,14 +209,19 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9f2d63d27969fb17",
+  "active": "7d824b6da3948044",
   "lastOpenFiles": [
+    "private/daily/2026-08-20（34周）.md",
+    "private/chamsion/doc/智能眼镜常见问题 V1.0 20260911.pdf",
+    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+    "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率开发设计文档.md",
+    "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率app开发文档.md",
+    "private/daily/2026-09-11（37周）.md",
     "private/chamsion/tools/logo/chamsion.png",
     "private/chamsion/tools/logo",
     "private/chamsion/tools/新建文件夹",
     "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
     "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
-    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
     "private/daily/2026-09-09（37周）.md",
     "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/pil_algo_ifly_glasses_wakeup.dll",
     "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/pil_algo_ifly_glasses_nr.dll",
@@ -225,11 +230,8 @@
     "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/ota_boot_remap_7eb2e4fb26_nse_0827.bin",
     "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/cp_subsys_bth.bin",
     "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/bth_core.bin",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/best1700_watch_opt1.bin",
     "posts/git：重新编辑某一个提交记录.md",
     "posts/git：用dev分支隔离main上的待提交改动.md",
-    "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率开发设计文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率app开发文档.md",
     "private/chamsion/doc/2代眼镜-g5t71/翻译录音_App对接文档.md",
     "posts/git：删除多个本地提交中间的某个提交.md",
     "private/daily/2026-09-08（37周）.md",
@@ -241,7 +243,6 @@
     "private/chamsion/doc/2代眼镜-g5t71/ai识图/智能图像识别_App端开发文档.md",
     "private/chamsion/doc/2代眼镜-g5t71/ai识图/智能图像识别_拍照识图流程总结.md",
     "private/chamsion/code/jl/out/CytG5K6-ble - 副本/docs/shabing/拍照识图指令0x70.md",
-    "private/daily/2026-08-20（34周）.md",
     "private/chamsion/doc/2代眼镜-g5t71/低电量禁用/低电量禁用设计方案.md",
     "private/chamsion/doc/2代眼镜-g5t71/低电量禁用/低电量禁用App开发文档.md",
     "private/chamsion/code/jl/out/CytG5K6-ble/docs/wifi_p2p_media_download_zh.md",
@@ -254,8 +255,6 @@
     "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-glass1.png",
     "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-glass.png",
     "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-edit.png",
-    "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-contact-pic4.png",
-    "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-contact-pic3.png",
-    "private/daily/2026-08-31（36周）.md"
+    "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-contact-pic4.png"
   ]
 }
