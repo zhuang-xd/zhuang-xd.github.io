@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/daily/2026-09-04（36周）.md",
+                "file": "posts/git：重新编辑某一个提交记录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-09-04（36周）"
+              "title": "git：重新编辑某一个提交记录"
             }
           }
         ]
@@ -176,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "电量",
+                "query": "rebase",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -211,31 +211,31 @@
   },
   "active": "7d824b6da3948044",
   "lastOpenFiles": [
+    "posts/git：删除多个本地提交中间的某个提交.md",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL/tdbg_v1.2.1/cfg/adb_client_cfg.json",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL/tdbg_v1.2.1/usage.txt",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL/tdbg_v1.2.1/tgdb.exe",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL/tdbg_v1.2.1/push_dll_to_emmc2.bat",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL/tdbg_v1.2.1/cfg",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL/lily_test_bin/lily.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL/lily_test_bin/pil_algo_vad_demo.dll",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL/lily_test_bin/ota_boot_watch.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL/lily_test_bin/ota_boot_remap_1700_11eb20a3f2_20250514.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL/lily_test_bin/bth_core.bin",
+    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
+    "posts/git：重新编辑某一个提交记录.md",
+    "posts/git：用dev分支隔离main上的待提交改动.md",
+    "private/daily/2026-09-04（36周）.md",
     "private/daily/2026-08-20（34周）.md",
-    "private/chamsion/doc/智能眼镜常见问题 V1.0 20260911.pdf",
     "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
     "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率开发设计文档.md",
     "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率app开发文档.md",
     "private/daily/2026-09-11（37周）.md",
     "private/chamsion/tools/logo/chamsion.png",
-    "private/chamsion/tools/logo",
-    "private/chamsion/tools/新建文件夹",
-    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
     "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
     "private/daily/2026-09-09（37周）.md",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/pil_algo_ifly_glasses_wakeup.dll",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/pil_algo_ifly_glasses_nr.dll",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/pil_algo_ifly_glasses_fanyi.dll",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/ota_boot_watch.bin",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/ota_boot_remap_7eb2e4fb26_nse_0827.bin",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/cp_subsys_bth.bin",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/bth_core.bin",
-    "posts/git：重新编辑某一个提交记录.md",
-    "posts/git：用dev分支隔离main上的待提交改动.md",
     "private/chamsion/doc/2代眼镜-g5t71/翻译录音_App对接文档.md",
-    "posts/git：删除多个本地提交中间的某个提交.md",
     "private/daily/2026-09-08（37周）.md",
-    "private/daily/2026-09-04（36周）.md",
     "private/daily/2026-09-01（36周）.md",
     "private/daily/2026-09-02（36周）.md",
     "private/daily/2026-09-03（36周）.md",
