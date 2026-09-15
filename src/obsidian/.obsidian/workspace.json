@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "299aceb7123ce175",
+        "id": "b7f35d1b20ccc2ec",
         "type": "tabs",
         "children": [
           {
-            "id": "7d824b6da3948044",
+            "id": "fa991036f6a0d354",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
+                "file": "posts/git：重新编辑某一个提交记录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "备忘"
+              "title": "git：重新编辑某一个提交记录"
             }
           }
         ]
@@ -176,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "logcat",
+                "query": "rebase",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -209,8 +209,23 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7d824b6da3948044",
+  "active": "fa991036f6a0d354",
   "lastOpenFiles": [
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/update-V02.01.01.98-beta1-J.img",
+    "private/chamsion/code/test/CytG5K6-ble/README.md",
+    "private/chamsion/code/test/CytG5K6-ble/docs/ble_ai_voice_opus_protocol.md",
+    "posts/未命名.md",
+    "private/daily/2026-07-30（31周）.md",
+    "private/daily/2026-07-31（31周）.md",
+    "private/daily/2026-08-01（31周）.md",
+    "private/daily/2026-09-15（38周）.md",
+    "private/daily/2026-08-18（34周）.md",
+    "private/daily/2026-08-22（34周）.md",
+    "private/chamsion/doc/2代眼镜-g5t71/AI录音-对端开发文档(3).md",
+    "private/chamsion/doc/2代眼镜-g5t71/配对模式app文档(1).md",
+    "private/chamsion/tools/glass_v1/3303_burn/~$K6烧录步骤.doc",
+    "private/chamsion/tools/glass_v1/3303_burn/~$3303烧录接线说明.doc",
+    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
     "private/chamsion/code/test/CytG5K6-ble/app333.log",
     "private/chamsion/code/test/CytG5K6-ble/app222.log",
     "private/chamsion/code/jl/out/CytG5K6-ble/app111_utf8.log",
@@ -219,9 +234,6 @@
     "private/chamsion/code/jl/out/CytG5K6-ble/tools/tmp/app_utf8.log",
     "private/chamsion/code/jl/out/CytG5K6-ble/tools/tmp",
     "private/chamsion/code/test/CytG5K6-ble/app.log",
-    "private/chamsion/code/test/CytG5K6-ble/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_788c6096124e9fb441a31ef12e8a3ddcc2ea9bfb0d3fedc07168086772929fe7_bucket_1/graph.bin",
-    "private/chamsion/code/test/CytG5K6-ble/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_788c6096124e9fb441a31ef12e8a3ddcc2ea9bfb0d3fedc07168086772929fe7_bucket_1",
-    "private/chamsion/code/test/CytG5K6-ble/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_788c6096124e9fb441a31ef12e8a3ddcc2ea9bfb0d3fedc07168086772929fe7_bucket_0/graph.bin",
     "private/chamsion/code/test/CytG5K6-ble/docs/shabing/拍照识图指令0x70.md",
     "private/chamsion/code/test/CytG5K6-ble/docs/shabing/拍照识图分辨率设置指令0x71.md",
     "private/chamsion/code/test/CytG5K6-ble/docs/shabing/WIFI热点开启指令0x37.md",
@@ -235,18 +247,6 @@
     "private/chamsion/code/test/CytG5K6-ble/docs/sd_disk_usage_app_developer.md",
     "private/chamsion/code/test/CytG5K6-ble/docs/photo_recognize_app_developer.md",
     "private/chamsion/code/test/CytG5K6-ble/docs/device_status_query_0x72_protocol.md",
-    "private/chamsion/code/test/CytG5K6-ble/docs/photo_recognize2_0x70_protocol.md",
-    "private/chamsion/code/test/CytG5K6-ble/docs/photo_recognize2_0x71_resolution.md",
-    "private/chamsion/code/test/CytG5K6-ble/docs/ai_voice_protocol.md",
-    "private/chamsion/code/test/CytG5K6-ble/docs/ble_ai_voice_opus_protocol.md",
-    "private/chamsion/code/test/CytG5K6-ble/docs/app_media_control_0x6a_protocol.md",
-    "private/chamsion/code/test/CytG5K6-ble/docs/ai_voice_and_translate_protocol.md",
-    "private/chamsion/code/test/CytG5K6-ble/README.md",
-    "private/chamsion/code/test/CytG5K6-ble/AI语音数据解析与开发指南.md",
-    "private/chamsion/code/CytG5K6-ble/docs/shabing/photo_recognize2_spp_frame_parsing_developer.md",
-    "private/chamsion/code/CytG5K6-ble/docs/shabing/拍照识图指令0x70.md",
-    "private/chamsion/code/CytG5K6-ble/docs/shabing/拍照识图分辨率设置指令0x71.md",
-    "private/chamsion/code/CytG5K6-ble/docs/shabing/WIFI热点开启指令0x37.md",
     "private/chamsion/tools/logo/chamsion.png",
     "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-icon5.png",
     "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-icon4.png",
