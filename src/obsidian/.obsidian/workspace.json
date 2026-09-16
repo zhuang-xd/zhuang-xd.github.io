@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/git：重新编辑某一个提交记录.md",
+                "file": "private/chamsion/doc/2代眼镜-g5t71/eq/EQ_SW_IIR_修改不生效可能的原因分析.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "git：重新编辑某一个提交记录"
+              "title": "EQ_SW_IIR_修改不生效可能的原因分析"
             }
           }
         ]
@@ -176,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rebase",
+                "query": "备忘",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -211,7 +211,20 @@
   },
   "active": "fa991036f6a0d354",
   "lastOpenFiles": [
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/update-V02.01.01.98-beta1-J.img",
+    "private/chamsion/doc/2代眼镜-g5t71/eq/音频EQ工具用户指南_v3.5.3_中文版.pdf",
+    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/video_20260916_144642.mp4",
+    "private/daily/2026-09-16（38周）.md",
+    "posts/git：重新编辑某一个提交记录.md",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL/bth_core.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL/best1700_watch_opt1.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL/best1700_glass.bin",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL/algo_manifest.json",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL/algo_local.json",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL/pil_sco_down_algo.dll",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL/pil_ns4_algo_normal.dll",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL/pil_algo_vad_demo.dll",
+    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL/pil_algo_ifly_glasses_wakeup.dll",
     "private/chamsion/code/test/CytG5K6-ble/README.md",
     "private/chamsion/code/test/CytG5K6-ble/docs/ble_ai_voice_opus_protocol.md",
     "posts/未命名.md",
@@ -223,17 +236,7 @@
     "private/daily/2026-08-22（34周）.md",
     "private/chamsion/doc/2代眼镜-g5t71/AI录音-对端开发文档(3).md",
     "private/chamsion/doc/2代眼镜-g5t71/配对模式app文档(1).md",
-    "private/chamsion/tools/glass_v1/3303_burn/~$K6烧录步骤.doc",
-    "private/chamsion/tools/glass_v1/3303_burn/~$3303烧录接线说明.doc",
     "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
-    "private/chamsion/code/test/CytG5K6-ble/app333.log",
-    "private/chamsion/code/test/CytG5K6-ble/app222.log",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app111_utf8.log",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app111.log",
-    "private/chamsion/code/test/CytG5K6-ble/app111.log",
-    "private/chamsion/code/jl/out/CytG5K6-ble/tools/tmp/app_utf8.log",
-    "private/chamsion/code/jl/out/CytG5K6-ble/tools/tmp",
-    "private/chamsion/code/test/CytG5K6-ble/app.log",
     "private/chamsion/code/test/CytG5K6-ble/docs/shabing/拍照识图指令0x70.md",
     "private/chamsion/code/test/CytG5K6-ble/docs/shabing/拍照识图分辨率设置指令0x71.md",
     "private/chamsion/code/test/CytG5K6-ble/docs/shabing/WIFI热点开启指令0x37.md",
@@ -244,9 +247,6 @@
     "private/chamsion/code/test/CytG5K6-ble/docs/wifi_hotspot_app_developer.md",
     "private/chamsion/code/test/CytG5K6-ble/docs/wifi_hotspot_0x37_protocol.md",
     "private/chamsion/code/test/CytG5K6-ble/docs/translate_recording_protocol.md",
-    "private/chamsion/code/test/CytG5K6-ble/docs/sd_disk_usage_app_developer.md",
-    "private/chamsion/code/test/CytG5K6-ble/docs/photo_recognize_app_developer.md",
-    "private/chamsion/code/test/CytG5K6-ble/docs/device_status_query_0x72_protocol.md",
     "private/chamsion/tools/logo/chamsion.png",
     "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-icon5.png",
     "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-icon4.png",
