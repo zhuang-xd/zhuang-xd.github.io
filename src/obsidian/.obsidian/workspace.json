@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/chamsion/doc/1代眼镜-g5k61/协议/BLE_WIFI传输协议源码实现分析.md",
+                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BLE_WIFI传输协议源码实现分析"
+              "title": "备忘"
             }
           }
         ]
@@ -176,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "takephoto0",
+                "query": "push",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -211,6 +211,20 @@
   },
   "active": "3bc2a8b0f40003e2",
   "lastOpenFiles": [
+    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
+    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/1999-11-30_05_22_36_crash_log.txt",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/2026-09-23_17_02_41_sys_log.txt",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/2026-09-23_17_01_09_sys_log.txt",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/新建文件夹/1999-11-30_05_19_45_sys_log.txt",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/新建文件夹",
+    "private/chamsion/code/jl/out/CytG5K6-ble/app123.log",
+    "private/daily/2026-09-23（39周）.md",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/1999-11-30_05_22_36_crash_log.txt",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/1999-11-30_05_19_45_sys_log.txt",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/__pycache__/pull_logs.cpython-312.pyc",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/__pycache__",
+    "private/chamsion/doc/1代眼镜-g5k61/协议/BLE_WIFI传输协议源码实现分析.md",
     "private/chamsion/doc/2代眼镜-g5t71/eq/音效模式接口与实现计划.md",
     "private/chamsion/doc/2代眼镜-g5t71/eq/eq_dev/音效模式接口与实现计划.md",
     "private/chamsion/doc/2代眼镜-g5t71/设备状态/设备状态模块实现计划.md",
@@ -220,20 +234,7 @@
     "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
     "posts/git：删除多个本地提交中间的某个提交.md",
     "private/chamsion/doc/1代眼镜-g5k61/协议/3303_OTA流程与App接口说明.md",
-    "private/chamsion/doc/智能眼镜按键及交互定义V1.3.pdf",
-    "private/chamsion/doc/智能眼镜常见问题 V1.0 20260911.pdf",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/pullgui.bat",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/tgdb-gui.bat",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/__pycache__/pull_logs.cpython-312.pyc",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/__pycache__",
-    "private/chamsion/doc/1代眼镜-g5k61/协议/BLE_WIFI传输协议源码实现分析.md",
     "private/chamsion/doc/1代眼镜-g5k61/协议/bak.md",
-    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/拍照失败/2026-09-20_18_21_38_sys_log.txt",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/拍照失败/2026-09-20_18_15_05_sys_log.txt",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/拍照失败/2026-09-20_18_10_51_sys_log.txt",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/拍照失败",
-    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
     "posts/git：重新编辑某一个提交记录.md",
     "posts/git：用dev分支隔离main上的待提交改动.md",
     "private/daily/2026-09-21（39周）.md",
@@ -247,8 +248,6 @@
     "private/chamsion/code/jl/out/CytG5K6-ble/docs/guide_0x81_protocol.md",
     "private/chamsion/code/jl/out/CytG5K6-ble/README.md",
     "private/chamsion/code/jl/out/CytG5K6-ble/docs/shabing/拍照识图指令0x70.md",
-    "private/chamsion/code/jl/out/CytG5K6-ble/docs/shabing/拍照识图分辨率设置指令0x71.md",
-    "private/chamsion/code/jl/out/CytG5K6-ble/docs/shabing/device_status_query_0x72_protocol.md",
     "private/chamsion/tools/auto-restart/send_btn.png",
     "private/chamsion/tools/auto/send_btn.png",
     "private/chamsion/tools/logo/chamsion.png",
