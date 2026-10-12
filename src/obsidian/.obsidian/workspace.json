@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/ai识图/智能图像识别_拍照识图流程总结.md",
+                "file": "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "智能图像识别_拍照识图流程总结"
+              "title": "git：拉取远程代码时和本地代码有冲突的解决方法"
             }
           }
         ],
@@ -201,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "imgrecset0",
+                "query": "rebase",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -236,26 +236,29 @@
   },
   "active": "87cf50293f0084b5",
   "lastOpenFiles": [
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL2/flash-menu-template-2800BPZE7-Glass-test-bin-0186.bat",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616_DLL2/flash-menu-template-2800BPZE7-Glass-test-bin-0269 - 副本.bat",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/outputs/apk/debug/g5k6-demo.apk",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/outputs/apk/debug/app-debug.apk",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/outputs/apk/debug",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/intermediates/project_dex_archive/debug/out/b004b5f5d9f894039258ca7f3556756e899efff9f24717e8b798cec840968b55_1.jar",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/intermediates/project_dex_archive/debug/out/b004b5f5d9f894039258ca7f3556756e899efff9f24717e8b798cec840968b55_6.jar",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/intermediates/project_dex_archive/debug/out/b004b5f5d9f894039258ca7f3556756e899efff9f24717e8b798cec840968b55_2.jar",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/intermediates/project_dex_archive/debug/out/b004b5f5d9f894039258ca7f3556756e899efff9f24717e8b798cec840968b55_8.jar",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/intermediates/processed_res/debug/out/output-metadata.json",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt",
-    "private/chamsion/doc/2代眼镜-g5t71/eq/音效模式接口与实现计划.md",
-    "private/chamsion/doc/2代眼镜-g5t71/eq/eq_dev/音效模式接口与实现计划.md",
+    "private/chamsion/tools/glass_v1/NCDownloader_v4.0.0/~$芯片烧录指导-20260324.docx",
+    "private/chamsion/tools/glass_v1/NCDownloader_v4.0.0/log/log_20261012.txt",
     "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
-    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
-    "posts/git：重新编辑某一个提交记录.md",
     "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
+    "posts/git：重新编辑某一个提交记录.md",
     "posts/git：删除多个本地提交中间的某个提交.md",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/47a6f15237e52d364ce9c1e7fd23d0ff.jpg",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/aiglass_http_log_20261012_134325.txt",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/aiglass_ble_log_20261012_134319.txt",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/aiglass_wifi_log_20261012_134311.txt",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/aiglass_connect_log_20261012_134259.txt",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/2026-10-12_12_05_42_sys_log.txt",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/2026-10-12_11_57_38_sys_log.txt",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/2026-10-12_13_42_40_sys_log.txt",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/2026-10-12_13_27_22_sys_log.txt",
     "private/chamsion/doc/2代眼镜-g5t71/README.md",
     "private/chamsion/doc/2代眼镜-g5t71/翻译录音_App对接文档.md",
+    "posts/git：用dev分支隔离main上的待提交改动.md",
+    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/[QCL-SHM] [QCL-SHM] CRC fail cmd=0x20/2026-10-12_11_04_16_sys_log.txt",
+    "private/chamsion/doc/2代眼镜-g5t71/ai识图/智能图像识别_拍照识图流程总结.md",
+    "private/chamsion/doc/2代眼镜-g5t71/eq/音效模式接口与实现计划.md",
+    "private/chamsion/doc/2代眼镜-g5t71/eq/eq_dev/音效模式接口与实现计划.md",
+    "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
     "posts/git：本地dev推送并同步到远程feature.md",
     "private/chamsion/info/2026/w-39/竖线/_thumb_377208.png",
     "private/chamsion/info/2026/w-39/log_analysis9/连不上热点根因分析_20260928_2150.md",
@@ -264,7 +267,6 @@
     "private/daily/2026-09-30（40周）.md",
     "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/trush/fix/设备端导图完成，但app做算法期间持续开启wifi期间app提示wifi断连/a3d5d2c3a278598c65920bbc4f8a7332.jpg",
     "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/fix/设备端导图完成，但app做算法期间持续开启wifi期间app提示wifi断连/a3d5d2c3a278598c65920bbc4f8a7332.jpg",
-    "posts/git：用dev分支隔离main上的待提交改动.md",
     "private/daily/2026-09-28（40周）.md",
     "private/daily/2026-09-23（39周）.md",
     "private/chamsion/doc/1代眼镜-g5k61/协议/BLE_WIFI传输协议源码实现分析.md",
@@ -275,12 +277,10 @@
     "private/chamsion/doc/1代眼镜-g5k61/协议/bak.md",
     "private/daily/2026-09-21（39周）.md",
     "private/chamsion/code/jl/out/CytG5K6-ble/AI语音数据解析与开发指南.md",
-    "private/chamsion/doc/1代眼镜-g5k61/协议/bak - 副本.md",
     "private/chamsion/tools/glass_v2/script/send_btn.png",
     "private/chamsion/tools/script/send_btn.png",
     "private/chamsion/tools/auto-restart/send_btn.png",
     "private/chamsion/tools/auto/send_btn.png",
-    "private/chamsion/tools/logo/chamsion.png",
-    "private/chamsion/tools/apk/work/moco_src/assets/apps/__UNI__03B27DD/www/static/imgs/index-icon5.png"
+    "private/chamsion/tools/logo/chamsion.png"
   ]
 }
