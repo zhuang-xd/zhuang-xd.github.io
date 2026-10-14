@@ -35,12 +35,24 @@
             "id": "87cf50293f0084b5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "private/chamsion/doc/1代眼镜-g5k61/手册/G5K6_MB_SCH_V3.0-2026_0119.pdf"
+                "file": "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "G5K6_MB_SCH_V3.0-2026_0119"
+              "icon": "lucide-file",
+              "title": "备忘"
             }
           }
         ],
@@ -189,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "杰理",
+                "query": "logcat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -222,8 +234,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "03c05c15548d24b4",
+  "active": "87cf50293f0084b5",
   "lastOpenFiles": [
+    "private/chamsion/code/jl/out/CytG5K6-ble/app1014.log",
+    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
+    "posts/git：用dev分支隔离main上的待提交改动.md",
+    "private/daily/2026-10-14（42周）.md",
+    "private/chamsion/doc/1代眼镜-g5k61/手册/G5K6_MB_SCH_V3.0-2026_0119.pdf",
     "private/chamsion/tools/glass_v2/untrunc_x64/video_20261013_204800.mp4",
     "private/chamsion/tools/glass_v2/untrunc_x64/untrunc-gui.exe",
     "private/chamsion/tools/glass_v2/untrunc_x64/AVCODEC-57.DLL",
@@ -233,18 +251,13 @@
     "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/update.ufw",
     "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/anc_gains.bin",
     "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/anc_coeff.bin",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/br28loader.bin",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/p11_code.bin",
     "private/chamsion/doc/1代眼镜-g5k61/操作指南/富瀚烧录.md",
     "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
-    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
-    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
     "posts/git：重新编辑某一个提交记录.md",
     "posts/git：删除多个本地提交中间的某个提交.md",
     "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/47a6f15237e52d364ce9c1e7fd23d0ff.jpg",
     "private/chamsion/doc/2代眼镜-g5t71/README.md",
     "private/chamsion/doc/2代眼镜-g5t71/翻译录音_App对接文档.md",
-    "posts/git：用dev分支隔离main上的待提交改动.md",
     "private/chamsion/doc/2代眼镜-g5t71/ai识图/智能图像识别_拍照识图流程总结.md",
     "private/chamsion/doc/2代眼镜-g5t71/eq/音效模式接口与实现计划.md",
     "private/chamsion/doc/2代眼镜-g5t71/eq/eq_dev/音效模式接口与实现计划.md",
@@ -264,7 +277,6 @@
     "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率开发设计文档.md",
     "private/chamsion/doc/2代眼镜-g5t71/避免写盘满方案/避免写盘满设计方案.md",
     "private/chamsion/doc/1代眼镜-g5k61/协议/bak.md",
-    "private/daily/2026-09-21（39周）.md",
     "private/chamsion/tools/glass_v2/script/send_btn.png",
     "private/chamsion/tools/script/send_btn.png",
     "private/chamsion/tools/auto-restart/send_btn.png",

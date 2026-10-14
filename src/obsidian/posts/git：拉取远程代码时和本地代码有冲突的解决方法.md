@@ -17,7 +17,7 @@ star: false
 避免生成merge的脏commit，会把本地的 commit，**整体挪到** 远程的 commit 的最新进度后面，保持一条直线。
 
 ```bash
-git pull --rebase origin master
+git pull --rebase origin develop
 ```
 
 ### 方法2： 保留本地修改，并合并远程更新
