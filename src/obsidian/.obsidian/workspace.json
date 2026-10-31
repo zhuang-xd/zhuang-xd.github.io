@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "99b6af63d8be8628",
+        "id": "39415c557bb1fc94",
         "type": "tabs",
         "children": [
           {
-            "id": "852f5d4a6b14b9d6",
+            "id": "7c1545e19c68c783",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+                "file": "posts/git：重新编辑某一个提交记录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,107 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "备忘"
-            }
-          },
-          {
-            "id": "a9bd101fdb5cf34c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/daily/2026-10-21（43周）.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-10-21（43周）"
-            }
-          },
-          {
-            "id": "53b2e7c7214b9ed0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "备忘"
-            }
-          },
-          {
-            "id": "72e4c5e4886b5a6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/充电状态主动上报/充电状态主动上报App对接文档.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "充电状态主动上报App对接文档"
-            }
-          },
-          {
-            "id": "6b6498066e2dd42b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "git：拉取远程代码时和本地代码有冲突的解决方法"
+              "title": "git：重新编辑某一个提交记录"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pull",
+                "query": "rebase ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -306,23 +209,31 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6b6498066e2dd42b",
+  "active": "7c1545e19c68c783",
   "lastOpenFiles": [
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/update-1029-2141.ufw",
+    "private/chamsion/tools/glass_v1/3303_burn/g5k6_Flash.img",
+    "private/chamsion/tools/glass_v1/3303_burn/g5k6_uImage.img",
+    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/update-1030-1736.ufw",
     "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/null",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/sdk.elf",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/trans/CytTrans_core.c.o",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/apps/earphone/sdk_version.z.S.o",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/trans/CytTrans_core.c.o-3a9fe978",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/trans/CytTrans_audio_capture.c.o",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/trans/CytTrans_audio_capture.c.o-2d9046ad",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/trans/CytTrans_core.c.d",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/low_power_debug.c.o",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/apps/earphone/sdk_version.z.S.d",
-    "private/chamsion/doc/2代眼镜-g5t71/README.md",
-    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
+    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/bank20.bin",
+    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/bank19.bin",
+    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/bank18.bin",
+    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/bank17.bin",
+    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/bank16.bin",
+    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/bank15.bin",
+    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/bank14.bin",
+    "posts/git：删除多个本地提交中间的某个提交.md",
+    "private/daily/2026-10-30（44周）.md",
+    "posts/git：重新编辑某一个提交记录.md",
     "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
+    "private/daily/2026-10-21（43周）.md",
     "private/chamsion/doc/2代眼镜-g5t71/充电状态主动上报/充电状态主动上报App对接文档.md",
+    "private/chamsion/code/test/CytG5K6-ble/docs/wifi_hotspot_app_developer.md",
+    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
+    "private/chamsion/code/jl/out/jl7016g/out_ble3_lp2/README.md",
+    "private/chamsion/code/jl/out/jl7016g/out_ble3_lp/README.md",
+    "private/chamsion/code/jl/out/jl7016g/out_ble3_fast/README.md",
+    "private/chamsion/doc/2代眼镜-g5t71/README.md",
     "private/chamsion/doc/2代眼镜-g5t71/电量主动上报/电量主动上报app对接文档.md",
     "private/chamsion/doc/2代眼镜-g5t71/电量主动上报/电量主动上报设计计划.md",
     "private/chamsion/doc/1代眼镜-g5k61/1代拍照识图/拍照识图传输优化总结.md",
@@ -336,14 +247,6 @@
     "private/chamsion/doc/1代眼镜-g5k61/富瀚图像调试.md",
     "private/chamsion/doc/1代眼镜-g5k61/电池电量显示与电压阈值.md",
     "private/chamsion/doc/1代眼镜-g5k61/备忘.md",
-    "private/chamsion/doc/2代眼镜-g5t71/充电状态主动上报/充电状态主动上报设计方案.md",
-    "private/chamsion/doc/2代眼镜-g5t71/充电状态主动上报/firmware_20261027_chargestat_v2/README.md",
-    "private/daily/2026-10-28（44周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/充电状态主动上报/firmware_20261027_chargediag/README.md",
-    "private/chamsion/doc/2代眼镜-g5t71/充电状态主动上报/firmware_20261027_chargestat/README.md",
-    "private/daily/2026-10-24（43周）.md",
-    "private/daily/2026-10-26（44周）.md",
-    "private/daily/2026-10-21（43周）.md",
     "attachments/images/418935dfccfb4eef2d5c5bb1287d316b.png",
     "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/trush/47a6f15237e52d364ce9c1e7fd23d0ff.jpg",
     "attachments/images/Pasted image 20261021173223.png",
