@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
+                "file": "private/chamsion/doc/1代眼镜-g5k61/总结/G5K6-7016固件功能开发总结-zhuangxiaodong.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "git：拉取远程代码时和本地代码有冲突的解决方法"
+              "title": "G5K6-7016固件功能开发总结-zhuangxiaodong"
             }
           }
         ]
@@ -210,18 +210,20 @@
   },
   "active": "7c1545e19c68c783",
   "lastOpenFiles": [
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/cpu/br28/smart_voice/aispeech_asr.c.o",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/apps/earphone/wireless_mic/process/adapter_process.c.o",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/apps/earphone/wireless_mic/process/adapter_process.c.d",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/apps/earphone/wireless_mic/process",
     "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/update.ufw",
-    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/update-1105-1748.ufw",
+    "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/update-1106-1523.ufw",
     "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/download/earphone/null",
     "private/chamsion/code/jl/out/jl7016g/sdk/cpu/br28/tools/sdk.elf",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/apps/earphone/sdk_version.z.S.o",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/trans/CytTrans_core.c.o",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/trans/CytTrans_audio_capture.c.o",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/user_ble_ai_voice.c.o",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/user_mic_aec_process.c.o",
     "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/low_power_debug.c.o",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/trans/CytTrans_core.c.d",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/user_mic_aec_ai.c.o",
+    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/user_uart_demo.c.o",
     "private/chamsion/doc/2代眼镜-g5t71/总结/G5T7-2800固件功能开发总结-zhuangxiaodong.md",
+    "private/chamsion/doc/1代眼镜-g5k61/总结/G5K6-7016固件功能开发总结-zhuangxiaodong.md",
+    "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
     "private/daily/2026-10-24（43周）.md",
     "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测模块方案设计.md",
     "private/daily/2026-07-23（30周）.md",
@@ -251,8 +253,6 @@
     "posts/git：删除多个本地提交中间的某个提交.md",
     "private/daily/2026-10-30（44周）.md",
     "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
-    "private/chamsion/doc/2代眼镜-g5t71/充电状态主动上报/充电状态主动上报App对接文档.md",
-    "private/chamsion/code/test/CytG5K6-ble/docs/wifi_hotspot_app_developer.md",
     "attachments/images/418935dfccfb4eef2d5c5bb1287d316b.png",
     "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/trush/47a6f15237e52d364ce9c1e7fd23d0ff.jpg",
     "attachments/images/Pasted image 20261021173223.png"
