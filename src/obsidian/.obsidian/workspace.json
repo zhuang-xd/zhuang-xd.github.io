@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "39415c557bb1fc94",
+        "id": "4f2caa90a07d5f23",
         "type": "tabs",
         "children": [
           {
-            "id": "7c1545e19c68c783",
+            "id": "060c93c657caaf8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -208,8 +208,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7c1545e19c68c783",
+  "active": "060c93c657caaf8e",
   "lastOpenFiles": [
+    "private/chamsion/doc/1代眼镜-g5k61/总结/G5K6-7016固件功能开发总结-zhuangxiaodong.md",
     "private/chamsion/code/jl/out/jl7016g/sdk/objs/apps/earphone/wireless_mic/process/adapter_process.c.o",
     "private/chamsion/code/jl/out/jl7016g/sdk/objs/apps/earphone/wireless_mic/process/adapter_process.c.d",
     "private/chamsion/code/jl/out/jl7016g/sdk/objs/apps/earphone/wireless_mic/process",
@@ -220,9 +221,7 @@
     "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/low_power_debug.c.o",
     "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/trans/CytTrans_core.c.d",
     "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/user_mic_aec_ai.c.o",
-    "private/chamsion/code/jl/out/jl7016g/sdk/objs/User/user_uart_demo.c.o",
     "private/chamsion/doc/2代眼镜-g5t71/总结/G5T7-2800固件功能开发总结-zhuangxiaodong.md",
-    "private/chamsion/doc/1代眼镜-g5k61/总结/G5K6-7016固件功能开发总结-zhuangxiaodong.md",
     "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
     "private/daily/2026-10-24（43周）.md",
     "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测模块方案设计.md",
