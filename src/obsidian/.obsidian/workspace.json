@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/chamsion/doc/2代眼镜-g5t71/新手引导/正式App新手引导开发文档.md",
+                "file": "posts/git：拉取远程代码时和本地代码有冲突的解决方法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "正式App新手引导开发文档"
+              "title": "git：拉取远程代码时和本地代码有冲突的解决方法"
             }
           }
         ]
@@ -176,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "push",
+                "query": "pull",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -210,17 +210,19 @@
   },
   "active": "060c93c657caaf8e",
   "lastOpenFiles": [
-    "private/chamsion/code/CytG5T7/app1111-1.log",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/2026-11-10_11_29_05_sys_log.txt",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/2026-11-10_11_13_10_sys_log.txt",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/2026-11-10_11_09_48_sys_log.txt",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/2026-11-10_11_01_20_sys_log.txt",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/2026-11-10_11_21_35_sys_log.txt",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/2026-11-10_11_29_05_sys_log.txt",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/bk/2026-11-09_21_34_16_sys_log.txt",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/bk/2026-11-09_21_38_29_sys_log.txt",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/bk/2026-11-09_21_43_25_sys_log.txt",
-    "private/chamsion/tools/glass_v2/tdbg_v1.2.1/log/bk/2026-11-09_21_44_37_sys_log.txt",
+    "private/chamsion/code/jl/out/jl7016g/_analysis/app1113-2.log",
+    "private/chamsion/code/jl/out/CytG5K6-ble/app1113-2.log",
+    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/intermediates/javac/debug/classes/com/cyt/g5k6/databinding/ActivityMainBinding.class",
+    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/intermediates/javac/debug/classes/com/cyt/g5k6/MainActivity$11.class",
+    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/intermediates/javac/debug/classes/com/cyt/g5k6/MainActivity$2.class",
+    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/MainActivity$2.class.uniqueId28",
+    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/ActivityResultBinding.class.uniqueId27",
+    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/MainActivity$5.class.uniqueId26",
+    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/MainActivity$11.class.uniqueId25",
+    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/ActivityResolutionSettingsBinding.class.uniqueId15",
+    "private/chamsion/code/jl/out/CytG5K6-ble/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/MainActivity$4.class.uniqueId1",
+    "private/daily/2026-11-13（46周）.md",
+    "private/chamsion/doc/2代眼镜-g5t71/新手引导/正式App新手引导开发文档.md",
     "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测app开发文档.md",
     "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测模块方案设计.md",
     "private/chamsion/doc/2代眼镜-g5t71/2800获取6350版本号/ISP固件版本号修改指引.md",
@@ -244,8 +246,6 @@
     "private/daily/2026-07-16（29周）.md",
     "private/chamsion/doc/2代眼镜-g5t71/设备状态/AI录音-对端开发文档(3).md",
     "private/daily/2026-10-16（42周）.md",
-    "private/daily/2026-10-21（43周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/充电状态主动上报/充电状态主动上报设计方案.md",
     "private/chamsion/code/bt_assistant/logo/图片改黑底.png",
     "private/chamsion/code/bt_assistant/logo/logo.png",
     "private/chamsion/doc/1代眼镜-g5k61/logo/图片改黑底.png",
