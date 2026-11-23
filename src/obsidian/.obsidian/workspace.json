@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9d6335c1224b792f",
+        "id": "89d996bca243d62c",
         "type": "tabs",
         "children": [
           {
-            "id": "df5ee046db36633e",
+            "id": "c107b08f0caa4f31",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "private/chamsion/doc/智能眼镜按键及交互定义V1.3.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "智能眼镜按键及交互定义V1.3"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -197,33 +195,34 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "df5ee046db36633e",
+  "active": "c107b08f0caa4f31",
   "lastOpenFiles": [
-    "private/chamsion/code/jl/out/CytG5K6-ble/app1120-4.log",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app1120-3.log",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app1120-g2-1.log",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app1120-g2.log",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app1120.log",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app1119-10.log",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app1119-9.log",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app1119-8.log",
-    "private/chamsion/code/jl/out/CytG5K6-ble/app1119-7.log",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/flash-menu-template-2800BPZE7-Glass-test-bin-0072.bat",
-    "private/chamsion/tools/glass_v2/write_flash_command_2800BP_20250616/flash-menu-template-2800BPZE7-Glass-test-bin-7788 - 副本.bat",
+    "posts/未命名.base",
+    "private/chamsion/doc/1代眼镜-g5k61/ota/杰理OTA外接库开发文档(Android)_v1.11.0.pdf",
+    "private/chamsion/code/jl/out/jl7016g/sdk/user/trans/err.log.temp",
+    "private/chamsion/code/jl/out/jl7016g/sdk/user/trans/err.log",
+    "private/chamsion/code/jl/out/jl7016g/sdk/user/trans/run.log",
+    "private/chamsion/code/jl/out/jl7016g/sdk/user/trans/in.txt",
+    "private/chamsion/code/jl/out/jl7016g/sdk/user/trans/code.exe",
+    "private/chamsion/code/jl/out/jl7016g/sdk/user/trans/Unlock.exe",
+    "private/chamsion/code/jl/out/jl7016g/sdk/user/user_uart_demo.c.temp",
+    "private/chamsion/code/jl/out/jl7016g/sdk/user/user_mic_aec_ai.c.temp",
+    "private/chamsion/code/jl/out/jl7016g/sdk/user/user_ble_ai_voice.c.temp",
+    "private/chamsion/code/jl/out/yunqu/Glasses/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp",
+    "private/chamsion/code/jl/out/yunqu/Glasses/app/src/main/res/mipmap-xhdpi/ic_launcher.webp",
+    "private/chamsion/code/jl/out/yunqu/Glasses/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp",
+    "private/chamsion/code/jl/out/yunqu/Glasses/app/src/main/res/mipmap-mdpi/ic_launcher.webp",
+    "private/chamsion/code/jl/out/yunqu/Glasses/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
+    "private/chamsion/code/jl/out/yunqu/Glasses/app/src/main/res/mipmap-xxhdpi/image_logo.png",
+    "private/chamsion/code/jl/out/yunqu/Glasses/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp",
+    "private/chamsion/code/jl/out/yunqu/Glasses/app/src/main/res/mipmap-xxhdpi/img_glass.png",
+    "private/chamsion/code/jl/out/yunqu/Glasses/app/src/main/res/mipmap-xxhdpi/image_scan_glass.png",
+    "private/chamsion/code/jl/out/yunqu/Glasses/app/src/main/res/mipmap-xxhdpi/ic_yuyin.png",
+    "private/daily/2026-11-23（48周）.md",
     "private/chamsion/code/f252/f252代码仓库拉取.md",
     "private/daily/2026-11-19（47周）.md",
     "private/daily/2026-11-17（47周）.md",
     "private/chamsion/code/jl/out/jl7016g/_analysis/ota_app_reconnect/OTA中关闭APP后无法回连分析_20261118.md",
-    "private/chamsion/code/jl/out/jl7016g/_analysis/ota1117/jl_ble_repo/code/PiHome_V1.13.0_SDK_V4.2.0/btsmart/src/pilink/res/drawable-xxhdpi/tab_multimedia_purple.png",
-    "private/chamsion/code/jl/out/jl7016g/_analysis/ota1117/jl_ble_repo/code/PiHome_V1.13.0_SDK_V4.2.0/btsmart/src/pilink/res/mipmap-xxhdpi/ic_btsmart_logo.png",
-    "private/chamsion/code/jl/out/jl7016g/_analysis/ota1117/jl_ble_repo/code/PiHome_V1.13.0_SDK_V4.2.0/btsmart/src/pilink/res/mipmap-xhdpi/ic_btsmart_logo.png",
-    "private/chamsion/code/jl/out/jl7016g/_analysis/ota1117/jl_ble_repo/code/PiHome_V1.13.0_SDK_V4.2.0/btsmart/src/pilink/res/drawable-xxhdpi/tab_eq_purple.png",
-    "private/chamsion/code/jl/out/jl7016g/_analysis/ota1117/jl_ble_repo/code/PiHome_V1.13.0_SDK_V4.2.0/btsmart/src/pilink/res/drawable-xxhdpi/tab_multimedia_gray.png",
-    "private/chamsion/code/jl/out/jl7016g/_analysis/ota1117/jl_ble_repo/code/PiHome_V1.13.0_SDK_V4.2.0/btsmart/src/pilink/res/drawable-xxhdpi/tab_eq_gray.png",
-    "private/chamsion/code/jl/out/jl7016g/_analysis/ota1117/jl_ble_repo/code/PiHome_V1.13.0_SDK_V4.2.0/btsmart/src/pilink/res/drawable-xxhdpi/tab_device_purple.png",
-    "private/chamsion/code/jl/out/jl7016g/_analysis/ota1117/jl_ble_repo/code/PiHome_V1.13.0_SDK_V4.2.0/btsmart/src/pilink/res/drawable-xxhdpi/tab_device_gray.png",
-    "private/chamsion/code/jl/out/jl7016g/_analysis/ota1117/jl_ble_repo/code/PiHome_V1.13.0_SDK_V4.2.0/btsmart/src/pilink/res/drawable-xxhdpi/ic_usb_red.png",
-    "private/chamsion/code/jl/out/jl7016g/_analysis/ota1117/jl_ble_repo/code/PiHome_V1.13.0_SDK_V4.2.0/btsmart/src/pilink/res/drawable-xxhdpi/ic_star_box_gray.png",
     "private/chamsion/code/jl/out/jl7016g/_analysis/ota1117/bt_demo/ATTConnect/README_en.md",
     "private/chamsion/code/jl/out/jl7016g/_analysis/ota1117/bt_demo/ATTConnect/README.md",
     "private/chamsion/code/jl/out/jl7016g/_analysis/ota1117/jl_ota_repo/README_en.md",
@@ -243,7 +242,6 @@
     "private/daily/2026-11-11（46周）.md",
     "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
     "posts/git：用dev分支隔离main上的待提交改动.md",
-    "posts/git：本地dev推送并同步到远程feature.md",
-    "private/chamsion/doc/2代眼镜-g5t71/总结/G5T7-2800固件功能开发总结-zhuangxiaodong.md"
+    "posts/git：本地dev推送并同步到远程feature.md"
   ]
 }
