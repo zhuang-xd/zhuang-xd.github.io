@@ -11,10 +11,24 @@
             "id": "c107b08f0caa4f31",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率开发设计文档.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "视频录制分辨率开发设计文档"
             }
           }
         ]
@@ -162,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "分辨率",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -178,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,6 +210,15 @@
   },
   "active": "c107b08f0caa4f31",
   "lastOpenFiles": [
+    "private/chamsion/tools/glass_v1/3303_burn/g5k6_Flash.img",
+    "private/chamsion/tools/glass_v1/3303_burn/0A515151.img",
+    "private/chamsion/tools/glass_v1/3303_burn/~$K6烧录步骤.doc",
+    "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率app开发文档.md",
+    "private/chamsion/doc/2代眼镜-g5t71/视频录制分辨率/视频录制分辨率开发设计文档.md",
+    "private/daily/2026-07-27（31周）.md",
+    "private/chamsion/code/test/CytG5K6-ble/docs/shabing/拍照识图分辨率设置指令0x71.md",
+    "private/chamsion/code/jl/out/CytG5K6-ble - 副本/docs/shabing/拍照识图分辨率设置指令0x71.md",
+    "private/daily/2026-11-27（48周）.md",
     "posts/未命名.base",
     "private/chamsion/doc/1代眼镜-g5k61/ota/杰理OTA外接库开发文档(Android)_v1.11.0.pdf",
     "private/chamsion/code/jl/out/jl7016g/sdk/user/trans/err.log.temp",
@@ -205,9 +227,6 @@
     "private/chamsion/code/jl/out/jl7016g/sdk/user/trans/in.txt",
     "private/chamsion/code/jl/out/jl7016g/sdk/user/trans/code.exe",
     "private/chamsion/code/jl/out/jl7016g/sdk/user/trans/Unlock.exe",
-    "private/chamsion/code/jl/out/jl7016g/sdk/user/user_uart_demo.c.temp",
-    "private/chamsion/code/jl/out/jl7016g/sdk/user/user_mic_aec_ai.c.temp",
-    "private/chamsion/code/jl/out/jl7016g/sdk/user/user_ble_ai_voice.c.temp",
     "private/chamsion/code/jl/out/yunqu/Glasses/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp",
     "private/chamsion/code/jl/out/yunqu/Glasses/app/src/main/res/mipmap-xhdpi/ic_launcher.webp",
     "private/chamsion/code/jl/out/yunqu/Glasses/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp",
@@ -236,12 +255,6 @@
     "private/daily/2026-11-13（46周）.md",
     "private/chamsion/doc/2代眼镜-g5t71/新手引导/正式App新手引导开发文档.md",
     "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测app开发文档.md",
-    "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测模块方案设计.md",
-    "private/chamsion/doc/2代眼镜-g5t71/2800获取6350版本号/ISP固件版本号修改指引.md",
-    "private/chamsion/doc/2代眼镜-g5t71/2800获取6350版本号/2800获取6350版本号实现说明.md",
-    "private/daily/2026-11-11（46周）.md",
-    "private/chamsion/doc/2代眼镜-g5t71/备忘.md",
-    "posts/git：用dev分支隔离main上的待提交改动.md",
-    "posts/git：本地dev推送并同步到远程feature.md"
+    "private/chamsion/doc/2代眼镜-g5t71/佩戴检测/佩戴检测模块方案设计.md"
   ]
 }
